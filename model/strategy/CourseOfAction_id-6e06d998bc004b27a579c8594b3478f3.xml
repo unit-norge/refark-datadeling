@@ -1,0 +1,38 @@
+<archimate:CourseOfAction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tiltak 33: Økt sikkerhet i ekomnett"
+    id="id-6e06d998bc004b27a579c8594b3478f3"
+    documentation="Ekomnett bærer stadig større samfunnsverdier. Et utfall i ekomnett kan få alvorlige konsekvenser på de aller fleste samfunnsområder og for kritiske samfunnsfunksjoner. SD har igangsatt et arbeid med å utrede ulike tiltak for å øke sikkerheten i norske ekomnett. Det skal blant annet vurderes om det bør tydeliggjøres krav til eierne av nettene, herunder om det bør stilles tydeligere krav til sikkerhet knyttet til utstyrsleverandører av ekominfrastruktur som bærer av kritiske samfunnsfunkjoner.&#xD;&#xA;&#xD;&#xA;Ansvarlig virksomhet: SD og Nkom&#xD;&#xA;Gjennomføres: Oppstart 2018&#xD;&#xA;&#xD;&#xA;">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:course-of-action"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="digdir:link1"
+      value="https://www.regjeringen.no/contentassets/c57a0733652f47688294934ffd93fc53/tiltaksoversikt---nasjonal-strategi-for-digital-sikkerhet.pdf#183321-Justisdep-Tiltaksoversikt.indd%3A.13679%3A680"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Tiltak 33: Økt sikkerhet i ekomnett"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:CourseOfAction>

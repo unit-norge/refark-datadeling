@@ -1,0 +1,38 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Anbefaling 6: Sikker konfigurasjon "
+    id="id-7f06d74e6f6c441c8d2569c0997c0971"
+    documentation="For at ansatte skal jobbe effektivt og ha tillit til arbeidsverktøyene, må IKT-systemene kunne stoles på. Dette gjøres ved å etablere tillitsverdige systemer og tjenester, konfigurere og tilpasse maskin- og programvare og verifisere at konfigurasjonen er riktig. Svake ledd i oppsett og konfigurering av IKT-systemer kan utnyttes av trusselaktører og gir økt risiko for uforutsette hendelser. Konfigureringen må oppdateres kontinuerlig, i takt med endringer i teknologi, bruksmønsterog trusselbilde.&#xD;&#xA;&#xD;&#xA;Start-tips: Oppgrader program- og maskinvare. Fjern unødvendig kompleksitet og ubrukt funksjonalitet. Blokker kjøring av ikke-autoriserte programmer.">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:principle"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="digdir:link1"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Anbefaling 6: Sikker konfigurasjon "/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="For at ansatte skal jobbe effektivt og ha tillit til arbeidsverktøyene, må IKT-systemene kunne stoles på. Dette gjøres ved å etablere tillitsverdige systemer og tjenester, konfigurere og tilpasse maskin- og programvare og verifisere at konfigurasjonen er riktig. Svake ledd i oppsett og konfigurering av IKT-systemer kan utnyttes av trusselaktører og gir økt risiko for uforutsette hendelser. Konfigureringen må oppdateres kontinuerlig, i takt med endringer i teknologi, bruksmønsterog trusselbilde.&#xD;&#xA;&#xD;&#xA;Start-tips: Oppgrader program- og maskinvare. Fjern unødvendig kompleksitet og ubrukt funksjonalitet. Blokker kjøring av ikke-autoriserte programmer."/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Principle>

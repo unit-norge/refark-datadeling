@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UHF API katalog"
+    id="id-79d5bb2a2ac64ca2a82207bcfd2945b6"
+    documentation="Oversikt over alle API som er registrert i UH/F sektoren&#xD;&#xA;&#xD;&#xA;UH/F API katalog kan inneholde&#xD;&#xA;&#xD;&#xA;  * Navn på API&#xD;&#xA;  * Tekstlig beskrivelse av API&#xD;&#xA;  * Informasjonsmodell / Datamodell for API som tilbys &#xD;&#xA;  * Kildeinformasjon for data, begrepsinformasjon&#xD;&#xA;  * Eksempelkode, interaktiv API-konsoll og sandkasse for test&#xD;&#xA;  * Informasjon om hvordan få support og hjelp fra utsteder&#xD;&#xA; * Informasjon om tilgang, juridiske og tekniske begrensinger for bruk. Inkluderer hvilke rettighetter (OAuth2 scopes) en konsument kan få til et API.&#xD;&#xA; * Grensesnitt for å presentere APIer&#xD;&#xA; * Grensesnitt for å søke etter APIer">
+  <properties
+      key="difi:abstractionLevel"
+      value="abb"/>
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+  <properties
+      key="modelx:antora_component"
+      value="null"/>
+  <properties
+      key="modelx:antora_version"
+      value="null"/>
+  <properties
+      key="modelx:antora_module"
+      value="null"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,36 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Nasjonal koordinator for CEF og  ISA2"
+    id="29dddd79-7f79-410f-bcca-b01842fd4f65"
+    documentation="&quot;Et viktig forutsetning for å realisere et digitalt indre marked er å etablere og forvalte en felles IKT-infrastruktur på tvers av landegrensene i Europa. Dette er målsettingen for EU-programmet ISA² og delen av CEF-programmet som gjelder digitale tjenesteinfrastrukturer.  Norsk deltakelse i programmene skal gi norske aktører muligheten til å medvirke utviklingen av den felles infrastrukturen og koble sine løsninger til den.&#xD;&#xA;&#xD;&#xA;Gjennom deltakelse i EU-programmene skal Norge:&#xD;&#xA;&#xD;&#xA;- få mest mulig tilbake for investeringen i programmene.&#xD;&#xA;- medvirke til å sikre at rammebetingelsene for den europeiske infrastrukturen er i tråd med norske interesser&#xD;&#xA;- delta praktisk i utvikling av den digitale infrastrukturen&#xD;&#xA;- informere relevante aktører om mulighetene i programmene og oppfordre aktører til å ta produktene i bruk.&quot;">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:product"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Nasjonal koordinator for CEF og  ISA2"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="&quot;Et viktig forutsetning for å realisere et digitalt indre marked er å etablere og forvalte en felles IKT-infrastruktur på tvers av landegrensene i Europa. Dette er målsettingen for EU-programmet ISA² og delen av CEF-programmet som gjelder digitale tjenesteinfrastrukturer.  Norsk deltakelse i programmene skal gi norske aktører muligheten til å medvirke utviklingen av den felles infrastrukturen og koble sine løsninger til den.&#xD;&#xA;&#xD;&#xA;Gjennom deltakelse i EU-programmene skal Norge:&#xD;&#xA;&#xD;&#xA;- få mest mulig tilbake for investeringen i programmene.&#xD;&#xA;- medvirke til å sikre at rammebetingelsene for den europeiske infrastrukturen er i tråd med norske interesser&#xD;&#xA;- delta praktisk i utvikling av den digitale infrastrukturen&#xD;&#xA;- informere relevante aktører om mulighetene i programmene og oppfordre aktører til å ta produktene i bruk.&quot;"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Product>

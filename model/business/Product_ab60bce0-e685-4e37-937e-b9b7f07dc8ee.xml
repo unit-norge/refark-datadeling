@@ -1,0 +1,36 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ELMA"
+    id="ab60bce0-e685-4e37-937e-b9b7f07dc8ee"
+    documentation="Evne til på forespørsel å levere de nødvendige metadata (forsendelseskanal/adresse og dokumenttype) for foretaks-til-foretaks-kommunikasjon innenfor Peppol-nettverket. I ELMA finner du bl.a. en oversikt over alle virksomheter i Norge som kan motta elektroniske fakturaer i henhold til EHF-standarden. ELMA er en instans av Capability Lookup funksjonen i referansearkitekturen for eMelding. Peppol er et eksempel på en løsningsarkitektur baseret på referansearkitekturen for eMelding.">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:product"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="ELMA"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Evne til på forespørsel å levere de nødvendige metadata (forsendelseskanal/adresse og dokumenttype) for foretaks-til-foretaks-kommunikasjon innenfor Peppol-nettverket. I ELMA finner du bl.a. en oversikt over alle virksomheter i Norge som kan motta elektroniske fakturaer i henhold til EHF-standarden. ELMA er en instans av Capability Lookup funksjonen i referansearkitekturen for eMelding. Peppol er et eksempel på en løsningsarkitektur baseret på referansearkitekturen for eMelding."/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Product>

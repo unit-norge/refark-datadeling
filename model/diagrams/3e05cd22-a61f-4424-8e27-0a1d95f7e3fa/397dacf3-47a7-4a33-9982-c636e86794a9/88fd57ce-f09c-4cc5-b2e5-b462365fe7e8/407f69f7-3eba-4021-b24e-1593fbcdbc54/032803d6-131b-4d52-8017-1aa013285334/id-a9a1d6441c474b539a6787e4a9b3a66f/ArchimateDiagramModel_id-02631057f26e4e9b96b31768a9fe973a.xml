@@ -1,0 +1,22 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Shared database integration style"
+    id="id-02631057f26e4e9b96b31768a9fe973a">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-aa2c9b9a45204bcaa682133e62f4ef32"
+      textPosition="1">
+    <features
+        name="gradient"
+        value="1"/>
+    <bounds
+        x="20"
+        y="40"
+        width="137"
+        height="71"/>
+    <archimateElement
+        xsi:type="archimate:Resource"
+        href="Resource_339cd326-a06d-46db-8939-e60817bd992f.xml#339cd326-a06d-46db-8939-e60817bd992f"/>
+  </children>
+</archimate:ArchimateDiagramModel>

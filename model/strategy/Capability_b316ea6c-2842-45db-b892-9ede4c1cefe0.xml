@@ -1,0 +1,34 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Skape oversikt over datasettenes kvalitet og prosesser for å sikre kvaliteten"
+    id="b316ea6c-2842-45db-b892-9ede4c1cefe0">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Skape oversikt over datasettenes kvalitet og prosesser for å sikre kvaliteten"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Capability>

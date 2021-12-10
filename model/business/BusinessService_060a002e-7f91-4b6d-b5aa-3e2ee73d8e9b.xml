@@ -1,0 +1,34 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="e-læringskurs for å få økt forståelse for leders ansvar for informasjonssikkerhet og hvorfor det lønner seg å ta informasjonssikkerhet på alvor"
+    id="060a002e-7f91-4b6d-b5aa-3e2ee73d8e9b">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:business-service"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="e-læringskurs for å få økt forståelse for leders ansvar for informasjonssikkerhet og hvorfor det lønner seg å ta informasjonssikkerhet på alvor"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:BusinessService>

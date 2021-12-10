@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Definetretilgang til API basert på konsumentens enhet "
+    id="id-49f5043fd10e444cb8debba87ddb3657">
+  <properties
+      key="difi:namespace"
+      value="Felles økosystem"/>
+</archimate:Capability>

@@ -1,0 +1,36 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Referansearkitekturer for datautveksling"
+    id="8b24dbf1-8b0f-4c01-91ae-9069b9bbcb80"
+    documentation="Referansearkitekturer er beste praksis for hvordan man løser avgrensede, men gjentakende, problemstillinger. Referansearkitekturene knyttet til samhandlingdmønstrene eMelding, eOppslag og eNotifikasjon er eksempler på dette.">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:product"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Referansearkitekturer for datautveksling"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Referansearkitekturer er beste praksis for hvordan man løser avgrensede, men gjentakende, problemstillinger. Referansearkitekturene knyttet til samhandlingdmønstrene eMelding, eOppslag og eNotifikasjon er eksempler på dette."/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Product>

@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Torget for digitale fellesløsninger"
+    id="id-63089135a1a74e3ca8b05f2e808d9158">
+  <properties
+      key="difi:abstractionLevel"
+      value="sbb"/>
+</archimate:ApplicationComponent>

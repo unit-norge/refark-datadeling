@@ -1,0 +1,34 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Samlet oversikt over nasjonale fellesløsninger som allerede er utviklet og som offentlige virksomheter kan gjenbruke"
+    id="b0ed7c2d-c6f4-47c5-a09e-d388ab3525ef">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:business-service"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Samlet oversikt over nasjonale fellesløsninger som allerede er utviklet og som offentlige virksomheter kan gjenbruke"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:BusinessService>

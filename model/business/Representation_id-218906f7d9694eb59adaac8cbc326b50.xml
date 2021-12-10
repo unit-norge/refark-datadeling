@@ -1,0 +1,37 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Plakat: Nasjonal strategi for digital sikkerhet (PDF)"
+    id="id-218906f7d9694eb59adaac8cbc326b50">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:representation"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="digdir:link1"
+      value="https://www.regjeringen.no/contentassets/c57a0733652f47688294934ffd93fc53/plakat-nasjonal-strategi-for-digital-sikkerhet.pdf"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Plakat: Nasjonal strategi for digital sikkerhet (PDF)"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Representation>

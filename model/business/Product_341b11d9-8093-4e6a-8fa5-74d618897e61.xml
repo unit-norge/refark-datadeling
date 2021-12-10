@@ -1,0 +1,36 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digital post til innbygger (DPI)"
+    id="341b11d9-8093-4e6a-8fa5-74d618897e61"
+    documentation="Felles løsning for offentlige virksomheter for å sende brev digitalt til innbygger. Løsningen omfatter en oppslagstjeneste og register for kontaktinformasjon, transportinfrastruktur og digitale postkasser samt mulighet for papirbrev til de innbyggere som ikke kan eller ønsker å motta digitale brev">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:product"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Digital post til innbygger (DPI)"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Felles løsning for offentlige virksomheter for å sende brev digitalt til innbygger. Løsningen omfatter en oppslagstjeneste og register for kontaktinformasjon, transportinfrastruktur og digitale postkasser samt mulighet for papirbrev til de innbyggere som ikke kan eller ønsker å motta digitale brev"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Product>

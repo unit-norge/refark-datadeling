@@ -1,0 +1,36 @@
+<archimate:CourseOfAction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vurdere behovet for å etablere en CERT-funksjon for økosystemet"
+    id="35a39128-8452-45c8-9beb-242a92478107">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:course-of-action"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="digdir:link1"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Vurdere behovet for å etablere en CERT-funksjon for økosystemet"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:CourseOfAction>

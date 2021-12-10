@@ -1,0 +1,24 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Be om oppdatering  - løsningsmønster i UHF sektoren "
+    id="id-7f90b61b8473481190266f9b1af65bdc"
+    documentation="En prosessflyt en konsument utfører når det utføres et tjenestekall for å innhente data gjennom et API. API-adressen hentes i API-katalogen. Tilgang til APIet byttes inn mot et kjøretids-token i autoriseringstjenesten. Tjenestekall til APIet utføres gjennom API gateway der tokenet benyttes for å få tilgang. Dersom det er et åpent API er det kun relevante prossessteg som utføres.&#xD;&#xA;">
+  <properties
+      key="dct:type"
+      value="modelx:archimate_view"/>
+  <properties
+      key="modelx:view_reference"
+      value="id-b1b13a51bad84a9bb7d56f6dec618e13"/>
+  <properties
+      key="drill down"
+      value="id-b1b13a51bad84a9bb7d56f6dec618e13"/>
+  <properties
+      key="modelx:antora_component"
+      value="unit-ra"/>
+  <properties
+      key="modelx:antora_version"
+      value="main"/>
+  <properties
+      key="modelx:antora_module"
+      value="unit-ra-datadeling-datautveksling"/>
+</archimate:Representation>

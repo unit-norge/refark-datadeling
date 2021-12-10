@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FIKS IO"
+    id="id-768761ab48754daab0799a3ac5a41752"
+    documentation="FIKS IO er en tjeneste for sikker maskin-til-maskin integrasjon. Tjenesten kan benyttes for å bygge&#xD;&#xA;prosesser på tvers av systemer og organisasjoner, for eksempel når et fagsystem skal arkivere et&#xD;&#xA;dokument i et arkivsystem eller spørre om informasjon som er lagret i et annet system.&#xD;&#xA;"/>

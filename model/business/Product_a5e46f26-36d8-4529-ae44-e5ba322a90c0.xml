@@ -1,0 +1,36 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Innovation@Altinn"
+    id="a5e46f26-36d8-4529-ae44-e5ba322a90c0"
+    documentation="Innovation@altinn er Altinns innovasjonsfelleskap der alle kan delta, og består av &#xD;&#xA;start-up miljøer, akademia og forskning, løsningsleverandører og offentlige etater. &#xD;&#xA;Gir innovasjonsnettverket mulighet til å samhandle rundt en bred idéportefølje">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:product"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Innovation@Altinn"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Gir innovasjonsnettverket mulighet til å samhandle rundt en bred idéportefølje"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Product>

@@ -1,0 +1,35 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Redegjøre for etterlevelse"
+    id="52cd85ac-cdbb-4ab6-a9ff-f951ebb2182e">
+  <properties
+      key="difi:name_no"
+      value="Svare på forespørsler om etterlevelse"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_en"
+      value="Provision of compliance evidence on request"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Capability>

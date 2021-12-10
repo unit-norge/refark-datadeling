@@ -1,0 +1,35 @@
+<archimate:Resource
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Patterns for data analysis"
+    id="074d649a-ae4b-4f82-b4ba-9cbb43c22a71">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Mønstre for dataanalyse"/>
+  <properties
+      key="difi:name_en"
+      value="Mønstre for dataanalyse"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:grouping"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Resource>

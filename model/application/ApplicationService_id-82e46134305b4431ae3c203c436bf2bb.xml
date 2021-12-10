@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tildel rettigheter til konsument"
+    id="id-82e46134305b4431ae3c203c436bf2bb"
+    documentation="Datakonsument skal kunne finne&#xD;&#xA;tilgjengelige ressurser og be om tilgang til disse. Tilgang kan gis på&#xD;&#xA;grunnlag av eksisterende tillit til datakonsumenten eller per&#xD;&#xA;tilgangsforespørsel der ressurseieren beslutter tilgang.">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:ApplicationService>

@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Meldingsemne (kø/topic)"
+    id="id-c3aeec26672b43cbb27cbaa16ae94ba6"
+    documentation="En kø med et emne der datatilbyder publiserer notifikasjoner og datakonsumenter kan abonnere på dette "/>

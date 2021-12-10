@@ -1,0 +1,5 @@
+<archimate:ApplicationCollaboration
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Meldingsformidler (xMQ - system software)"
+    id="id-6549bb1a39934446a612d23720b787dc"
+    documentation="Message broker, som ActiveMQ, RabbitMQ etc"/>

@@ -1,0 +1,38 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Anbefaling 2: Risikostyring"
+    id="id-bcfeb92037444fdbb7d6f270c0deb2c5"
+    documentation="Etabler en prosess for risikostyring i virksomheten som er en del av en helhetlig styringsstruktur. Prosessen for risikostyring må være kjent i virksomheten. Målet er at ansatte kjenner virksomhetens risikostyring, hvordan beslutninger tas og hvilket risikonivå som er akseptabelt.&#xD;&#xA;&#xD;&#xA;Det er viktig å ha gode føringer for hvordan man skal forstå og vurdere risiko, hvilke kriterier som gjelder for å akseptere risiko, og hvem som skal ta beslutninger basert på identifisert risiko. Dette er viktig for å sikre at avgjørelser om risiko tas på riktig nivå og grunnlag. Risikostyring for digital sikkerhet bør inngå som del av den helhetlige risikostyringen i virksomheten. Etabler derfor prosesser for å evaluere og kvalitetssikre sikkerhetstiltak, hvor resultatene rapporteres til ledelsen.&#xD;&#xA;&#xD;&#xA;Start-tips: Inkluder digital sikkerhet i virksomhetens risikoarbeid. Etabler tydelig ansvari virksomheten, og effektive rapporteringslinjer til toppledelse og styre.">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:principle"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="digdir:link1"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Anbefaling 2: Risikostyring"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Etabler en prosess for risikostyring i virksomheten som er en del av en helhetlig styringsstruktur. Prosessen for risikostyring må være kjent i virksomheten. Målet er at ansatte kjenner virksomhetens risikostyring, hvordan beslutninger tas og hvilket risikonivå som er akseptabelt.&#xD;&#xA;&#xD;&#xA;Det er viktig å ha gode føringer for hvordan man skal forstå og vurdere risiko, hvilke kriterier som gjelder for å akseptere risiko, og hvem som skal ta beslutninger basert på identifisert risiko. Dette er viktig for å sikre at avgjørelser om risiko tas på riktig nivå og grunnlag. Risikostyring for digital sikkerhet bør inngå som del av den helhetlige risikostyringen i virksomheten. Etabler derfor prosesser for å evaluere og kvalitetssikre sikkerhetstiltak, hvor resultatene rapporteres til ledelsen.&#xD;&#xA;&#xD;&#xA;Start-tips: Inkluder digital sikkerhet i virksomhetens risikoarbeid. Etabler tydelig ansvari virksomheten, og effektive rapporteringslinjer til toppledelse og styre."/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Principle>

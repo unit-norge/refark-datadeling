@@ -1,0 +1,14 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mønstre for datautveksling"
+    id="id-5e3a70dd834242af9d19eee28dacf359">
+  <properties
+      key="modelx:antora_component"
+      value="unit-ra"/>
+  <properties
+      key="modelx:antora_version"
+      value="main"/>
+  <properties
+      key="modelx:antora_module"
+      value="Bøker"/>
+</archimate:Representation>

@@ -1,0 +1,36 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Avgi data"
+    id="5001e059-42cb-4f25-bfb8-f4f5245dbf7e"
+    documentation="Avgi data på forespørsel&#xD;&#xA;Sende data&#xD;&#xA;Publisere data">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Avgi data"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Avgi data på forespørsel&#xD;&#xA;Sende data&#xD;&#xA;Publisere data"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}]"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Capability>

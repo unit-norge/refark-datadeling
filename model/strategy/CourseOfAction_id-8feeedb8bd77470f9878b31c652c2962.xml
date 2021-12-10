@@ -1,0 +1,40 @@
+<archimate:CourseOfAction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sammenhengende tjenester innenfor 7 livshendelser"
+    id="id-8feeedb8bd77470f9878b31c652c2962">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:course-of-action"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="digdir:link1"
+      value="https://www.digdir.no/digitalisering-og-samordning/sammenhengende-tjenester-innenfor-7-livshendelser/1294"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Sammenhengende tjenester innenfor 7 livshendelser"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+  <properties
+      key="drill down"
+      value="id-051feacc5aa94bba8ea7935486bc6bb4"/>
+</archimate:CourseOfAction>

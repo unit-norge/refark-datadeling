@@ -1,0 +1,38 @@
+<archimate:ValueStream
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Utfør steg i samhandlingsprosess"
+    id="5d5e756b-7d3b-4d0c-9f3a-a73aadc4ba9d">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:value-stream"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Utfør steg i samhandlingsprosess"/>
+  <properties
+      key="difi:name_en"
+      value="Operate part of integrated process"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:notes"/>
+  <properties
+      key="drill down"
+      value="3c9586f5-3098-4147-a9cc-eaf8594f626f"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:ValueStream>

@@ -1,0 +1,39 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Nasjonalt ressurssenter for deling av data"
+    id="id-92040e391ef04d3089f68ab3a2e18460"
+    documentation="Nasjonalt ressurssenter for deling av data har spisskompetanse på sammenhengen mellom juss,&#xD;&#xA;teknologi, forretnings- og forvaltningsprosesser som læremiljø og kompetansebank. Dette gir juridisk og organisatorisk samhandlingsevne.">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:business-actor"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="digdir:link1"
+      value="https://www.digdir.no/digitalisering-og-samordning/nasjonalt-ressurssenter-deling-av-data/1914"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Nasjonalt ressurssenter for deling av data"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Nasjonalt ressurssenter for deling av data har spisskompetanse på sammenhengen mellom juss,&#xD;&#xA;teknologi, forretnings- og forvaltningsprosesser som læremiljø og kompetansebank. Dette gir juridisk og organisatorisk samhandlingsevne."/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:BusinessActor>

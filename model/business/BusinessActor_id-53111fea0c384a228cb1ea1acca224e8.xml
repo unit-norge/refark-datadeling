@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sluttbruker"
+    id="id-53111fea0c384a228cb1ea1acca224e8"
+    documentation="Personen som skal tildeles tilgang til beskyttede ressurser basert på identitet, roller og annen kontekst.">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:BusinessActor>

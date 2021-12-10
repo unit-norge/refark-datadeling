@@ -1,0 +1,33 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Backlog"
+    id="8e2d8c5c-74f5-40f0-9076-81211f0453cd">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="499a5dcd-6710-4ae0-b9ba-6807a089dcde"
+      textAlignment="1"
+      content="Denne må vi se på sammen!">
+    <bounds
+        x="348"
+        y="80"
+        width="185"
+        height="80"/>
+  </children>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Backlog"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:antoraViewPath"/>
+  <properties
+      key="difi:antoraViewImagePath"/>
+</archimate:ArchimateDiagramModel>

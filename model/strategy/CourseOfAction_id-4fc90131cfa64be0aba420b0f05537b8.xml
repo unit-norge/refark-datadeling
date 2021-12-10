@@ -1,0 +1,38 @@
+<archimate:CourseOfAction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tiltak 31: Nasjonal kjerneinfrastruktur"
+    id="id-4fc90131cfa64be0aba420b0f05537b8"
+    documentation="For ekomsektoren er det særlig viktig å fortsette arbeidet med å øke diversitet og robusthet i ekomnettene innenlands og til viktige punkter i utlandet. I «Nasjonal Transportplan 2018-2029» er det lagt inn en satsing på en pilot som skal stimulere markedet til å øke redundansen i transportdelen av ekomnettene innenlands. Det ble bevilget 40 mill. kroner i 2018. Denne bevilgningen er videreført i 2019. Nkom har i 2018 på oppdrag fra og i samråd med SD jobbet med å spesifisere og igangsette pilotprogrammene.&#xD;&#xA;&#xD;&#xA;Ansvarlig virksomhet: SD og Nkom&#xD;&#xA;Gjennomføres: 2018-2020">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:course-of-action"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="digdir:link1"
+      value="https://www.regjeringen.no/contentassets/c57a0733652f47688294934ffd93fc53/tiltaksoversikt---nasjonal-strategi-for-digital-sikkerhet.pdf#183321-Justisdep-Tiltaksoversikt.indd%3A.13671%3A678"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Tiltak 31: Nasjonal kjerneinfrastruktur"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:CourseOfAction>

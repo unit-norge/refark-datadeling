@@ -1,0 +1,37 @@
+<archimate:ValueStream
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Utvikle, drift og forvalt tverrgående prosess"
+    id="bfad57d0-27f2-4b84-917f-a6b6566a6141">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:value-stream"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Utvikle, drift og forvalt tverrgående prosess"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+  <properties
+      key="drill down"
+      value="0d0713f0-321f-44fa-b51f-9f003c1c5dc9"/>
+</archimate:ValueStream>

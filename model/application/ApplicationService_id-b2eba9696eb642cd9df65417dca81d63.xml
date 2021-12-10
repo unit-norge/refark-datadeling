@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Godkjenn tilgang"
+    id="id-b2eba9696eb642cd9df65417dca81d63"
+    documentation="Tjeneste for å vurdere og eventuelt gi tilgang til en konsument som ber om tilgang. En tjeneste i UHF Ressursportalen benyttes som lar dataforvalteren beslutte tilgang, enten gjennom en automatisert policy eller gjennom en manuell behandling. ">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:ApplicationService>

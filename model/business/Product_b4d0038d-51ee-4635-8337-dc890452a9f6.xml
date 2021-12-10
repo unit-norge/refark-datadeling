@@ -1,0 +1,36 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Felles datakatalog"
+    id="b4d0038d-51ee-4635-8337-dc890452a9f6"
+    documentation="Felles Datasettkatalog er en løsning som gir oversikt over datasett i offentlig sektor, enten de er offentlige åpne data eller begrenset offentlighet. Katalogen adresserer behovet for å oppdage datasett, evaluere om datasettene kan benyttes i den aktuelle konteksten og tilgang til datasett gjennom API-er.">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:product"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Felles datakatalog"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Felles Datasettkatalog er en løsning som gir oversikt over datasett i offentlig sektor, enten de er offentlige åpne data eller begrenset offentlighet. Katalogen adresserer behovet for å oppdage datasett, evaluere om datasettene kan benyttes i den aktuelle konteksten og tilgang til datasett gjennom API-er."/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Product>

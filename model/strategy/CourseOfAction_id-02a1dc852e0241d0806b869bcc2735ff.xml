@@ -1,0 +1,40 @@
+<archimate:CourseOfAction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Utrede mulig plikt til å publisere åpne offentlige data"
+    id="id-02a1dc852e0241d0806b869bcc2735ff">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:course-of-action"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="digdir:link1"
+      value="https://www.digdir.no/digitalisering-og-samordning/okt-deling-av-data-og-verdiskaping/1228#initiativ_utrede_mulig_plikt_til_aa_publisere_aapne_offentlige_data"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Utrede mulig plikt til å publisere åpne offentlige data"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+  <properties
+      key="drill down"
+      value="id-fa08d4d386634a1d91a49557d92fe3a0"/>
+</archimate:CourseOfAction>

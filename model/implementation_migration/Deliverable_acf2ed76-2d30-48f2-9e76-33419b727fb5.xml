@@ -1,0 +1,36 @@
+<archimate:Deliverable
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Samordnede tildelingsbrev til statlige forvaltere av de nasjonale fellesløsningene"
+    id="acf2ed76-2d30-48f2-9e76-33419b727fb5">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:deliverable"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="digdir:link1"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Samordnede tildelingsbrev til statlige forvaltere av de nasjonale fellesløsningene"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Deliverable>

@@ -1,0 +1,21 @@
+<archimate:ArchimateDiagramModel
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Priority queuing pattern"
+    id="73eb1beb-a789-437b-a2e7-fdf2ff0ba4f0">
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Priority queuing pattern"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:antoraViewPath"/>
+  <properties
+      key="difi:antoraViewImagePath"/>
+</archimate:ArchimateDiagramModel>

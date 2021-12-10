@@ -1,0 +1,36 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Prosjektveiviseren"
+    id="b5b60177-790d-4437-bff2-014dfc4e099a"
+    documentation="Prosjektveiviseren er Difis anbefalte prosjektmodell for styring av digitaliseringsprosjekter i offentlige virksomheter.">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:product"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Prosjektveiviseren"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Prosjektveiviseren er Difis anbefalte prosjektmodell for styring av digitaliseringsprosjekter i offentlige virksomheter."/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Product>

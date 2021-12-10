@@ -1,0 +1,18 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Notifikasjoner"
+    id="id-1bad93305ce84f58a3de6c402d5df05c"
+    documentation="Når en hendelse endrer data hos en datatilbyder, og disse data er deles&#xD;&#xA;gjennom datadeling med notifikasjon, skal det sendes en notifikasjon til&#xD;&#xA;datakonsument. +&#xD;&#xA;Notifikasjoner omhandler hvilke data i det tilhørende API som er endret.&#xD;&#xA;&#xD;&#xA;For å utvikle notifikasjoner følges tilsvarende prosess som for API&#xD;&#xA;over. Det vil si at notifikasjoner, som beskrevet i denne&#xD;&#xA;referansearkitekturen, er knyttet til API der datakonsumenten henter ut&#xD;&#xA;data. Det vesentlige av beskrivelse for datautvekslingen ligger derfor&#xD;&#xA;til utviklingen av API som hører sammen med notifikasjonen.&#xD;&#xA;&#xD;&#xA;Spesielt for notifikasjoner gjelder følgende:&#xD;&#xA;&#xD;&#xA;[arabic]&#xD;&#xA;. Notifikasjonen skal gi en meningsfull indikasjon på hvilke data som er&#xD;&#xA;endret i form av identifikator (nøkkelinformasjon)&#xD;&#xA;. Notifikasjonen skal inneholde en referanse til ressursen (i APIet) der&#xD;&#xA;data kan hentes fra&#xD;&#xA;. Etterstreb å modellere notifikasjoner etter etablerte standarder&#xD;&#xA;. Sørg for at meningen notifikasjonene bærer er godt dokumentert i&#xD;&#xA;notifikasjonskatalogen&#xD;&#xA;. Ressursen, det vil si det API som er knyttet til notifikasjonen, må&#xD;&#xA;være utformet slik at uthenting av data alltid gir siste gyldige&#xD;&#xA;versjon. På den måten vil innhenting hos datakonsument kunne være&#xD;&#xA;idempotent&#xD;&#xA;&#xD;&#xA;Med «idempotent» er det i denne sammenheng ment at man kan kalle på den&#xD;&#xA;samme ressursen flere ganger og alltid få samme resultat.&#xD;&#xA;&#xD;&#xA;Per i dag er https://cloudevents.io/[CloudEvents] den eneste&#xD;&#xA;generaliserte standarden for hvordan notifikasjoner bør utformes.&#xD;&#xA;Referansearkitekturen anbefaler at CloudEvents tas i bruk som&#xD;&#xA;standardformat for notifikasjoner. CloudEvents er utviklet i regi av&#xD;&#xA;https://www.cncf.io[Cloud Native Computing Foundation].&#xD;&#xA;&#xD;&#xA;En notifikasjon utformet etter minstekravene til CloudEvents med JSON&#xD;&#xA;Event Format ser typisk ut:&#xD;&#xA;&#xD;&#xA;____&#xD;&#xA;\{&quot;id&quot;: &quot;935ec740-d4a4-418d-b6c3-282d6fd2305b&quot;,&#xD;&#xA;&#xD;&#xA;&quot;specversion&quot;: &quot;1.0&quot;,&#xD;&#xA;&#xD;&#xA;&quot;time&quot;: &quot;2020-11-19T17:30:41.244Z&quot;,&#xD;&#xA;&#xD;&#xA;&quot;source&quot;: &quot;urn:no-edu-orgreg:ntnu:ou:1260&quot;,&#xD;&#xA;&#xD;&#xA;&quot;type&quot;: &quot;orgreg.v1.ntnu.dev.ou.create&quot;}&#xD;&#xA;____&#xD;&#xA;&#xD;&#xA;I eksempelet på en notifikasjon ovenfor meddeles det at det har blitt&#xD;&#xA;opprettet en organisatorisk enhet ved NTNU med identifikatoren 1260.&#xD;&#xA;&#xD;&#xA;Bruk av et felles notifikasjonsformat tilrettelegger for gjenbruk av&#xD;&#xA;komponenter på tvers av tjenester da en notifikasjon er velstrukturert&#xD;&#xA;og de informasjonsbærende elementer er strengt definert. I de tilfeller&#xD;&#xA;det er nødvendig å inkludere informasjonsbærende elementer som ikke er&#xD;&#xA;inkludert i standarden, er standarden mulig å utvide. Standarden legger&#xD;&#xA;også til rette for en rekke operasjonelle kapabiliteter (eksempelvis&#xD;&#xA;deduplisering) gjennom informasjonselementene som er påkrevet i&#xD;&#xA;standarden.">
+  <properties
+      key="modelx:antora_component"
+      value="unit-ra"/>
+  <properties
+      key="modelx:antora_version"
+      value="main"/>
+  <properties
+      key="modelx:antora_module"
+      value="unit-ra-datadeling-rutiner"/>
+  <properties
+      key="dct:type"
+      value="modelx:section"/>
+</archimate:Representation>

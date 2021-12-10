@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digitalarkivet"
+    id="id-f18a51711525475cac6fe155074a9012"
+    documentation="Digitalarkivet og Arkivportalen gir en oversikt over hvilke historiske data de ulike bevaringsinstitusjonen i Norge forvalter, og hva slags skjermingshjemler som&#xD;&#xA;er knyttet til datasettene. En slik oversikt over datasett og hjemler øker organisatorisk og juridisk&#xD;&#xA;samhandlingsevne ved at det blir lettere å finne datasett og opplysninger om hvem som har tilgang til dem.&#xD;&#xA;&#xD;&#xA;Digitalarkivet og Arkivportalen inneholder arkivbeskrivelser og standardiserte metadata som&#xD;&#xA;understøtter semantisk interoperabilitet. I tillegg kan Digitalarkivet og Arkivportalen brukes for å få tilgang til historiske data, noe som understøtter teknisk interoperabilitet.&#xD;&#xA;&#xD;&#xA;Ny løsning for Digitalarkivet er under utvikling (2020).&#xD;&#xA;&#xD;&#xA;Mer om Digitalarkivet og Arkivportalen:&#xD;&#xA;https://www.digitalarkivet.no/&#xD;&#xA;https://www.arkivportalen.no/"/>

@@ -1,0 +1,38 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Anbefaling 3: Kartlegg verdikjeder, informasjonsverdier, utstyr og brukertilganger"
+    id="id-d1ac9578ff2d4271931166b42a1f6639"
+    documentation="Å kjenne sin egen virksomhet er viktig for å drive effektivt og levere gode tjenester. Kartlegging av mål, leveranser og tjenester vil bidra til at viktige verdikjeder, informasjon og avhengigheter blir identifisert og vurdert. Det er viktig å kartlegge virksomhetens leveranser og verdikjeder, hvilke enheter og programvare virksomheten støtter seg på, og hvilke brukere og brukertilganger som eksisterer. Dersom en virksomhet ikke har god nok oversikt kan enkelte deler av IKT-systemene være godt sikret, mens andre, vitale deler er åpent eksponert og sårbart for digitale angrep.&#xD;&#xA;&#xD;&#xA;Start-tips: Lag en oversikt over virksomhetens sentrale mål, hvilke verdier og verdikjeder som inngår, hvor viktige data lagres og hvem som har tilgang til disse dataene.">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:principle"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="digdir:link1"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Anbefaling 3: Kartlegg verdikjeder, informasjonsverdier, utstyr og brukertilganger"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Å kjenne sin egen virksomhet er viktig for å drive effektivt og levere gode tjenester. Kartlegging av mål, leveranser og tjenester vil bidra til at viktige verdikjeder, informasjon og avhengigheter blir identifisert og vurdert. Det er viktig å kartlegge virksomhetens leveranser og verdikjeder, hvilke enheter og programvare virksomheten støtter seg på, og hvilke brukere og brukertilganger som eksisterer. Dersom en virksomhet ikke har god nok oversikt kan enkelte deler av IKT-systemene være godt sikret, mens andre, vitale deler er åpent eksponert og sårbart for digitale angrep.&#xD;&#xA;&#xD;&#xA;Start-tips: Lag en oversikt over virksomhetens sentrale mål, hvilke verdier og verdikjeder som inngår, hvor viktige data lagres og hvem som har tilgang til disse dataene."/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Principle>

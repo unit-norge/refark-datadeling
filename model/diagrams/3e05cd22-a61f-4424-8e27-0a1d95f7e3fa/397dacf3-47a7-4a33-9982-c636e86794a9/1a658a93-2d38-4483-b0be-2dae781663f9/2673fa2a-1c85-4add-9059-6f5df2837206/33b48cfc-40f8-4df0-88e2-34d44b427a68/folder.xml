@@ -1,0 +1,17 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gammelt"
+    id="33b48cfc-40f8-4df0-88e2-34d44b427a68">
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Gammelt"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+</archimate:Folder>

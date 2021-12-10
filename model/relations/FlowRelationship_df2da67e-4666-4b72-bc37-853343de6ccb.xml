@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="abonnerte notifikasjoner"
+    id="df2da67e-4666-4b72-bc37-853343de6ccb">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_ebe49991-06cd-4621-8493-41fa6f6dcb6f.xml#ebe49991-06cd-4621-8493-41fa6f6dcb6f"/>
+  <target
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_a05021e2-200e-49a8-98bf-c6bb359c477d.xml#a05021e2-200e-49a8-98bf-c6bb359c477d"/>
+</archimate:FlowRelationship>

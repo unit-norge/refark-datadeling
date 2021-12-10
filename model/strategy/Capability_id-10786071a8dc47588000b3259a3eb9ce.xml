@@ -1,0 +1,35 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Redegjøre for dataproviniens"
+    id="id-10786071a8dc47588000b3259a3eb9ce">
+  <properties
+      key="difi:name_no"
+      value="Svare på forespørsler om dataproviniens"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_en"
+      value="Provision of data lineage information on request"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Capability>

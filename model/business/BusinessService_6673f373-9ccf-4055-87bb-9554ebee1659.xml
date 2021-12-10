@@ -1,0 +1,34 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Støtte og delfinansiering av digitaliseringsprosjekter for brukerorientert eksperimentering og nyskaping i forvaltningen"
+    id="6673f373-9ccf-4055-87bb-9554ebee1659">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:business-service"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Støtte og delfinansiering av digitaliseringsprosjekter for brukerorientert eksperimentering og nyskaping i forvaltningen"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:BusinessService>

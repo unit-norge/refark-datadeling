@@ -1,0 +1,35 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Samhandling og tverrgående prosesser"
+    id="d4709b4c-5735-4c12-a0aa-1a5db524d706"
+    documentation="Begrepet _tverrgående prosesser_ omfatter det som i regjeringens digitaliseringsstrategi (2019) omtales som tverrgående digitalisering, tverrgående digitale tjenester, tverrgående initiativer, tverrgående digitaliserings­prosjekter,tverrgående tjenesteutvikling,tverrgående samarbeid">
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Samhandling og tverrgående prosesser"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Capability>

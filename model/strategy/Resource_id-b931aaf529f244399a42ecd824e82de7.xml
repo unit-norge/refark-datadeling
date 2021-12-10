@@ -1,0 +1,5 @@
+<archimate:Resource
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Referansearkitektur IAM"
+    id="id-b931aaf529f244399a42ecd824e82de7"
+    documentation="Referansearkitektur for IAM beskriver mønstre og beste praksis for identitet- og tilgangsstyring. Dette omfatter blant annet bruken av fellestjenester på IAM-området og beskrivelser av tillitskjeder som inngår i økosystemet for samhandling.&#xD;&#xA;&#xD;&#xA;Første del av referansearkitekturen for IAM som skal leveres i løpet av 2020 består av å:&#xD;&#xA; Utarbeide en referansearkitektur og beskrivelse av hvordan man kan håndtere&#xD;&#xA;identitet for spesifikke systemer og entiteter/under-entiteter uten eget organisasjonsnummer.&#xD;&#xA; Utarbeide en veileder i hvordan man kan identifisere en slik enhet. &#xD;&#xA;&#xD;&#xA;Referansearkitektur for IAM gir organisatorisk, semantisk og teknisk samhandlingsevne."/>

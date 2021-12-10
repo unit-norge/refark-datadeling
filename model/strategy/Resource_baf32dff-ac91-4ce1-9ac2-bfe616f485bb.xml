@@ -1,0 +1,27 @@
+<archimate:Resource
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Event Producer"
+    id="baf32dff-ac91-4ce1-9ac2-bfe616f485bb"
+    documentation="This ABB is responsible for generating, publishing, emitting, or producing events.">
+  <properties
+      key="dct:type"
+      value="archi:resource"/>
+  <properties
+      key="difi:namespace"
+      value="togsoara"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Event Producer"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:Resource>

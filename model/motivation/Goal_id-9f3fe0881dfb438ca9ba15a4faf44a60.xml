@@ -1,0 +1,36 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Hindre unødvendige kostnader i forbindelse med informasjonssikkerhetsbrudd"
+    id="id-9f3fe0881dfb438ca9ba15a4faf44a60">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:goal"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="digdir:link1"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Hindre unødvendige kostnader i forbindelse med informasjonssikkerhetsbrudd"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Goal>

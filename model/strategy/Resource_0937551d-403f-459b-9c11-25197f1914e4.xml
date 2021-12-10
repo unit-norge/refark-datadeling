@@ -1,0 +1,27 @@
+<archimate:Resource
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Event Listener"
+    id="0937551d-403f-459b-9c11-25197f1914e4"
+    documentation="This ABB is responsible for registering an interest in a particular type of event; i.e., for subscribing to a particular type of event.">
+  <properties
+      key="dct:type"
+      value="archi:resource"/>
+  <properties
+      key="difi:namespace"
+      value="togsoara"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Event Listener"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:Resource>

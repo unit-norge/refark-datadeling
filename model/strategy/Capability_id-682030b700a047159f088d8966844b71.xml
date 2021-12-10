@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gi tilgang til API basert på sikkerhetstoken"
+    id="id-682030b700a047159f088d8966844b71">
+  <properties
+      key="difi:namespace"
+      value="Felles økosystem"/>
+</archimate:Capability>

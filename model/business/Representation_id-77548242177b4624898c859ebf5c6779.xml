@@ -1,0 +1,23 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Organisering og forvaltning av informasjon i domener for høyskoler, universiteter og forskning (copy)"
+    id="id-77548242177b4624898c859ebf5c6779">
+  <properties
+      key="dct:type"
+      value="modelx:archimate_view"/>
+  <properties
+      key="modelx:antora_component"
+      value="unit-ra"/>
+  <properties
+      key="modelx:antora_version"
+      value="main"/>
+  <properties
+      key="modelx:antora_module"
+      value="unit-ra-datadeling-tilnærming"/>
+  <properties
+      key="modelx:view_reference"
+      value="id-3b92345f88bd44ce8224c6f19063a5ea"/>
+  <properties
+      key="drill down"
+      value="id-3b92345f88bd44ce8224c6f19063a5ea"/>
+</archimate:Representation>

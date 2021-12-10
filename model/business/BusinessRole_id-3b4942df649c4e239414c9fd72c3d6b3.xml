@@ -1,0 +1,9 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Identitetstilbyder"
+    id="id-3b4942df649c4e239414c9fd72c3d6b3"
+    documentation="En part som kan autentisere en person eller&#xD;&#xA;virksomhet. Eksempler på dette er BankID, MinID for personer og utsteder&#xD;&#xA;av virksomhetssertifikat for virksomheter. Dette er en tjeneste som ikke&#xD;&#xA;omfattes av denne referansearkitekturen&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:BusinessRole>

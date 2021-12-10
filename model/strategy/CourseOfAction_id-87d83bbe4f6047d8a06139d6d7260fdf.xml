@@ -1,0 +1,41 @@
+<archimate:CourseOfAction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vurdere å benytte eksisterende datasjøer"
+    id="id-87d83bbe4f6047d8a06139d6d7260fdf"
+    documentation="Regjeringen vil, i samarbeid med KS, vurdere å benytte eksisterende datasjøer (samlinger av store datamengder), herunder regionale og virksomhetsinterne datasjøer, som skal kunne understøtte dataanalyser og tjenesteutvikling.">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:course-of-action"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="digdir:link1"
+      value="https://www.digdir.no/digitalisering-og-samordning/okt-deling-av-data-og-verdiskaping/1228#initiativ_vurdere_aa_benytte_eksisterende_datasjoer"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Vurdere å benytte eksisterende datasjøer"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+  <properties
+      key="drill down"
+      value="id-9a4ddce837764b6fa6e144652ad49cb0"/>
+</archimate:CourseOfAction>

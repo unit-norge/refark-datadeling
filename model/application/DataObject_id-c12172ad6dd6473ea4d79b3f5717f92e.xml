@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Publisert Melding (Transient)"
+    id="id-c12172ad6dd6473ea4d79b3f5717f92e"
+    documentation="Den transiente meldingen som abonnenten leser. &#xD;&#xA;Når meldingen er lest forsvinner den fra innboksen til abonnenten"/>

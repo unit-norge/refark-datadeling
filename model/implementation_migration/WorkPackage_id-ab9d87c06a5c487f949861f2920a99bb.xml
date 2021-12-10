@@ -1,0 +1,37 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DSOP-prosjektet &quot;Oppgjør etter dødsfall&quot;"
+    id="id-ab9d87c06a5c487f949861f2920a99bb">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:work-package"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="digdir:link1"
+      value="https://www.bits.no/project/oppgjor-etter-dodsfall/"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="DSOP-prosjektet &quot;Oppgjør etter dødsfall&quot;"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:WorkPackage>

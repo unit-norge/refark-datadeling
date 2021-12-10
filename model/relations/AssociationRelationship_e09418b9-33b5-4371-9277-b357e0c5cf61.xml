@@ -1,0 +1,42 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="kan bli"
+    id="e09418b9-33b5-4371-9277-b357e0c5cf61"
+    directed="true">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:association-relationship"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="kan bli"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+  <source
+      xsi:type="archimate:Resource"
+      href="Resource_0f6713ae-ccd4-4719-b3d9-bce335e9d806.xml#0f6713ae-ccd4-4719-b3d9-bce335e9d806"/>
+  <target
+      xsi:type="archimate:Resource"
+      href="Resource_b3766205-ba71-43a7-918b-131ecd24803c.xml#b3766205-ba71-43a7-918b-131ecd24803c"/>
+</archimate:AssociationRelationship>

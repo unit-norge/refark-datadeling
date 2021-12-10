@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FIKS SvarUt/SvarInn"
+    id="id-1d7c9fda054d41eea3072614314fcd1d"
+    documentation="Tjenestene SvarUt og SvarInn benyttes for utgående og innkommet post. SvarUt tjenesten formidler post gjennom den kanalen brukeren selv ønsker."/>

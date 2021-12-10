@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Veiviser til offentlige tjenester på nett"
+    id="id-06143c4dd8024a55bb46fad68c35d1d9"
+    documentation="Se https://www.norge.no/">
+  <properties
+      key="difi:abstractionLevel"
+      value="sbb"/>
+</archimate:ApplicationService>

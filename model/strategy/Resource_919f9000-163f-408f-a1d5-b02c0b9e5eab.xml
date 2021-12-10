@@ -1,0 +1,5 @@
+<archimate:Resource
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Event Listener"
+    id="919f9000-163f-408f-a1d5-b02c0b9e5eab"
+    documentation="https://dzone.com/articles/event-sourcingevent-logging-an-essential-microserv&#xD;&#xA;&#xD;&#xA;The code in-charge of executing the respective business logic according to each event type."/>

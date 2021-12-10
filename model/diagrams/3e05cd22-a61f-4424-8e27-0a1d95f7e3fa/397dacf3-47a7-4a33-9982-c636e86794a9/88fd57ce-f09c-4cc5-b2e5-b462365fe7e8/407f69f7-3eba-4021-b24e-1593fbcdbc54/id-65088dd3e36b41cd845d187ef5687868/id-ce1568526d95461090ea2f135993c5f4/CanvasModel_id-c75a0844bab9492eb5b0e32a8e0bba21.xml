@@ -1,0 +1,117 @@
+<canvas:CanvasModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    xmlns:canvas="http://www.archimatetool.com/archimate/canvas"
+    name="Forsendelse - flere til flere kjente"
+    id="id-c75a0844bab9492eb5b0e32a8e0bba21">
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="id-1b0906b0e98a4ad989543b0981ed8dce"
+      font="1|Segoe UI|9.0|1|WINDOWS|1|-15|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      borderColor="#000000"
+      content="Forsendelse - flere til flere kjente">
+    <bounds
+        x="16"
+        y="14"
+        width="300"
+        height="132"/>
+    <children
+        xsi:type="canvas:CanvasModelBlock"
+        id="id-9b756ac1d91d4ea9b5b1e556aa8370cb"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-15|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+        content="Kjente mottakere"
+        textPosition="2">
+      <bounds
+          x="200"
+          y="31"
+          width="97"
+          height="91"/>
+      <children
+          xsi:type="canvas:CanvasModelImage"
+          id="id-7eaa1fead57949e094050e7330b306fc"
+          name="Image"
+          targetConnections="id-7d4877880a154108b5ef182c2386a660"
+          imagePath="images/_oRT-sHVgEeuy8b2PHkkv0Q.png">
+        <bounds
+            x="20"
+            y="10"
+            width="55"
+            height="49"/>
+      </children>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelBlock"
+        id="id-8815ed6304f14866b1ae8727b8eba4a4"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-15|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+        content="Avsendere"
+        textPosition="2">
+      <bounds
+          x="20"
+          y="28"
+          width="97"
+          height="81"/>
+      <children
+          xsi:type="canvas:CanvasModelImage"
+          id="id-e963247d566b47f0ab507c69e69b7005"
+          name="Image"
+          imagePath="images/_YWgesHXrEeuy8b2PHkkv0Q.png">
+        <sourceConnections
+            xsi:type="canvas:CanvasModelConnection"
+            id="id-943af03c206347fba30509105f14b910"
+            lineWidth="3"
+            source="id-e963247d566b47f0ab507c69e69b7005"
+            target="id-5b0131f5e4fa4b5aaf5d568da966658e"
+            type="4"/>
+        <bounds
+            x="25"
+            y="10"
+            width="55"
+            height="49"/>
+      </children>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelBlock"
+        id="id-6eeb2c6eee1c4e40943eb580e5292e9d"
+        font="1|Segoe UI|9.0|2|WINDOWS|1|-15|0|0|0|400|-1|0|0|0|3|2|1|34|Segoe UI"
+        textAlignment="1"
+        content="Forsendelser">
+      <bounds
+          x="116"
+          y="31"
+          width="80"
+          height="26"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelImage"
+        id="id-5b0131f5e4fa4b5aaf5d568da966658e"
+        name="Image"
+        targetConnections="id-943af03c206347fba30509105f14b910"
+        imagePath="images/_WdPoYHbaEeuy8b2PHkkv0Q.png">
+      <sourceConnections
+          xsi:type="canvas:CanvasModelConnection"
+          id="id-7d4877880a154108b5ef182c2386a660"
+          lineWidth="3"
+          textPosition="0"
+          source="id-5b0131f5e4fa4b5aaf5d568da966658e"
+          target="id-7eaa1fead57949e094050e7330b306fc"
+          type="68"/>
+      <bounds
+          x="130"
+          y="56"
+          width="36"
+          height="26"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-a7c08dcf9c234eabbde5bb9e19769dd5"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-15|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+        referencedModel="id-c75a0844bab9492eb5b0e32a8e0bba21">
+      <features
+          name="gradient"
+          value="1"/>
+      <bounds
+          width="297"
+          height="25"/>
+    </children>
+  </children>
+</canvas:CanvasModel>

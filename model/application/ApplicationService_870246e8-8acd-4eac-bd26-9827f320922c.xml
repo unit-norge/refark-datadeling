@@ -1,0 +1,36 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Application Service INSTANCE"
+    id="870246e8-8acd-4eac-bd26-9827f320922c"
+    documentation="Deployed application service">
+  <properties
+      key="dct:type"
+      value="archi:application-service"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="instance"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"
+      value="Application Service INSTANCE"/>
+  <properties
+      key="difi:name_en"
+      value="Application Service INSTANCE"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:metaLevel"
+      value="meta"/>
+  <properties
+      key="difi:notes"/>
+</archimate:ApplicationService>

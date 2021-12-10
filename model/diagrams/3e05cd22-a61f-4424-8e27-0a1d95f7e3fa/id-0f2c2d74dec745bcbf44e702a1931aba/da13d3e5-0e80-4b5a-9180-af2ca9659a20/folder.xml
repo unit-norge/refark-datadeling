@@ -1,0 +1,17 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Masterdata/MDM"
+    id="da13d3e5-0e80-4b5a-9180-af2ca9659a20">
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Masterdata/MDM"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+</archimate:Folder>

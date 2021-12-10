@@ -1,0 +1,24 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Datautveksling ved publisering – konsumering (hendelsesbasert)"
+    id="id-ecf9441ccfb946ce9d9d89128bd0463f"
+    documentation="Datautveksling ved publisering og konsumering av hendelser er basert på&#xD;&#xA;https://nasjonal-arkitektur.github.io/architecture-repository/publish-subscribe/book-publish-subscribe.html[publisering-konsumering]&#xD;&#xA;i&#xD;&#xA;https://nasjonal-arkitektur.github.io/architecture-repository/data-exchange-ra/book-data-exchange-ra.html[Referansearkitektur&#xD;&#xA;for datautveksling fra Digitaliseringsdirektoratet].">
+  <properties
+      key="dct:type"
+      value="modelx:section"/>
+  <properties
+      key="modelx:antora_component"
+      value="unit-ra"/>
+  <properties
+      key="modelx:antora_version"
+      value="main"/>
+  <properties
+      key="modelx:antora_module"
+      value="unit-ra-datadeling-datautveksling"/>
+  <properties
+      key="modelx:view_reference"
+      value="id-5f3a893ad9ae4f9f91e8fbb66b98577e"/>
+  <properties
+      key="drill down"
+      value="id-5f3a893ad9ae4f9f91e8fbb66b98577e"/>
+</archimate:Representation>

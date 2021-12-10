@@ -1,0 +1,24 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Oppdatering"
+    id="id-17aa6ba1967149168574272d6e3b5b7d"
+    documentation="Datatilbyder kan gjøre oppdatering av data tilgjengelig for&#xD;&#xA;datakonsument gjennom et API. Prosessen for en datakonsument å be om&#xD;&#xA;tilgang til oppdatering (se _Få tilgang til data_) og for en&#xD;&#xA;datatilbyder å gi tilgang til oppdatering (se _Tilgjengeliggjøre data&#xD;&#xA;etter forespørsel_) er tilsvarende som for tilgang til å lese data. Det&#xD;&#xA;vil ofte være forskjellige kriterier som må oppfylles for å få lov til å&#xD;&#xA;oppdatere data enn for å lese data. Dette kan inkludere både&#xD;&#xA;kvalitetssikring og juridiske hensyn.&#xD;&#xA;">
+  <properties
+      key="modelx:view_reference"
+      value="id-4be5fe3cc122457d88addee09a541eb1"/>
+  <properties
+      key="drill down"
+      value="id-4be5fe3cc122457d88addee09a541eb1"/>
+  <properties
+      key="modelx:antora_component"
+      value="unit-ra"/>
+  <properties
+      key="modelx:antora_version"
+      value="main"/>
+  <properties
+      key="modelx:antora_module"
+      value="unit-ra-datadeling-datautveksling"/>
+  <properties
+      key="dct:type"
+      value="modelx:section"/>
+</archimate:Representation>

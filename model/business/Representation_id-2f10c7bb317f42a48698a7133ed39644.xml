@@ -1,0 +1,18 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vedlegg C; Muliggjørende økosystem"
+    id="id-2f10c7bb317f42a48698a7133ed39644"
+    documentation="Før oppstart av Datadelingsprosjektet fasiliterte UNIT en tjenestedesign&#xD;&#xA;prosess rettet mot behovene til IT-støtte fra studenter, forskere,&#xD;&#xA;lærere og ledere. I tillegg kartla prosessen behovene til&#xD;&#xA;tjenesteleverandører, både interne og eksterne, som ønsker å tilby&#xD;&#xA;tjenester til sektoren. Resultatene fra prosessen ble benyttet som&#xD;&#xA;brukstilfeller i datadelingsprosjektet for å forstå krav til deling av&#xD;&#xA;data. Prosessen definerte et Muliggjørende økosystem som målbilde.&#xD;&#xA;&#xD;&#xA;.Muliggjørende Økosystem i høyere utdanning og forskning&#xD;&#xA;image::{imagepath}muliggjørende økosystem.png[]&#xD;&#xA;&#xD;&#xA;Økosystemet er definert som en modell for samspill og innovasjon der&#xD;&#xA;komplementære aktører tilbyr tjenester og ressurser til studenter,&#xD;&#xA;lærere, forskere og ledere.  Data som sektoren har tilbys til nye&#xD;&#xA;anvendelser «inside-out» samtidig som forståelse av behovene til&#xD;&#xA;aktørene leder til utvikling av tiltak i økosystemet «outside-in».&#xD;&#xA;Økosystemet er avhengig av tillit skapt gjennom kravstilling til&#xD;&#xA;aktørene som samarbeider om deling og gjenbruk av data, harmonisering av&#xD;&#xA;begreper benyttet på tvers og utvikling av nye tjenester. Kravene skal&#xD;&#xA;sikre tilgang til data av hensiktsmessig kvalitet for de som har rett&#xD;&#xA;til det på en måte som ivaretar sikkerhet og personvern. Kravene&#xD;&#xA;skal også fremme innovasjon gjennom standardisering “på de rette&#xD;&#xA;stedene” som for eksempel en nasjonal profil for aktivitetsdata brukt i&#xD;&#xA;læringsanalyse og rettferdig markedstilgang. Økosystemet skal utvikles&#xD;&#xA;for å støtte sektorens bruksscenarier, som for eksempel individuelt&#xD;&#xA;tilpasset læring i et livslangt perspektiv og forbedret,&#xD;&#xA;digitalisert administrativt forskningsstøtte.&#xD;&#xA;Økosystemet må samtidig fremme god samhandling juridisk, organisatorisk,&#xD;&#xA;semantisk og teknisk.  &#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;Økosystemets innhold er: &#xD;&#xA;&#xD;&#xA;* Infrastruktur &#xD;&#xA;* Data og tjenester &#xD;&#xA;* Krav og føringer &#xD;&#xA;* Insentiver og betalingsmodeller &#xD;&#xA;* Harmonisering &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Økosystemets nytte er: &#xD;&#xA;&#xD;&#xA;* Tillitsbasert samhandling &#xD;&#xA;* Enkel, trygg og riktig tilgang til nødvendige digitale ressurser &#xD;&#xA;* Endringsevne og innovasjon &#xD;&#xA;* Effektivitet &#xD;&#xA;">
+  <properties
+      key="modelx:antora_component"
+      value="unit-ra"/>
+  <properties
+      key="modelx:antora_version"
+      value="main"/>
+  <properties
+      key="modelx:antora_module"
+      value="unit-ra-datadeling-vedlegg-c"/>
+  <properties
+      key="dct:type"
+      value="modelx:section"/>
+</archimate:Representation>

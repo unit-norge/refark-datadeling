@@ -1,0 +1,12 @@
+<archimate:SpecializationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="minimering"
+    id="id-52057503ec7044cca40b8b9a62d6551f">
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-0181cd35f45c4e37b725a2a3e962db60.xml#id-0181cd35f45c4e37b725a2a3e962db60"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_d9db40fa-6e13-4bd0-b701-16694bc7afb5.xml#d9db40fa-6e13-4bd0-b701-16694bc7afb5"/>
+</archimate:SpecializationRelationship>

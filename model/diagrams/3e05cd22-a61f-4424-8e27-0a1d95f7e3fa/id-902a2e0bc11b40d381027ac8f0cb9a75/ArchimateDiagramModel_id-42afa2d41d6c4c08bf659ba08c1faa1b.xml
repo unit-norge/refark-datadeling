@@ -1,0 +1,25 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Modelleringskonvensjoner"
+    id="id-42afa2d41d6c4c08bf659ba08c1faa1b">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-4aadfe109e044032b9d7e4343f388948"
+      lineColor="#5c5c5c"
+      fillColor="#ccccff"
+      textPosition="1"
+      type="1">
+    <features
+        name="gradient"
+        value="1"/>
+    <bounds
+        x="149"
+        y="94"
+        width="137"
+        height="71"/>
+    <archimateElement
+        xsi:type="archimate:Constraint"
+        href="Constraint_id-894830bd228b470f80cbb0817240c4e8.xml#id-894830bd228b470f80cbb0817240c4e8"/>
+  </children>
+</archimate:ArchimateDiagramModel>

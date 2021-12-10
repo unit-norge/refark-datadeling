@@ -1,0 +1,36 @@
+<archimate:CourseOfAction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Oppdrag 9 i Digdirs tildelingsbrev for 2020 (&quot;I samarbeid med KS få frem et kunnskapsgrunnlag om arbeidet med informasjonssikkerhet i kommunene&quot;)"
+    id="id-b5e22fed826c49b4a82d279992ccae96">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:work-package"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="digdir:link1"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Oppdrag 9 i Digitaliseringsdirektoratets tildelingsbrev for 2020 (&quot;I samarbeid med KS få frem et kunnskapsgrunnlag om arbeidet med informasjonssikkerhet i kommunene&quot;)"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:CourseOfAction>

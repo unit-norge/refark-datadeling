@@ -1,0 +1,9 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Prinsipp 5: Del og gjenbruk løsninger"
+    id="5e6c9758-4188-4e7b-a2de-018482548923"
+    documentation="[.lead]&#xD;&#xA;Deling og gjenbruk av løsninger omfatter arkitekturprodukter, løsningskomponenter og tjenester. Dette omfatter løsninger som er nasjonale, sektorielle og på virksomhetsnivå.&#xD;&#xA;&#xD;&#xA;== Forklaring&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;== Begrunnelse&#xD;&#xA;Begrunnelsen for prinsippet er at deling og gjenbruk fremmer samhandlingsevne, innovasjon og effektivitet, og bidrar til harmonisering, informasjonssikkerhet og personvern. Dette gjør at virksomhetene kan fokusere på digitalisering av kjernevirksomhet fremfor å løse utfordringer som allerede er løst.">
+  <properties
+      key="drill down"
+      value="babccce6-2f6d-49e4-9563-5a48eb7c820b"/>
+</archimate:Principle>

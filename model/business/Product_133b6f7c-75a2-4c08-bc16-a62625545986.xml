@@ -1,0 +1,36 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Oversikt over digitaliseringstiltak i staten"
+    id="133b6f7c-75a2-4c08-bc16-a62625545986"
+    documentation="Tiltaket er en del av Difis tverrgående digitaliseringsstrategi og skal styrke gjennomføringen av tverrgående digitaliseringstiltak i offentlig sektor.&#xD;&#xA;En viktig del av tiltaket er å lage en oversikt over digitaliseringstiltak i staten på oppdrag fra KMD. I tillegg til å være et viktig kunnskaps- og styringsgrunnlag på digitaliseringsområdet, skal oversikten bidra til å øke graden av samarbeid og samordning på tvers i staten og gi bedre forutsetninger for at virksomheter kan gjenbruke løsninger og lære av hverandre. Oversikten skal også gi omverdenen bedre innsikt i digitaliseringsarbeidet i offentlig sektor.   &#xD;&#xA;&#xD;&#xA;Difi foretar også en faglig vurdering basert på kriterier utarbeidet i samråd med SKATE, av hvilke tverrgående tiltak som bør prioriteres og finansieres nasjonalt, eller som bør støttes/finansieres på annen måte. Difis vurderinger sendes til KMD, og er en faglig anbefaling.">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:product"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Oversikt over digitaliseringstiltak i staten"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Tiltaket er en del av Difis tverrgående digitaliseringsstrategi og skal styrke gjennomføringen av tverrgående digitaliseringstiltak i offentlig sektor.&#xD;&#xA;En viktig del av tiltaket er å lage en oversikt over digitaliseringstiltak i staten på oppdrag fra KMD. I tillegg til å være et viktig kunnskaps- og styringsgrunnlag på digitaliseringsområdet, skal oversikten bidra til å øke graden av samarbeid og samordning på tvers i staten og gi bedre forutsetninger for at virksomheter kan gjenbruke løsninger og lære av hverandre. Oversikten skal også gi omverdenen bedre innsikt i digitaliseringsarbeidet i offentlig sektor.   &#xD;&#xA;&#xD;&#xA;Difi foretar også en faglig vurdering basert på kriterier utarbeidet i samråd med SKATE, av hvilke tverrgående tiltak som bør prioriteres og finansieres nasjonalt, eller som bør støttes/finansieres på annen måte. Difis vurderinger sendes til KMD, og er en faglig anbefaling."/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Product>

@@ -1,0 +1,34 @@
+<archimate:ValueStream
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Svar på forespørsler om grunnlagsdata, sporing og og etterlevelse"
+    id="2af03278-4603-4f19-8459-b62c54a25f91">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:value-stream"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Svar på forespørsler om grunnlagsdata, sporing og og etterlevelse"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:ValueStream>

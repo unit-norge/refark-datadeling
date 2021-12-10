@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kontroller masterdata status og oppdater data"
+    id="id-7d054a2ecef6410c8cd6997ca7cc0447"
+    documentation="Datatilbyderen skal kun oppdatere data som hen er autoritativ for (masterdata). Datatilbyder verifiserer at kilden er autoritativ for data som skal oppdateres, og deretter utfører oppdateringen.&#xD;&#xA;"/>

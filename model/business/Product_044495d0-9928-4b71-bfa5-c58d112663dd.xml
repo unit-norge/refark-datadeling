@@ -1,0 +1,36 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Norsk Lysningsblad"
+    id="044495d0-9928-4b71-bfa5-c58d112663dd"
+    documentation="Lysingsbladet publiserar kunngjeringar om proklama, kunngjeringar om gjeldsordning etter gjeldsordningslova og mortifikasjonssaker. I tillegg vert ei rekke andre saker kunngjort, som forkynningar av forliksklager, separasjons- og skilsmissesaker, kunngjeringar etter tinglysingslova §38a og utlegging til offentleg ettersyn av konsesjonssøknader med vidare.">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:product"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Norsk Lysningsblad"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Lysingsbladet publiserar kunngjeringar om proklama, kunngjeringar om gjeldsordning etter gjeldsordningslova og mortifikasjonssaker. I tillegg vert ei rekke andre saker kunngjort, som forkynningar av forliksklager, separasjons- og skilsmissesaker, kunngjeringar etter tinglysingslova §38a og utlegging til offentleg ettersyn av konsesjonssøknader med vidare."/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Product>

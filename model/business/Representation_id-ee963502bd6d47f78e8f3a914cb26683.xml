@@ -1,0 +1,18 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Publisering av hendelser"
+    id="id-ee963502bd6d47f78e8f3a914cb26683"
+    documentation="For publisering av hendelser er det etablert et mønster der datatilbyder&#xD;&#xA;utsteder en lettvektsnotifikasjon som datakonsumenten kan abonnere på.&#xD;&#xA;Lettvektsnotifikasjonen inneholder en lenke til et API der&#xD;&#xA;datakonsumenten kan hente data relatert til notifikasjonen. Dette&#xD;&#xA;mønsteret er allerede i bruk i UHF-sektoren.&#xD;&#xA;&#xD;&#xA;Lettvektsnotifikasjonen i en eNotifikasjon blir overført mellom&#xD;&#xA;datatilbyder og konsument av en meldingsformidler (_event broker)_.&#xD;&#xA;Meldingsformidleren tar imot hendelser fra produsenter, og overfører&#xD;&#xA;hendelsen til de konsumenter som abonnere på i hendelsestypen, samtidig&#xD;&#xA;som den sørger for at eventuell leveransegaranti overholdes.&#xD;&#xA;&#xD;&#xA;I likhet med behovet for en _API katalog_ som beskriver hvilke APIer som&#xD;&#xA;finnes, er det nødvendig med en Notifikasjonskatalog som gir et&#xD;&#xA;overblikk over hvilke datatilbydere som publiserer notifikasjoner om&#xD;&#xA;endring i datagrunnlag.">
+  <properties
+      key="modelx:antora_component"
+      value="unit-ra"/>
+  <properties
+      key="modelx:antora_version"
+      value="main"/>
+  <properties
+      key="modelx:antora_module"
+      value="unit-ra-datadeling-målarkitekturen"/>
+  <properties
+      key="dct:type"
+      value="modelx:section"/>
+</archimate:Representation>

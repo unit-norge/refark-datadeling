@@ -1,0 +1,9 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Publiser API"
+    id="id-4414f028e3f1460f899fc6cf34529c3c"
+    documentation=" Evnen til å gjøre et API synlig og tilgjengelig gjennom kataloger og søkeløsninger slik at det kan oppdages av potensielle konsumenter.">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:Capability>

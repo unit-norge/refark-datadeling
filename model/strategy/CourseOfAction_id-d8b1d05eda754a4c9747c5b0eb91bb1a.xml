@@ -1,0 +1,38 @@
+<archimate:CourseOfAction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tiltak 32: Fiberføringer til utlandet"
+    id="id-d8b1d05eda754a4c9747c5b0eb91bb1a"
+    documentation="Fiberinfrastrukturen mot utlandet er en kritisk del av den moderne, nasjonale infrastrukturen. Ensidig ruting av norsk internettrafikk gjennom Sverige er en betydelig nasjonal sårbarhet. Nye utlandsforbindelser og alternativ ruting av trafikk vil bidra til å øke den samlede nasjonale kapasiteten, redundansen og sikkerheten i ekomnettene.&#xD;&#xA;&#xD;&#xA;Det ble i 2018 bevilget 40 mill. kroner for å legge til rette for fiberkabler mellom Norge og utlandet. Denne bevilgningen er videreført i 2019, samt en tilsagnsfullmakt på20 mill. kroner, slik at total ramme for satsningen er 100 mill. kroner. Nkom har i 2018 på oppdrag fra og i samråd med SD forberedt en utlysning av midlene.&#xD;&#xA;&#xD;&#xA;Ansvarlig virksomhet: SD og Nkom&#xD;&#xA;Gjennomføres: 2018-2020">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:course-of-action"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="digdir:link1"
+      value="https://www.regjeringen.no/contentassets/c57a0733652f47688294934ffd93fc53/tiltaksoversikt---nasjonal-strategi-for-digital-sikkerhet.pdf#183321-Justisdep-Tiltaksoversikt.indd%3A.13675%3A679"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Tiltak 32: Fiberføringer til utlandet"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:CourseOfAction>

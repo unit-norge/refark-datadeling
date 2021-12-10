@@ -1,0 +1,21 @@
+<archimate:Resource
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Basic patterns for pubish-subscribe  and event streaming (1)"
+    id="8f63987b-6061-4ac4-8fd7-8e90e888b628">
+  <properties
+      key="difi:name_no"
+      value="Mønster for publisering og lesing av enkeltvis hendelsesstrøm (1)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:name_en"
+      value="Mønster for publisering og lesing av enkeltvis hendelsesstrøm (1)"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+</archimate:Resource>

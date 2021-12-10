@@ -1,0 +1,39 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Del 2: Anbefalte tiltak for å øke virksomheters egenevne"
+    id="id-3b3872ae41614e76afad194f211e7b5b"
+    documentation="Offentlige myndigheter har kommet med flere råd og anbefalinger de siste årene for å øke virksomheters egenevne til å beskytte seg mot og håndtere uønskede digitale hendelser. Blant disse er NSMs «Grunnprinsipper for IKT-sikkerhet» og Difis «Internkontrollveileder».&#xD;&#xA;&#xD;&#xA;Denne delen består av 10 anbefalte tiltak som virksomheter i offentlig og privat sektor bør gjennomføre. Tiltakene er hentet frem gjennom et samarbeid bestående av virksomheter fra både offentlig og privat sektor. Tiltakene bygger på de råd og anbefalingene som er nevnt over, og gir norske virksomheter et godt utgangspunkt for hva de bør tenke på, uavhengig av størrelse, modenhet og kompetanse om digital sikkerhet. &#xD;&#xA;&#xD;&#xA;En nasjonal innsats for å øke grunnsikringen:&#xD;&#xA;&#xD;&#xA;God styring og effektive virksomhetsprosesser er vesentlig for å opprettholde ønsket kvalitet, utvikling og for å levere etter fastsatte mål. Styring og involvering fra ledelsen bidrar til at de riktige tiltakene blir iverksatt og at ressursene brukes riktig. Samtidig oppnås det ikke digital sikkerhet kun med etablerte prosesser og involvering fra ledelsen. Det er de faktiske sikkerhetstiltakene som implementeres, som konfigurering av IKT-systemene, bygningsbarrierer og handlinger til den enkelte ansatte, som setter det reelle sikringsnivået.&#xD;&#xA;&#xD;&#xA;For å opprettholde ønsket sikkerhetsnivå må digital sikkerhet være en integrert del i alle virksomhetens fagområder og virksomhetsprosesser. Det avhenger av at man har kontroll på hva man gjør, og at beslutninger tas på et tilstrekkelig informasjonsgrunnlag. God sikkerhetsstyring er en forutsetning for å lykkes. For å få til dette må styret og ledelsen ha eierskap til sikkerhetsprosesser og -aktiviteter. Digital sikkerhet må inkluderes i risiko- og rapporteringsprosesser og virksomheten må ha personell med tilstrekkelig fagkompetanse og kjennskap til egen virksomhet. Et godt utgangspunkt for å få til dette er Difis internkontrollveileder og NSMs veileder i sikkerhetsstyring.&#xD;&#xA;&#xD;&#xA;Virksomheter må i tillegg gjennomføre nødvendige tiltak for å sikre IKT-systemene. NSMs grunnprinsipper for IKT-sikkerhet beskriver tiltak som alle virksomheter bør implementere for god grunnsikring. De definerer et sett med prinsipper og underliggende tiltak for å beskytte IKT-systemer (maskinvare, programvare og tilknyttet infrastruktur), data og tjenestene de tilbyr mot uautorisert tilgang, skade eller misbruk.&#xD;&#xA;&#xD;&#xA;For mange virksomheter kan veien til god virksomhetsstyring og implementering av de riktige tiltakene virke lang. Punktene under beskriver 10 viktige tiltak for å starte sikkerhetsarbeidet.&#xD;&#xA;&#xD;&#xA;Virksomheter må i tillegg gjennomføre nødvendige tiltak for å sikre IKT-systemene. NSMs grunnprinsipper for IKT-sikkerhet beskriver tiltak som alle virksomheter bør implementere for god grunnsikring. De definerer et sett med prinsipper og underliggende tiltak for å beskytte IKT-systemer (maskinvare, programvare og tilknyttet infrastruktur), data og tjenestene de tilbyr mot uautorisert tilgang, skade eller misbruk.For mange virksomheter kan veien til god virksomhetsstyring og implementering av de riktige tiltakene virke lang. Punktene under beskriver 10 viktige tiltak for å starte sikkerhetsarbeidet.">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:grouping"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="digdir:link1"
+      value="https://www.regjeringen.no/contentassets/c57a0733652f47688294934ffd93fc53/tiltaksoversikt---nasjonal-strategi-for-digital-sikkerhet.pdf"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value=" Del 2: Anbefalte tiltak for å øke virksomheters egenevne"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Offentlige myndigheter har kommet med flere råd og anbefalinger de siste årene for å øke virksomheters egenevne til å beskytte seg mot og håndtere uønskede digitale hendelser. Blant disse er NSMs «Grunnprinsipper for IKT-sikkerhet» og Difis «Internkontrollveileder».&#xD;&#xA;&#xD;&#xA;Denne delen består av 10 anbefalte tiltak som virksomheter i offentlig og privat sektor bør gjennomføre. Tiltakene er hentet frem gjennom et samarbeid bestående av virksomheter fra både offentlig og privat sektor. Tiltakene bygger på de råd og anbefalingene som er nevnt over, og gir norske virksomheter et godt utgangspunkt for hva de bør tenke på, uavhengig av størrelse, modenhet og kompetanse om digital sikkerhet. &#xD;&#xA;&#xD;&#xA;En nasjonal innsats for å øke grunnsikringen:&#xD;&#xA;&#xD;&#xA;God styring og effektive virksomhetsprosesser er vesentlig for å opprettholde ønsket kvalitet, utvikling og for å levere etter fastsatte mål. Styring og involvering fra ledelsen bidrar til at de riktige tiltakene blir iverksatt og at ressursene brukes riktig. Samtidig oppnås det ikke digital sikkerhet kun med etablerte prosesser og involvering fra ledelsen. Det er de faktiske sikkerhetstiltakene som implementeres, som konfigurering av IKT-systemene, bygningsbarrierer og handlinger til den enkelte ansatte, som setter det reelle sikringsnivået.&#xD;&#xA;&#xD;&#xA;For å opprettholde ønsket sikkerhetsnivå må digital sikkerhet være en integrert del i alle virksomhetens fagområder og virksomhetsprosesser. Det avhenger av at man har kontroll på hva man gjør, og at beslutninger tas på et tilstrekkelig informasjonsgrunnlag. God sikkerhetsstyring er en forutsetning for å lykkes. For å få til dette må styret og ledelsen ha eierskap til sikkerhetsprosesser og -aktiviteter. Digital sikkerhet må inkluderes i risiko- og rapporteringsprosesser og virksomheten må ha personell med tilstrekkelig fagkompetanse og kjennskap til egen virksomhet. Et godt utgangspunkt for å få til dette er Difis internkontrollveileder og NSMs veileder i sikkerhetsstyring.&#xD;&#xA;&#xD;&#xA;Virksomheter må i tillegg gjennomføre nødvendige tiltak for å sikre IKT-systemene. NSMs grunnprinsipper for IKT-sikkerhet beskriver tiltak som alle virksomheter bør implementere for god grunnsikring. De definerer et sett med prinsipper og underliggende tiltak for å beskytte IKT-systemer (maskinvare, programvare og tilknyttet infrastruktur), data og tjenestene de tilbyr mot uautorisert tilgang, skade eller misbruk.&#xD;&#xA;&#xD;&#xA;For mange virksomheter kan veien til god virksomhetsstyring og implementering av de riktige tiltakene virke lang. Punktene under beskriver 10 viktige tiltak for å starte sikkerhetsarbeidet.&#xD;&#xA;&#xD;&#xA;Virksomheter må i tillegg gjennomføre nødvendige tiltak for å sikre IKT-systemene. NSMs grunnprinsipper for IKT-sikkerhet beskriver tiltak som alle virksomheter bør implementere for god grunnsikring. De definerer et sett med prinsipper og underliggende tiltak for å beskytte IKT-systemer (maskinvare, programvare og tilknyttet infrastruktur), data og tjenestene de tilbyr mot uautorisert tilgang, skade eller misbruk.For mange virksomheter kan veien til god virksomhetsstyring og implementering av de riktige tiltakene virke lang. Punktene under beskriver 10 viktige tiltak for å starte sikkerhetsarbeidet."/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Grouping>

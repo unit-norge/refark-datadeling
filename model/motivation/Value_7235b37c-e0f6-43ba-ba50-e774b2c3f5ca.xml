@@ -1,0 +1,35 @@
+<archimate:Value
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Innebygget dokumentasjon av etterlevelse"
+    id="7235b37c-e0f6-43ba-ba50-e774b2c3f5ca">
+  <properties
+      key="difi:name_no"
+      value="Innebygget dokumentasjon av etterlevelse"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:value"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_en"
+      value="Integrated compliance auditing"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Value>

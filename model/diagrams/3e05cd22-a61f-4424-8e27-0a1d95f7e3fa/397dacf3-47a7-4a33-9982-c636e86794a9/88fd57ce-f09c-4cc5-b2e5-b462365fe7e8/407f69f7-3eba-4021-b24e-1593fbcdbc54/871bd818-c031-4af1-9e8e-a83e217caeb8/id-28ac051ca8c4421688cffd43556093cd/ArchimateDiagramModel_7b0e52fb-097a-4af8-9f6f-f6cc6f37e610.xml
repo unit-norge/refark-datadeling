@@ -1,0 +1,36 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="--Multi-hop pattern"
+    id="7b0e52fb-097a-4af8-9f6f-f6cc6f37e610">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="8f5d826b-bbeb-4f2c-a16c-26b4ba546c3a"
+      fontColor="#ff0000"
+      textPosition="1">
+    <bounds
+        x="72"
+        y="36"
+        width="133"
+        height="71"/>
+    <archimateElement
+        xsi:type="archimate:Resource"
+        href="Resource_72b1794d-db77-4260-a352-4d13f661d4b3.xml#72b1794d-db77-4260-a352-4d13f661d4b3"/>
+  </children>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Multi-hop pattern"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:antoraViewPath"/>
+  <properties
+      key="difi:antoraViewImagePath"/>
+</archimate:ArchimateDiagramModel>

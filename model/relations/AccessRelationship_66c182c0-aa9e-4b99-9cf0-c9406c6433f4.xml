@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="anvender"
+    id="66c182c0-aa9e-4b99-9cf0-c9406c6433f4"
+    accessType="1">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_17ef0416-f881-4f16-9036-039045ce30d8.xml#17ef0416-f881-4f16-9036-039045ce30d8"/>
+  <target
+      xsi:type="archimate:Contract"
+      href="Contract_eb28b86c-7d5f-421b-9033-e1ddaecf7e7e.xml#eb28b86c-7d5f-421b-9033-e1ddaecf7e7e"/>
+</archimate:AccessRelationship>

@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifikasjon om hendelse"
+    id="id-19ec59b1b780430dbaf33d6768b94620">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-bb5b51dda2704ebd89d1b895c7307ea1.xml#id-bb5b51dda2704ebd89d1b895c7307ea1"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-ff4555f5190c440ebff0701df0877ab8.xml#id-ff4555f5190c440ebff0701df0877ab8"/>
+</archimate:FlowRelationship>

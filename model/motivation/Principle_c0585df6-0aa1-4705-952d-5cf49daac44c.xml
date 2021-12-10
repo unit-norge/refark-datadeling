@@ -1,0 +1,9 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Prinsipp 3: Bidra til digitaliseringsvennlige regelverk"
+    id="c0585df6-0aa1-4705-952d-5cf49daac44c"
+    documentation="[.lead]&#xD;&#xA;Regelverk setter rammer for offentlig oppgaveløsning, og må kontinuerlig videreutvikles slik at det er tilpasset dagens og morgendagens muligheter og utfordringer.&#xD;&#xA;&#xD;&#xA;== Forklaring&#xD;&#xA;Arbeidet med arkitektur kan bidra til å identifisere juridiske barrierer for samhandling og digitalisering, og få igangsatt lov- og forskriftsendringer.&#xD;&#xA;&#xD;&#xA;== Begrunnelse&#xD;&#xA;Begrunnelsen for prinsippet er at digitaliseringsvennlige regelverk er en forutsetning for optimalisering av arbeidsprosesser og sammenhengende tjenester, og kan muliggjøre automatisering av oppgaveløsningen.">
+  <properties
+      key="drill down"
+      value="363bf42d-5ae0-44f0-9fe8-65ef060380ec"/>
+</archimate:Principle>

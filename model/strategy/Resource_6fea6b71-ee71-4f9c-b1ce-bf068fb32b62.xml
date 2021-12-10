@@ -1,0 +1,5 @@
+<archimate:Resource
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Event Store"
+    id="6fea6b71-ee71-4f9c-b1ce-bf068fb32b62"
+    documentation="https://dzone.com/articles/event-sourcingevent-logging-an-essential-microserv&#xD;&#xA;&#xD;&#xA;Event Store is responsible for storing the events sequentially and notifying the listeners."/>

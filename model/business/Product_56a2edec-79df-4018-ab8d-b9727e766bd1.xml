@@ -1,0 +1,36 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="E-læringskurs &quot;Er det sikkert?&quot;"
+    id="56a2edec-79df-4018-ab8d-b9727e766bd1"
+    documentation="&quot;«Er det sikkert?» - E-læringskurs om informasjonssikkerhet for ledere for å få økt forståelse for leders ansvar for informasjonssikkerhet og hvorfor det lønner seg å ta informasjonssikkerhet på alvor.&#xD;&#xA;Vi ønsker å bruke den og oppdatere den. Den står her med forbehold om økonomiske og ressursmessige prioriteringer som ikke er helt avklart pr nå mtp tildelingsbrev (6.12.19).&quot;">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:product"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="E-læringskurs &quot;Er det sikkert?&quot;"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="&quot;«Er det sikkert?» - E-læringskurs om informasjonssikkerhet for ledere for å få økt forståelse for leders ansvar for informasjonssikkerhet og hvorfor det lønner seg å ta informasjonssikkerhet på alvor.&#xD;&#xA;Vi ønsker å bruke den og oppdatere den. Den står her med forbehold om økonomiske og ressursmessige prioriteringer som ikke er helt avklart pr nå mtp tildelingsbrev (6.12.19).&quot;"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Product>

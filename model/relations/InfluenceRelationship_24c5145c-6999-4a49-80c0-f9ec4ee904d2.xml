@@ -1,0 +1,41 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="24c5145c-6999-4a49-80c0-f9ec4ee904d2"
+    documentation="Grunnlag for verifikasjon av etterlevelse">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:influence-relationship"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Grunnlag for verifikasjon av etterlevelse"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+  <source
+      xsi:type="archimate:Value"
+      href="Value_e4c5dff3-d1fc-42b5-be0f-56e3bd8c9054.xml#e4c5dff3-d1fc-42b5-be0f-56e3bd8c9054"/>
+  <target
+      xsi:type="archimate:Stakeholder"
+      href="Stakeholder_557c0131-b3c8-4428-bb14-4b5c5e68d29a.xml#557c0131-b3c8-4428-bb14-4b5c5e68d29a"/>
+</archimate:InfluenceRelationship>

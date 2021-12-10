@@ -1,0 +1,23 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Notifikasjonsinnhold - basiskonsept UHF"
+    id="id-0589f4d748784dfb9f5ea66cc126c984">
+  <properties
+      key="modelx:antora_component"
+      value="unit-ra"/>
+  <properties
+      key="modelx:antora_version"
+      value="main"/>
+  <properties
+      key="modelx:antora_module"
+      value="unit-ra-datadeling-datautveksling"/>
+  <properties
+      key="dct:type"
+      value="modelx:archimate_view"/>
+  <properties
+      key="modelx:view_reference"
+      value="id-f58202f315d543fc8c7d4d33a5518f64"/>
+  <properties
+      key="drill down"
+      value="id-f58202f315d543fc8c7d4d33a5518f64"/>
+</archimate:Representation>

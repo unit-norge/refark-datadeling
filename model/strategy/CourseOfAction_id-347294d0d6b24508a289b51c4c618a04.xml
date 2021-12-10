@@ -1,0 +1,41 @@
+<archimate:CourseOfAction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Utarbeide en strategi for kunstig intelligens"
+    id="id-347294d0d6b24508a289b51c4c618a04"
+    documentation="Nasjonal strategi for kunstig intelligens: https://www.regjeringen.no/no/dokumenter/nasjonal-strategi-for-kunstig-intelligens/id2685594/">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:course-of-action"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="digdir:link1"
+      value="https://www.digdir.no/digitalisering-og-samordning/okt-deling-av-data-og-verdiskaping/1228#initiativ_utarbeide_en_strategi_for_kunstig_intelligens"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Utarbeide en strategi for kunstig intelligens"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+  <properties
+      key="drill down"
+      value="id-12a3a2c8d32c49d1bd15092495a27d23"/>
+</archimate:CourseOfAction>

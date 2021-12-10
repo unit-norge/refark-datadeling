@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="kan tjene"
+    id="db118113-3011-4a44-bbbf-44d008844e74">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_96c3ebaa-b2d9-4887-8c0c-794516a23058.xml#96c3ebaa-b2d9-4887-8c0c-794516a23058"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_2eaae0d1-1456-4531-9771-dab9e6b0a54a.xml#2eaae0d1-1456-4531-9771-dab9e6b0a54a"/>
+</archimate:ServingRelationship>

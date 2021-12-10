@@ -1,0 +1,24 @@
+<archimate:Resource
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Patterms for end-to-end process integration "
+    id="963644af-37a6-426e-bb22-b4cd70e40550"
+    documentation="NB: INkl. korreletr meldingsutveksling">
+  <properties
+      key="difi:name_no"
+      value="Mønstre for koreogafi og orkestrering av prosesser"/>
+  <properties
+      key="difi:description_no"
+      value="NB: INkl. korreletr meldingsutveksling"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:name_en"
+      value="Mønstre for koreogafi og orkestrering av prosesser"/>
+  <properties
+      key="difi:description_en"
+      value="NB: INkl. korreletr meldingsutveksling"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+</archimate:Resource>

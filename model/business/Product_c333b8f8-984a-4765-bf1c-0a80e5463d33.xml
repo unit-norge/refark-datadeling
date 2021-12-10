@@ -1,0 +1,36 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Veileder for planlegging og gjennomføring av IKT-øvelser"
+    id="c333b8f8-984a-4765-bf1c-0a80e5463d33"
+    documentation="Hva skal til for å planlegge og gjennomføre enkle IKT-øvelser? Difi har laget en veileder om IKT-øvelser som vektlegger informasjonssikkerhet og virksomhetskontinuitet. Veilederen vurderes overføret til / inngå i veiledning som kommer ut av delprosjekt øvelser">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:product"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Veileder for planlegging og gjennomføring av IKT-øvelser"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Hva skal til for å planlegge og gjennomføre enkle IKT-øvelser? Difi har laget en veileder om IKT-øvelser som vektlegger informasjonssikkerhet og virksomhetskontinuitet. Veilederen vurderes overføret til / inngå i veiledning som kommer ut av delprosjekt øvelser"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Product>

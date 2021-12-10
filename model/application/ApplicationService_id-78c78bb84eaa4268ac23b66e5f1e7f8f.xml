@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Forespør dataforvalter"
+    id="id-78c78bb84eaa4268ac23b66e5f1e7f8f"
+    documentation="En tjeneste som lar dataforvalteren beslutte datatilgang, enten gjennom en automatisert policy eller gjennom en manuell behandling. &#xD;&#xA;&#xD;&#xA;Datatilgang kan være lesetilgang, skrivetilgang eller begge deler.&#xD;&#xA;&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:ApplicationService>

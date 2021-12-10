@@ -1,0 +1,36 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Levere sammenhengende tjenester"
+    id="9a190fb1-e124-44f4-a963-74d5b741d37f"
+    documentation="&quot;Nettsider tar opp temaer som er spesielt viktige når flere virksomheter går sammen om å lage en digital tjeneste. Godt samarbeid er veien til sammenhengende, sømløse digitale tjenester.&#xD;&#xA;Tilby verktøykasse som understøtter sammenhengende tjenester som understøtter livshendelsene som består av:&#xD;&#xA;Designprinsipper og arkitektur for sammenhengende tjenester&#xD;&#xA;Digitaliseringsklart regelverk for sammenhengende tjenester&#xD;&#xA;Finansiering og organisering for sammenhengende tjenester&#xD;&#xA;Rammeverk for virksomhetssamarbeid på tvers av oppstart, forming og leveranser av digitale tjenester&quot;">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:product"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Levere sammenhengende tjenester"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="&quot;Nettsider tar opp temaer som er spesielt viktige når flere virksomheter går sammen om å lage en digital tjeneste. Godt samarbeid er veien til sammenhengende, sømløse digitale tjenester.&#xD;&#xA;Tilby verktøykasse som understøtter sammenhengende tjenester som understøtter livshendelsene som består av:&#xD;&#xA;Designprinsipper og arkitektur for sammenhengende tjenester&#xD;&#xA;Digitaliseringsklart regelverk for sammenhengende tjenester&#xD;&#xA;Finansiering og organisering for sammenhengende tjenester&#xD;&#xA;Rammeverk for virksomhetssamarbeid på tvers av oppstart, forming og leveranser av digitale tjenester&quot;"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Product>

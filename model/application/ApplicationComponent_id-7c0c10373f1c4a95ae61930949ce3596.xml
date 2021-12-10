@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Induct"
+    id="id-7c0c10373f1c4a95ae61930949ce3596">
+  <properties
+      key="difi:abstractionLevel"
+      value="sbb"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,37 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Utredning – pålegg om å tilgjengeliggjøre offentlig informasjon (pdf)"
+    id="id-2917a8e0a37744f1a7e8eea15ec96f3b">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:representation"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="digdir:link1"
+      value="https://www.regjeringen.no/contentassets/0192f8cf03c6400fb21eb095409a6e36/utredning--rettslig-handlingsrom-for-et-generelt-palegg-mot-offentlige-organer-og-virksomheter-om-aktivt-a-tilgjengeliggjore-offentlig-informasjon.pdf"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Utredning – pålegg om å tilgjengeliggjøre offentlig informasjon"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Representation>

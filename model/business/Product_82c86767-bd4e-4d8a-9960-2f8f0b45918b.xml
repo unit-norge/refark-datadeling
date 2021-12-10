@@ -1,0 +1,36 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rammeverk for digital samhandling (NIF)"
+    id="82c86767-bd4e-4d8a-9960-2f8f0b45918b"
+    documentation="Rammeverket gir tilgang til en felles «verktøykasse» som inneholder prinsipper, begrepsdefinisjoner, modeller og retningslinjer for digitalt samhandling. Det skal bidra til økt interoperabilitet og samhandlingsevne i utviklingen av digitale løsninger. Arkitekturbibliotektet inngår i NIF">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:product"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Norsk arkitekturrammeverk for samhandling (NIF)"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Rammeverket gir tilgang til en felles «verktøykasse» som inneholder prinsipper, begrepsdefinisjoner, modeller og retningslinjer for digitalt samhandling. Det skal bidra til økt interoperabilitet og samhandlingsevne i utviklingen av digitale løsninger. Arkitekturbibliotektet inngår i NIF"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Product>

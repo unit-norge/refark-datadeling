@@ -1,0 +1,24 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Publisering av hendelser - basiskonsept UHF"
+    id="id-a2c228b2785c4ebb950da705bdd8a2a3"
+    documentation="Hendelsestrømmer kan implementeres som Hendelseslister eller en Publisert meldingskø (publiser/abonner)">
+  <properties
+      key="modelx:antora_component"
+      value="unit-ra"/>
+  <properties
+      key="modelx:antora_version"
+      value="main"/>
+  <properties
+      key="modelx:antora_module"
+      value="unit-ra-datadeling-datautveksling"/>
+  <properties
+      key="dct:type"
+      value="modelx:archimate_view"/>
+  <properties
+      key="modelx:view_reference"
+      value="id-0ef2bcdba9b9405585f6d1a192746c99"/>
+  <properties
+      key="drill down"
+      value="id-0ef2bcdba9b9405585f6d1a192746c99"/>
+</archimate:Representation>

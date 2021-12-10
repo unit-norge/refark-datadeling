@@ -1,0 +1,9 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Prinsipp 1: Ta utgangspunkt i brukernes behov"
+    id="ab52b6b5-eb9b-42d6-a404-fdab06e357a2"
+    documentation="[.lead]&#xD;&#xA;Offentlige tjenester skal ta utgangspunkt i brukernes behov og perspektiver og kunne brukes av alle, uavhengig av alder og funksjonsevne.&#xD;&#xA;&#xD;&#xA;== Forklaring&#xD;&#xA;Brukerne forventer brukervennlige og sammenhengende tjenester. Dette krever samordning og integrasjon av arbeidsprosesser på tvers av offentlige sektorer, mellom offentlig og privat næringsliv, og på tvers av landegrenser.&#xD;&#xA;&#xD;&#xA;== Begrunnelse&#xD;&#xA;Begrunnelsen for prinsippet er at alle brukerne får et enklere møte med offentlig forvaltning, vil oppfatte tjenestene som helhetlige og sammenhengende, og får ivaretatt sine rettigheter og plikter. &#xD;&#xA;&#xD;&#xA;">
+  <properties
+      key="drill down"
+      value="b321e53b-7fb1-4075-b082-c442a1eb2100"/>
+</archimate:Principle>

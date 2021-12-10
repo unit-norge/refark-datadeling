@@ -1,0 +1,37 @@
+<archimate:CourseOfAction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Utrede konsept for en innbyggerorientert løsning for enklere tilgang til egne data, informasjon og tjenester"
+    id="id-d011c3dde1f04cd2a2c112b45d78f48d">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:course-of-action"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="digdir:link1"
+      value="https://www.digdir.no/digitalisering-og-samordning/sammenhengende-tjenester-med-brukeren-i-sentrum/1255#initiativ_utrede_konsept_for_en_innbyggerorientert_losning_for_enklere_tilgang_til_egne_data_informasjon_og_tjenester"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Utrede konsept for en innbyggerorientert løsning for enklere tilgang til egne data, informasjon og tjenester"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:CourseOfAction>

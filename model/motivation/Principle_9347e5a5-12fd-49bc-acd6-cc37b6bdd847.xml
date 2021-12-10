@@ -1,0 +1,9 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Prinsipp 2: Ta arkitekturbeslutninger på rett nivå"
+    id="9347e5a5-12fd-49bc-acd6-cc37b6bdd847"
+    documentation="[.lead]&#xD;&#xA;Arkitektur er en utviklings- og styringsoppgave, med innvirkninger på virksomhetens kostnader og gevinster. Arkitekturbeslutninger bør tas så nær oppgaveløsningen og brukernes behov som mulig. Enkelte beslutninger må likevel løftes opp for å øke evnen til å samhandle med andre og ta hensyn til felles mål for digitalisering i offentlig sektor.&#xD;&#xA;&#xD;&#xA;== Forklaring&#xD;&#xA;&#xD;&#xA;== Begrunnelse&#xD;&#xA;Begrunnelsen for prinsippet er at det vil gi økt balanse mellom effektiv og brukernær oppgaveløsning, og samhandlingsevne internt i virksomheten, på tvers av offentlig sektor og mellom offentlig sektor og private virksomheter.">
+  <properties
+      key="drill down"
+      value="3a455270-f8b8-41fa-a792-0efc658de2e5"/>
+</archimate:Principle>

@@ -1,0 +1,22 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-abf81262967447f1a9e2707b6a0281ab">
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <source
+      xsi:type="archimate:ValueStream"
+      href="ValueStream_16157c6d-8024-4106-b7db-59cfc6717745.xml#16157c6d-8024-4106-b7db-59cfc6717745"/>
+  <target
+      xsi:type="archimate:ValueStream"
+      href="ValueStream_3a0d2dbd-4970-4bd5-9ab7-75de25406ebb.xml#3a0d2dbd-4970-4bd5-9ab7-75de25406ebb"/>
+</archimate:ServingRelationship>

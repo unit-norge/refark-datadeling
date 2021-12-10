@@ -1,0 +1,36 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dilemmatrening"
+    id="f33cd0cd-ba56-49c1-b51a-73c0af43a3e1"
+    documentation="Mange virksomheter har utfordringer med å få de ansatte til å forstå krav til informasjonssikkerhet og hvorfor dette gjelder dem.  Vi i Difi har derfor utformet en dilemmatrening som skal bidra til å skape refleksjon blandt de ansatte.&#xD;&#xA;&#xD;&#xA;Dilemmatreningen er laget for å være et fleksibelt opplæringsverktøy. Difi har laget en grunnpakke som består av en duk, dilemmaer, perspektiver og anbefalinger for hvordan man kan ta dette i bruk. Disse kan lastes ned for fri benyttelse. &quot;">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:product"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Dilemmatrening"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Mange virksomheter har utfordringer med å få de ansatte til å forstå krav til informasjonssikkerhet og hvorfor dette gjelder dem.  Vi i Difi har derfor utformet en dilemmatrening som skal bidra til å skape refleksjon blandt de ansatte.&#xD;&#xA;&#xD;&#xA;Dilemmatreningen er laget for å være et fleksibelt opplæringsverktøy. Difi har laget en grunnpakke som består av en duk, dilemmaer, perspektiver og anbefalinger for hvordan man kan ta dette i bruk. Disse kan lastes ned for fri benyttelse. &quot;"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Product>

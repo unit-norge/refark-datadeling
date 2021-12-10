@@ -1,0 +1,36 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="norge.no"
+    id="4e089644-5efe-4b84-b679-ab994ff85697"
+    documentation="Norge.no er ein inngangsport og ein vegvisar til offentlege tenester på nett, på tvers av sektorar og nivå. Dei digitale tenestene er tilgjengelege via søk og ein temameny, og ut frå aktuell livssituasjon. Vi har definert åtte slike livssituasjonar så langt, og samla tenester som er aktuelle å bruke i den enkelte livssituasjonen.">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:product"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="norge.no"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Norge.no er ein inngangsport og ein vegvisar til offentlege tenester på nett, på tvers av sektorar og nivå. Dei digitale tenestene er tilgjengelege via søk og ein temameny, og ut frå aktuell livssituasjon. Vi har definert åtte slike livssituasjonar så langt, og samla tenester som er aktuelle å bruke i den enkelte livssituasjonen."/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Product>

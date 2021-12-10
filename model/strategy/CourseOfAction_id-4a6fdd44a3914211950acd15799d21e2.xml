@@ -1,0 +1,39 @@
+<archimate:CourseOfAction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Oppfølging av tiltak 5 i Nasjonal strategi for digital sikkerhet"
+    id="id-4a6fdd44a3914211950acd15799d21e2"
+    documentation="På et overordnet plan skal prosjektet bidra til å øke tilliten til forvaltningen og hindre unødvendige kostnader i forbindelse med informasjonssikkerhetsbrudd. For å bidra til dette, skal prosjektet føre til bedre styring og kontroll av informasjonssikkerheten i forvaltningen, ved å sikre at virksomhetene oppnår tilstrekkelig modenhet innenfor informasjonssikkerhet og blir bedre rustet til å følge endringene i trusselbildet.&#xD;&#xA;&#xD;&#xA;Arbeidet er inndelt i delprosjektene Informasjonssikkerhet i styringsdialogen, Øvelse for bedre informasjonssikkerhet, Sikkerhetskultur, Kompetanse og Styring og kontroll.&#xD;&#xA;&#xD;&#xA;Kommunal- og moderniseringsdepartementet (KMD) er ansvarlig for oppfølging av tiltak 5 – Sikker digitalisering i offentlig sektor. Det er viktig at sikkerhetsmessige hensyn som må ivaretas av kommunal sektor som eget forvaltningsnivå, får den nødvendige plass i det nasjonale arbeidet og at kommunal sektor sikres medinnflytelse på gjennomføring av tiltak.&#xD;&#xA;&#xD;&#xA;Digdir, i samarbeid med KS, NSM og Datatilsynet, vil ha en sentral rolle i arbeidet med styrket og samordnet tilnærming til digital sikkerhet i forvaltningen.">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:course-of-action"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="digdir:link1"
+      value="https://www.digdir.no/digitalisering-og-samordning/digital-sikkerhet/1263"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Oppfølging av tiltak 5 i Nasjonal strategi for digital sikkerhet"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Kommunal- og moderniseringsdepartementet (KMD) er ansvarlig for oppfølging av tiltak 5 – Sikker digitalisering i offentlig sektor. Det er viktig at sikkerhetsmessige hensyn som må ivaretas av kommunal sektor som eget forvaltningsnivå, får den nødvendige plass i det nasjonale arbeidet og at kommunal sektor sikres medinnflytelse på gjennomføring av tiltak.&#xD;&#xA;&#xD;&#xA;Digdir, i samarbeid med KS, NSM og Datatilsynet, vil ha en sentral rolle i arbeidet med styrket og samordnet tilnærming til digital sikkerhet i forvaltningen."/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:CourseOfAction>

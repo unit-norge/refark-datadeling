@@ -1,0 +1,21 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="..."
+    id="id-8bb5f6c8ad134435b07fcbf86db78427">
+  <properties
+      key="difi:name_en"
+      value="..."/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:name_no"
+      value="..."/>
+</archimate:Capability>

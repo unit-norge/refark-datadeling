@@ -1,0 +1,36 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Nettverk for informasjonssikkerhet (NIFS)"
+    id="41a7188e-43c2-4c88-9cbc-2311f91a13ff"
+    documentation="Målsetningen med nettverket er å dele erfaringer innen arbeid med informasjonssikkerhet på tvers av offentlige virksomheter. Møtene avholdes 5 ganger hvert år, og skal bidra til informasjonsutveksling og dialog mellom ansatte som jobber med informasjonssikkerhet i forvaltningen.">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:product"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Nettverk for informasjonssikkerhet (NIFS)"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Målsetningen med nettverket er å dele erfaringer innen arbeid med informasjonssikkerhet på tvers av offentlige virksomheter. Møtene avholdes 5 ganger hvert år, og skal bidra til informasjonsutveksling og dialog mellom ansatte som jobber med informasjonssikkerhet i forvaltningen."/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Product>

@@ -1,0 +1,36 @@
+<archimate:Deliverable
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Definere statlig og kommunal sektors behov"
+    id="039b272b-43d0-4783-82d4-9e335a0bd61e">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:deliverable"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="digdir:link1"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Definere statlig og kommunal sektors behov"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Deliverable>

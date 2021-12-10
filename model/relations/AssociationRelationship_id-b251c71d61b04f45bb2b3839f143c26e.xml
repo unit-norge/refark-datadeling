@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="hovedansvarlig"
+    id="id-b251c71d61b04f45bb2b3839f143c26e">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-3eeb18bfe56f4e2981da798629e3da9e.xml#id-3eeb18bfe56f4e2981da798629e3da9e"/>
+  <target
+      xsi:type="archimate:CourseOfAction"
+      href="CourseOfAction_id-87d83bbe4f6047d8a06139d6d7260fdf.xml#id-87d83bbe4f6047d8a06139d6d7260fdf"/>
+</archimate:AssociationRelationship>

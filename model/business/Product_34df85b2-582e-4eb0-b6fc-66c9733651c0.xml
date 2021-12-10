@@ -1,0 +1,36 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Datahotellet"
+    id="34df85b2-582e-4eb0-b6fc-66c9733651c0"
+    documentation="Løsningen bidrar til at data som ikke er tilgjengeliggjort og/eller data med lav teknisk tilgjengelighet blir tilbudt gjennom et moderne programmeringsgrensesnitt med høy tilgjengelighet.">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:product"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Datahotellet"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Løsningen bidrar til at data som ikke er tilgjengeliggjort og/eller data med lav teknisk tilgjengelighet blir tilbudt gjennom et moderne programmeringsgrensesnitt med høy tilgjengelighet."/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Product>

@@ -1,0 +1,35 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Common taxonomies"
+    id="fed4fe3b-2400-450c-b99a-28c8ed18cd58">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:grouping"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"
+      value="Felles taksonomier"/>
+  <properties
+      key="difi:name_en"
+      value="Common taxonomies"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Grouping>

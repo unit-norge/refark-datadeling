@@ -1,0 +1,35 @@
+<archimate:Resource
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Patterns for one-way push from a sender to multiple known recipients"
+    id="2edde77f-b33d-4423-ab15-f35eb29ca623">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Mønster for forsendelse fra en avsender til flere kjente mottakere"/>
+  <properties
+      key="difi:name_en"
+      value="Pattern for Mønster for forsendelse fra en avsender til flere kjente mottakere"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:grouping"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Resource>

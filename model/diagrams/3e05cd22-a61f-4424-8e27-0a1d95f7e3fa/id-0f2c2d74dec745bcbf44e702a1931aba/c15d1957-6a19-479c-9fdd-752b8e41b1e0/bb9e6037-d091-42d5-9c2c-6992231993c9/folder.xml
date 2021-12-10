@@ -1,0 +1,17 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Workshop KS"
+    id="bb9e6037-d091-42d5-9c2c-6992231993c9">
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Workshop KS"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+</archimate:Folder>

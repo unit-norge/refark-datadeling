@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Opretet samtykke til deling av data eller spesifikk handling"
+    id="id-40b062d60afa4621bf998ac577a43024">
+  <properties
+      key="difi:namespace"
+      value="Felles økosystem"/>
+</archimate:Capability>

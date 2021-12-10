@@ -1,0 +1,22 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Remote Procedure Invocation integration style"
+    id="id-0e0776c3d22d4339bb39b9758dc6d005">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-42767b5564bc41dca0386093baec9a28"
+      textPosition="1">
+    <features
+        name="gradient"
+        value="1"/>
+    <bounds
+        x="20"
+        y="40"
+        width="137"
+        height="71"/>
+    <archimateElement
+        xsi:type="archimate:Resource"
+        href="Resource_02d1b12f-c347-476b-89eb-0edae8177f58.xml#02d1b12f-c347-476b-89eb-0edae8177f58"/>
+  </children>
+</archimate:ArchimateDiagramModel>

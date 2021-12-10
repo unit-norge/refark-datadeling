@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Autentisere personer   med eID fra EØS med eID-sikkerhetsnivå høyt"
+    id="id-a6d673a096134059a5187ea09c66c0fd">
+  <properties
+      key="difi:namespace"
+      value="Felles økosystem"/>
+</archimate:Capability>

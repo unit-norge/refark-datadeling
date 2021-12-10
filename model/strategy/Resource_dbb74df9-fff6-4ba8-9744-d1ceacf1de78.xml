@@ -1,0 +1,27 @@
+<archimate:Resource
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Event Broker"
+    id="dbb74df9-fff6-4ba8-9744-d1ceacf1de78"
+    documentation="This ABB is responsible for facilitating event consumers (subscribers, sensors) to subscribe to events and event producers  publishers, emitters) to publish the event and to propagate the event from producers to consumers. It leverages the Asynchronous Messaging Manager ABB, Messaging Transformer ABB, and Router ABB.">
+  <properties
+      key="dct:type"
+      value="archi:resource"/>
+  <properties
+      key="difi:namespace"
+      value="togsoara"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value="Event Broker"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:Resource>

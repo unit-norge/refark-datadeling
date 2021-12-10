@@ -1,0 +1,52 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tilnærming til utvikling av referansearkitekturen"
+    id="id-7211fe4a63a0483ebd342852bbba4ef9"
+    documentation="Denne referansearkitekturen skal gi veiledning til utforming av digitale&#xD;&#xA;samhandlingsløsninger for deling av data i høyere utdanning og&#xD;&#xA;forskning. Denne seksjonen veileder gjennom en presentasjon av hva som&#xD;&#xA;skal oppnås ved å definere hva datadeling er, en visjon om hva vi skal&#xD;&#xA;bruke det til, og modellene som skal skape fundament for utforming av&#xD;&#xA;løsningene i visjonen.">
+  <properties
+      key="dct:type"
+      value="modelx:section"/>
+  <properties
+      key="modelx:antora_component"
+      value="unit-ra"/>
+  <properties
+      key="modelx:antora_version"
+      value="main"/>
+  <properties
+      key="modelx:antora_module"
+      value="unit-ra-datadeling-tilnærming"/>
+  <properties
+      key="modelx:guid"
+      value="id-7211fe4a63a0483ebd342852bbba4ef9"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="digdir:link1"/>
+  <properties
+      key="digdir:logo"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Tilnærming til utvikling av referansearkitekturen"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Denne referansearkitekturen skal gi veiledning til utforming av digitale&#xD;&#xA;samhandlingsløsninger for deling av data i høyere utdanning og&#xD;&#xA;forskning. Denne seksjonen veileder gjennom en presentasjon av hva som&#xD;&#xA;skal oppnås ved å definere hva datadeling er, en visjon om hva vi skal&#xD;&#xA;bruke det til, og modellene som skal skape fundament for utforming av&#xD;&#xA;løsningene i visjonen."/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Representation>

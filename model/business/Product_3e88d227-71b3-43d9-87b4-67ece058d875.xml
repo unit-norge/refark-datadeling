@@ -1,0 +1,36 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="eFormidling"
+    id="3e88d227-71b3-43d9-87b4-67ece058d875"
+    documentation="eFormidling (og integrasjonspunktet) er tenkt som en overgangsløsning fra mange meldingsinfrastrukturer til en. Målbildet for en fælles standardisert norsk meldingsinfrastruktur er CEF-eDelivery sin 4-hjørnersmodell (se Nasjonal referansearkitektur og strategi for eMelding). Ift Peppol-nettverket, som utgjør en konkret implementering av CEF eDelivery,  hører eFormidling og integrasjonspunkt hjemme i 4-hjørnemodellens hjørne 1 og 4 og er dermed ikke en del av meldingsinfrastrukturen. ">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:product"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="eFormidling"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="eFormidling (og integrasjonspunktet) er tenkt som en overgangsløsning fra mange meldingsinfrastrukturer til en. Målbildet for en fælles standardisert norsk meldingsinfrastruktur er CEF-eDelivery sin 4-hjørnersmodell (se Nasjonal referansearkitektur og strategi for eMelding). Ift Peppol-nettverket, som utgjør en konkret implementering av CEF eDelivery,  hører eFormidling og integrasjonspunkt hjemme i 4-hjørnemodellens hjørne 1 og 4 og er dermed ikke en del av meldingsinfrastrukturen. "/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Product>

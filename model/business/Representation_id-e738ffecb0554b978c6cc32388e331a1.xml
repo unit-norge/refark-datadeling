@@ -1,0 +1,52 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Forankring"
+    id="id-e738ffecb0554b978c6cc32388e331a1"
+    documentation="Referansearkitekturen er utarbeidet i et samarbeidsprosjekt Datadeling&#xD;&#xA;med prosjektdeltagelse fra Unit, NTNU, Universitetet i Oslo og Uninett.&#xD;&#xA;Styringsgruppen består av medlemmer fra Unit, Universitetet i Bergen,&#xD;&#xA;OsloMet, Universitetet i Oslo, Norges Miljø- og Biovitenskaplige&#xD;&#xA;universitet og Uninett.">
+  <properties
+      key="dct:type"
+      value="modelx:section"/>
+  <properties
+      key="modelx:antora_component"
+      value="unit-ra"/>
+  <properties
+      key="modelx:antora_version"
+      value="main"/>
+  <properties
+      key="modelx:antora_module"
+      value="unit-ra-datadeling-introduksjon"/>
+  <properties
+      key="modelx:guid"
+      value="id-e738ffecb0554b978c6cc32388e331a1"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="digdir:link1"/>
+  <properties
+      key="digdir:logo"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Forankring"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Datadeling skal støtte virksomhetene innen høyere utdanning og forskning&#xD;&#xA;i sine oppgaver. Arbeid med referansearkitekturen tar derfor&#xD;&#xA;utgangspunkt i følgende bruksområder som første steg i en brukerfokusert&#xD;&#xA;tilnærming:&#xD;&#xA;&#xD;&#xA;* Innovativ, individuelt tilpasset læring&#xD;&#xA;* Livslang læring&#xD;&#xA;* Åpen forskning &#xD;&#xA;* #Heidi: Skulle vi si noe om forskning som ikke er åpen#&#xD;&#xA;* Effektivisert administrasjon&#xD;&#xA;* Automatisert administrativ støtte &#xD;&#xA;** Forskningssøknader &#xD;&#xA;** Data Management Planning innen forskning og andre prosjekter &#xD;&#xA;** Arkivering &#xD;&#xA;** HR prosesser for onboarding og «terminering?» &#xD;&#xA;&#xD;&#xA;Innen bruksområdene over ser vi sektoren produserer og ønsker å tilby&#xD;&#xA;følgende hovedkategori av data for deling:&#xD;&#xA;&#xD;&#xA;* Utdannings- og forskningsressurser til gjenbruk og viderebruk &#xD;&#xA;** Forskningsresultater &#xD;&#xA;** Forskningsdata &#xD;&#xA;** Digitale læringsressurser &#xD;&#xA;* Administrative data&#xD;&#xA;** Grunndata for driftsformål &#xD;&#xA;** Data brukt og produsert i saksbehandling&#xD;&#xA;** Rapporteringsdata om egen saksbehandling og produksjon &#xD;&#xA;* Analysedata om utdanning og forskning &#xD;&#xA;&#xD;&#xA;Sektoren har også bruk for data fra andre. Vi ser behov for følgende&#xD;&#xA;kategori av data:&#xD;&#xA;&#xD;&#xA;* Grunndata i nasjonale felleskomponenter (f. eks. folkeregisteret og&#xD;&#xA;enhetsregisteret)&#xD;&#xA;* Autentiseringsdata fra utlandet &#xD;&#xA;* Informasjon om grunnutdanning eller utdanning i utlandet &#xD;&#xA;* Informasjon om forskning i utlandet og forskningsresultater fra&#xD;&#xA;utlandet &#xD;&#xA;* Informasjon om forskning i privatnæringsliv og resultater&#xD;&#xA;fra forskning i privat næringsliv &#xD;&#xA;* Informasjon om forskningsfinansiering i Norge (fra Forskningsrådet, m.&#xD;&#xA;fl.) &#xD;&#xA;&#xD;&#xA;Bruksområdene over er utgangspunktet for forståelse av behovene som&#xD;&#xA;referansearkitekturen skal dekke."/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Representation>

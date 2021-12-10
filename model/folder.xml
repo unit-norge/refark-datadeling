@@ -1,0 +1,21 @@
+<archimate:ArchimateModel
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Backup UHF datadeling"
+    id="id-65eedc305ccc418f95d0694f9b581cf4"
+    version="4.9.0">
+  <properties
+      key="difi:default_language"
+      value="no"/>
+  <properties
+      key="difi:current_language"
+      value="no"/>
+  <properties
+      key="difi:antoraComponentsPath"
+      value="C:\antora\unit-norge\components"/>
+  <properties
+      key="modelx:web_browser_app"
+      value="C:\Program Files (x86)\Google\Chrome\Application\chrome.exe"/>
+  <properties
+      key="modelx:cmd_line_app"
+      value="C:\Program Files\Git\git-bash.exe"/>
+</archimate:ArchimateModel>

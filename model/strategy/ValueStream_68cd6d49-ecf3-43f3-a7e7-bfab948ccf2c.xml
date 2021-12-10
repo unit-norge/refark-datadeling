@@ -1,0 +1,35 @@
+<archimate:ValueStream
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ta rede på krav til datadeling"
+    id="68cd6d49-ecf3-43f3-a7e7-bfab948ccf2c">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:value-stream"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Ta rede på behov for datadeling"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"
+      value="Behov for datadeling kommer fra eksterne behov og egne behov for å &quot;selge&quot; data "/>
+</archimate:ValueStream>

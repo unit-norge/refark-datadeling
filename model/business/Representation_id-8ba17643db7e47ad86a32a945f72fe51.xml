@@ -1,0 +1,18 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Indre API"
+    id="id-8ba17643db7e47ad86a32a945f72fe51"
+    documentation="Indre API eksponerer masterdata (informasjon om objekter i domenet) som&#xD;&#xA;er strukturert i henhold til semantikk i domenet den tilhører, og må ta&#xD;&#xA;ansvar for den semantiske validiteten til data den eksponerer. Indre API&#xD;&#xA;er laget for å være mest mulig generell og ikke laget for noen spesifikk&#xD;&#xA;prosesskontekst.&#xD;&#xA;&#xD;&#xA;{empty}[Vi tenker å utdype her på et senere tidspunkt.]">
+  <properties
+      key="modelx:antora_component"
+      value="unit-ra"/>
+  <properties
+      key="modelx:antora_version"
+      value="main"/>
+  <properties
+      key="modelx:antora_module"
+      value="unit-ra-datadeling-rutiner"/>
+  <properties
+      key="dct:type"
+      value="modelx:section"/>
+</archimate:Representation>

@@ -1,0 +1,41 @@
+<archimate:Resource
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Linked Data integration style"
+    id="id-14ead29fb057486c8d1e5dc21b29f354">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Lenkede data"/>
+  <properties
+      key="difi:name_en"
+      value="Linked Data integration style"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+  <properties
+      key="modelx:view_reference"
+      value="id-67ebb32d3b3249a78e968ace73f0fc34"/>
+  <properties
+      key="drill down"
+      value="id-67ebb32d3b3249a78e968ace73f0fc34"/>
+</archimate:Resource>

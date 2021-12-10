@@ -1,0 +1,57 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Datautveksling"
+    id="id-f3ad82668384458f939a9911ddb3e749">
+  <properties
+      key="dct:type"
+      value="modelx:section"/>
+  <properties
+      key="modelx:antora_component"
+      value="unit-ra"/>
+  <properties
+      key="modelx:antora_version"
+      value="main"/>
+  <properties
+      key="modelx:antora_module"
+      value="unit-ra-datadeling-datautveksling"/>
+  <properties
+      key="modelx:view_reference"
+      value="id-0ce23d39f69644708dc3860ed5fd8441"/>
+  <properties
+      key="drill down"
+      value="id-0ce23d39f69644708dc3860ed5fd8441"/>
+  <properties
+      key="modelx:guid"
+      value="id-f3ad82668384458f939a9911ddb3e749"/>
+  <properties
+      key="difi:metaLevel"
+      value="meta"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="digdir:link1"/>
+  <properties
+      key="digdir:logo"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Datautveksling"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Med utgangspunkt i&#xD;&#xA;https://nasjonal-arkitektur.github.io/architecture-repository/data-exchange-ra/book-data-exchange-ra.html[Referansearkitektur&#xD;&#xA;for datautveksling] beskriv de mønstrene som vi bruker"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Representation>

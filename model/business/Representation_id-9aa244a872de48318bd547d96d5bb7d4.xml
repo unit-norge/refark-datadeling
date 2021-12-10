@@ -1,0 +1,52 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Issues internt i UHF sektor"
+    id="id-9aa244a872de48318bd547d96d5bb7d4"
+    documentation="[arabic]&#xD;&#xA;. Klientregister inneholder den samme klientoversikten i IAM og i&#xD;&#xA;datadeling. Hvordan den totale oversikten skal vedlikeholdes må&#xD;&#xA;defineres. Skal det være repliserte, konsistente registre? Skal det være&#xD;&#xA;disjunkte subsett?&#xD;&#xA;. Tilgang til API-er kan ha basis i roller (da er man vel virkelig i&#xD;&#xA;overlapp med IGA)&#xD;&#xA;. Dersom forskjellige autorisasjonstjenere ikke kan dele tokens, har vi&#xD;&#xA;vel også det samme problemet vi har mot de nasjonale fellestjenestene at&#xD;&#xA;den ene domenen ikke kan forholde seg til tokens fra den andre domenen.&#xD;&#xA;. Sektoren har tre uavhengige SSO løsninger: IDporten, Feide og Azure&#xD;&#xA;AD. Dette gir både redusert brukervennlighet, og en sikkerhetsutfordring&#xD;&#xA;dersom man ikke kan garantere for at det er samme person i de ulike SSO&#xD;&#xA;dokenene.&#xD;&#xA;">
+  <properties
+      key="dct:type"
+      value="modelx:section"/>
+  <properties
+      key="modelx:antora_component"
+      value="unit-ra"/>
+  <properties
+      key="modelx:antora_version"
+      value="main"/>
+  <properties
+      key="modelx:antora_module"
+      value="unit-ra-datadeling-vedlegg-b"/>
+  <properties
+      key="modelx:guid"
+      value="id-9aa244a872de48318bd547d96d5bb7d4"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="digdir:link1"/>
+  <properties
+      key="digdir:logo"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Issues internt i UHF sektor"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="[arabic]&#xD;&#xA;. Klientregister inneholder den samme klientoversikten i IAM og i&#xD;&#xA;datadeling. Hvordan den totale oversikten skal vedlikeholdes må&#xD;&#xA;defineres. Skal det være repliserte, konsistente registre? Skal det være&#xD;&#xA;disjunkte subsett?&#xD;&#xA;. Tilgang til API-er kan ha basis i roller (da er man vel virkelig i&#xD;&#xA;overlapp med IGA)&#xD;&#xA;. Dersom forskjellige autorisasjonstjenere ikke kan dele tokens, har vi&#xD;&#xA;vel også det samme problemet vi har mot de nasjonale fellestjenestene at&#xD;&#xA;den ene domenen ikke kan forholde seg til tokens fra den andre domenen.&#xD;&#xA;. Sektoren har tre uavhengige SSO løsninger: IDporten, Feide og Azure&#xD;&#xA;AD. Dette gir både redusert brukervennlighet, og en sikkerhetsutfordring&#xD;&#xA;dersom man ikke kan garantere for at det er samme person i de ulike SSO&#xD;&#xA;dokenene.&#xD;&#xA;"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Representation>

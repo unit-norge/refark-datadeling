@@ -1,0 +1,36 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Klart språk"
+    id="0fcdeed5-770c-4925-875c-2f5a37c34438"
+    documentation="&quot;Klart språk gir resultater: Ei meir effektiv forvaltning, betre og meir brukarvenlege tenester. Klarspråk fremmar demokratiet, rettstryggleiken og skaper tillit. Difi og Språkrådet samarbeider om tiltak for å stimulere til godt og brukarvennleg språk i statlege verksemder.&#xD;&#xA;Heftet &quot;&quot;Klart språk gir resultat&quot;&quot;&#xD;&#xA;Boka &quot;&quot;Klar, men aldri ferdig&quot;&quot;&#xD;&#xA;Heftet &quot;&quot;Metodeheftet for effektmåling av klarspråksarbeid&quot;&quot;&#xD;&#xA;Heftet &quot;&quot;Et klarere lovspråk&quot;&quot;&#xD;&#xA;Nettstaden klarspråk.no&quot;">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:product"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Klart språk"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="&quot;Klart språk gir resultater: Ei meir effektiv forvaltning, betre og meir brukarvenlege tenester. Klarspråk fremmar demokratiet, rettstryggleiken og skaper tillit. Difi og Språkrådet samarbeider om tiltak for å stimulere til godt og brukarvennleg språk i statlege verksemder.&#xD;&#xA;Heftet &quot;&quot;Klart språk gir resultat&quot;&quot;&#xD;&#xA;Boka &quot;&quot;Klar, men aldri ferdig&quot;&quot;&#xD;&#xA;Heftet &quot;&quot;Metodeheftet for effektmåling av klarspråksarbeid&quot;&quot;&#xD;&#xA;Heftet &quot;&quot;Et klarere lovspråk&quot;&quot;&#xD;&#xA;Nettstaden klarspråk.no&quot;"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Product>

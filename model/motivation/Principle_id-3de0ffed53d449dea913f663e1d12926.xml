@@ -1,0 +1,38 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Anbefaling 5: Leverandørkontroll"
+    id="id-3de0ffed53d449dea913f663e1d12926"
+    documentation="Ved kjøp av IKT-tjenester og IKT-produkter er det viktig at sikkerheten blir ivaretatt på et nivå som virksomhetens ledelse er komfortabel med. Det må stilles krav til produkter og leverandører slik at sikkerheten er ivaretatt i hele produktets eller tjenestens levetid. Det er viktig med god bestillerkompetanse, oversikt og kontroll på hele livsløpet, gode risikovurderinger, riktige og gode krav til IKT-tjenesten og til leverandør, og at beslutningen tas på riktig nivå.&#xD;&#xA;&#xD;&#xA;Start-tips: Sats på god bestillerkompetanse og gjør en risikovurdering som forankres hos ledelsen.">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:principle"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="digdir:link1"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Anbefaling 5: Leverandørkontroll"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Ved kjøp av IKT-tjenester og IKT-produkter er det viktig at sikkerheten blir ivaretatt på et nivå som virksomhetens ledelse er komfortabel med. Det må stilles krav til produkter og leverandører slik at sikkerheten er ivaretatt i hele produktets eller tjenestens levetid. Det er viktig med god bestillerkompetanse, oversikt og kontroll på hele livsløpet, gode risikovurderinger, riktige og gode krav til IKT-tjenesten og til leverandør, og at beslutningen tas på riktig nivå.&#xD;&#xA;&#xD;&#xA;Start-tips: Sats på god bestillerkompetanse og gjør en risikovurdering som forankres hos ledelsen."/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Principle>

@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Administrere tilgjengelige ressurser"
+    id="id-1a182119c83649e8a4833abae254d4ca"
+    documentation="Datatilbyder skal ha adgang til å&#xD;&#xA;definere og administrere sine egne ressurser som gjøres tilgjengelig&#xD;&#xA;gjennom den felles infrastrukturen i Ressursportalen."/>

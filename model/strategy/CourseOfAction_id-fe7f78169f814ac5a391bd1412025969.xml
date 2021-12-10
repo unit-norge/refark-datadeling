@@ -1,0 +1,38 @@
+<archimate:CourseOfAction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tiltak 37: Neste generasjon nødnett"
+    id="id-fe7f78169f814ac5a391bd1412025969"
+    documentation="I desember 2017 ble det besluttet at frekvensressurser i 700 MHz-båndet skulle gjøres tilgjengelig for interesserte kommersielle ekom-tilbydere i Norge. Frekvensene har gode dekningsegenskaper, og er viktige for å sikre utbredelse av avanserte mobiltjenester i hele Norge. 700 MHz-båndet er en av de utpekte ressursene for fremtidig utbygging av 5G, som er neste generasjons mobilnett og som er viktig for en vellykket digitalisering i privat og offentlig sektor.&#xD;&#xA;&#xD;&#xA;Fremtidige kommunikasjonsløsninger for nød- og beredskapsetater og Forsvaret skal kunne leveres av de kommersielle mobiltilbyderne. Det vil derfor gjennomføres tiltak for å legge til rette for at disse samfunnsviktige brukernes behov kan bli ivaretatt gjennom en kombinasjon av myndighetspålegg og kommersielle anskaffelser.&#xD;&#xA;&#xD;&#xA;JD og SD, sammen med DSB og Nkom, er i gang med utredninger knyttet til etablering av neste generasjon nødnett i de kommersielle nettene. Det skal i første omgang utarbeides en konseptvalgutredning om temaet.&#xD;&#xA;&#xD;&#xA;Ansvarlig virksomhet: JD, SD, DSB og Nkom&#xD;&#xA;Gjennomføres: Utredningsarbeid pågår. Kvalitetssikring planlegges gjennomført når konseptvalgutredning foreligger">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:course-of-action"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="digdir:link1"
+      value="https://www.regjeringen.no/contentassets/c57a0733652f47688294934ffd93fc53/tiltaksoversikt---nasjonal-strategi-for-digital-sikkerhet.pdf#183321-Justisdep-Tiltaksoversikt.indd%3A.13695%3A684"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Tiltak 37: Neste generasjon nødnett"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:CourseOfAction>

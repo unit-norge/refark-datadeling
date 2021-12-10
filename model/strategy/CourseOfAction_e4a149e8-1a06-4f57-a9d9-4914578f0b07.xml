@@ -1,0 +1,41 @@
+<archimate:CourseOfAction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Styring og samordning"
+    id="e4a149e8-1a06-4f57-a9d9-4914578f0b07"
+    documentation="For å sikre sammenhengende tjenester, økt deling av data og økt bruk av felles IT-løsninger, må samhandling og samordning på tvers av sektorer og mellom statlig og kommunal sektor, styrkes. Regjeringen har som mål å legge opp til en mer systematisk uthenting av gevinster fra digitalisering.">
+  <properties
+      key="digdir:link1"
+      value="https://www.digdir.no/digitalisering-og-samordning/styring-og-samordning-en-mer-sammenhengende-offentlig-sektor/1258"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:course-of-action"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Samordning på tvers"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+  <properties
+      key="drill down"
+      value="id-da0f3d1ad9b242d597e2720f5a7bc8ea"/>
+</archimate:CourseOfAction>

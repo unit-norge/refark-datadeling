@@ -1,0 +1,36 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Veileder i kompetanse- og kulturutvikling innen informasjonssikkerhet"
+    id="caaf03d8-c96e-4925-94b1-608f12eb212a"
+    documentation="Denne veilederen tar for seg hvordan man kan bygge opp et helhetlig opplæringsprogram, og gir råd til hvordan man kan utvikle sikkerhetskulturen. Veiledningsmaterialet skal kunne brukes av deg som arbeider med opplæring innen informasjonssikkerhet, uavhengig av tidligere erfaring.">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:product"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Veileder i kompetanse- og kulturutvikling innen informasjonssikkerhet"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Denne veilederen tar for seg hvordan man kan bygge opp et helhetlig opplæringsprogram, og gir råd til hvordan man kan utvikle sikkerhetskulturen. Veiledningsmaterialet skal kunne brukes av deg som arbeider med opplæring innen informasjonssikkerhet, uavhengig av tidligere erfaring."/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Product>

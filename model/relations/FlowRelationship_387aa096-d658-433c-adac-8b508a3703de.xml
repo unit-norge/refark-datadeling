@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="supplerende hendelsesrelaterte data"
+    id="387aa096-d658-433c-adac-8b508a3703de">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_4fa0989a-9afb-43a6-a34d-236dcaf4e022.xml#4fa0989a-9afb-43a6-a34d-236dcaf4e022"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_0382af42-2f20-4972-bbcd-c026966e08a9.xml#0382af42-2f20-4972-bbcd-c026966e08a9"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,36 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Handlingsplan for regjeringens digitaliseringsstrategi"
+    id="2ac380d3-885e-4d0c-b1b8-808ba5616136"
+    documentation="Handlingsplanen gir oversikt over planlagte og pågående tiltake som realiserer regjeringens digitaliseringsstrategi. Handlingsplanen skal foreligge i første versjon ved årsskiftet. ">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:product"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Handlingsplan for regjeringens digitaliseringsstrategi"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Handlingsplanen gir oversikt over planlagte og pågående tiltake som realiserer regjeringens digitaliseringsstrategi. Handlingsplanen skal foreligge i første versjon ved årsskiftet. "/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Product>

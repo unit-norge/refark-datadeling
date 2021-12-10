@@ -1,0 +1,38 @@
+<archimate:CourseOfAction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tiltak 29: Ny sikkerhetslov"
+    id="id-ea15f9aacc7442ca8b9e2b04997e678e"
+    documentation="FD la i juni 2017 frem forslag til ny lov om nasjonal sikkerhet (sikkerhetsloven) for Stortinget. Stortinget har vedtatt loven, som trådte i kraft 1. januar 2019. Lovens virkeområde er utvidet fordi avhengighetene på tvers av sivil-militær, offentlig-privat og mellom samfunnssektorer øker. Loven inneholder også krav om sikring av alle skjermingsverdige informasjonssystemer, ikke bare systemer som behandler sikkerhetsgradert informasjon. Regler om eierskapskontroll gir mulighet til å kontrollere og eventuelt stanse oppkjøp av strategisk viktige selskaper underlagt sikkerhetsloven. Loven gir mer tilpassede regler om sikkerhetsgraderte anskaffelser. Det arbeides med å lage veiledere til den nye sikkerhetsloven.Departementene skal kartlegge og identifisere tjenester, produksjon og andre former for virksomhet som er av en slik betydning at helt eller delvis bortfall av funksjonen vil få konsekvenser for statens evne til å ivareta nasjonale sikkerhetsinteresser (grunnleggende nasjonale funksjoner). Departementene skal videre fatte vedtak om hvilke virksomheter som loven skal gjelde for.NSM styrkes i 2019 med 38 mill. kroner for å settes i stand til å implementere og starte utøvelsen av nye og utvidede oppgaver som sikkerhetsmyndighet i henhold til nysikkerhetslov, herunder også for å forbedre kapasiteten til å gjennomføre inntrengingstester.Ansvarlig virksomhet: FDGjennomføres: 2019">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:course-of-action"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="digdir:link1"
+      value="https://www.regjeringen.no/contentassets/c57a0733652f47688294934ffd93fc53/tiltaksoversikt---nasjonal-strategi-for-digital-sikkerhet.pdf#183321-Justisdep-Tiltaksoversikt.indd%3A.13663%3A676"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Tiltak 29: Ny sikkerhetslov"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:CourseOfAction>

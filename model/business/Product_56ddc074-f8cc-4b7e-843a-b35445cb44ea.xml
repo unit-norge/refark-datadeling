@@ -1,0 +1,36 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ressurssenter for deling av data"
+    id="56ddc074-f8cc-4b7e-843a-b35445cb44ea"
+    documentation="Ressurssenteret være en del av et kompetansenettverk på tvers av statlig, kommunal og privat sektor, som bistår virksomheter med deling av data. Første versjon av ressurssenteret vil bli etablert gradvis frem mot 3. kvartal 2020">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:product"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Ressurssenter for deling av data"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Ressurssenteret være en del av et kompetansenettverk på tvers av statlig, kommunal og privat sektor, som bistår virksomheter med deling av data. Første versjon av ressurssenteret vil bli etablert gradvis frem mot 3. kvartal 2020"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Product>

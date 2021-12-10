@@ -1,0 +1,36 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Operativ skaping av metadata"
+    id="9eb53d12-23d4-4414-aba1-dc8a5becbe7a"
+    documentation="Semantisk interoperabilitet krever ">
+  <properties
+      key="label"
+      value="${name} [lang:]"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Tagging med metadata"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Semantisk interoperabilitet krever "/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Capability>

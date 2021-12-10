@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="API Gateway "
+    id="id-96514499518349619a8e277dfafc274b"
+    documentation="API gateway er en tjeneste som tilgjengeliggjør, beskytter og overvåker&#xD;&#xA;tilgang til API-ressurser hos datatilbyder. Den håndhever&#xD;&#xA;tilgangsstyring ved å validere sikkerhetsbilletter og utfører eventuell&#xD;&#xA;fin-granulert tilgangskontroll. Den håndhever også volumbegrensninger og&#xD;&#xA;samler data om bruken av API-er (logging).&#xD;&#xA;&#xD;&#xA;Komponent som beskytter ressursene og overvåker tilgang inklusivt:&#xD;&#xA;&#xD;&#xA;* Validere sikkerhetsbillett&#xD;&#xA;* Beskytte mot inntrenging og andre trusler&#xD;&#xA;* Håndtere volumbegrensninger&#xD;&#xA;* Håndheve tilgangsstyring&#xD;&#xA;* Samle inn data om bruken av API-er&#xD;&#xA;* Orkestrering mellom interntjenester">
+  <properties
+      key="difi:abstractionLevel"
+      value="abb"/>
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+  <properties
+      key="modelx:antora_component"
+      value="null"/>
+  <properties
+      key="modelx:antora_version"
+      value="null"/>
+  <properties
+      key="modelx:antora_module"
+      value="null"/>
+</archimate:ApplicationComponent>

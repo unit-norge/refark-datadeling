@@ -1,0 +1,18 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UHF Konsumentregister"
+    id="id-51e6a038ba824aacac9a13d7eef336aa"
+    documentation="Oversikt over alle datakonsumenter som er blitt tildelt tilgang til&#xD;&#xA;ressurser.&#xD;&#xA;&#xD;&#xA;Oversikten over konsumenters bruk av API fra datatilbydere er&#xD;&#xA;autoritativt for&#xD;&#xA;&#xD;&#xA;* hvilke OAuth2 scopes knytet til hvilke API som konsumenten har fått&#xD;&#xA;tilgang til&#xD;&#xA;&#xD;&#xA;Oversikten over konsumenters bruk av notifikasjoner fra datatilbydere er&#xD;&#xA;autoritativt for&#xD;&#xA;&#xD;&#xA;* datakonsumentens abonnement for notifikasjoner&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+  <properties
+      key="modelx:antora_component"
+      value="null"/>
+  <properties
+      key="modelx:antora_version"
+      value="null"/>
+  <properties
+      key="modelx:antora_module"
+      value="null"/>
+</archimate:ApplicationComponent>

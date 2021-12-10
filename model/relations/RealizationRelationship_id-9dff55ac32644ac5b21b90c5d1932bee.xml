@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="utførende"
+    id="id-9dff55ac32644ac5b21b90c5d1932bee">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-782b313039504a008a16e4f95ae5317d.xml#id-782b313039504a008a16e4f95ae5317d"/>
+  <target
+      xsi:type="archimate:CourseOfAction"
+      href="CourseOfAction_id-8de8562aa462425fbd664fff89a6e808.xml#id-8de8562aa462425fbd664fff89a6e808"/>
+</archimate:RealizationRelationship>

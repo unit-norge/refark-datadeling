@@ -1,0 +1,40 @@
+<archimate:CourseOfAction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Utrede en nasjonal verktøykasse for deling av data"
+    id="id-2f6047c20d9347578e4a9da50074e5f5">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:course-of-action"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="digdir:link1"
+      value="https://www.digdir.no/digitalisering-og-samordning/okt-deling-av-data-og-verdiskaping/1228#initiativ_utrede_en_nasjonal_verktoykasse_for_deling_av_data_generisk_datafordeler"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Utrede en nasjonal verktøykasse for deling av data"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+  <properties
+      key="drill down"
+      value="id-425f4f071c8348db8c2a33b9688847a5"/>
+</archimate:CourseOfAction>

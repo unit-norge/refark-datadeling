@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="melding fra menneske til menneske"
+    id="id-f6b6800734d1478db911ec6001371b0b">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-a0e83a42f0d64e4a97e8fbb5c8bc4fdc.xml#id-a0e83a42f0d64e4a97e8fbb5c8bc4fdc"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-a0e83a42f0d64e4a97e8fbb5c8bc4fdc.xml#id-a0e83a42f0d64e4a97e8fbb5c8bc4fdc"/>
+</archimate:FlowRelationship>

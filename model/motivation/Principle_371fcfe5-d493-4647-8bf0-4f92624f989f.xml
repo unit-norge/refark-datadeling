@@ -1,0 +1,9 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Prinsipp 7: Sørg for tillit til oppgaveløsningen"
+    id="371fcfe5-d493-4647-8bf0-4f92624f989f"
+    documentation="[.lead]&#xD;&#xA;Innbyggere, næringsliv og frivillige organisasjoner skal ha tillit til at offentlige virksomheter løser sine oppgaver på en god og sikker måte. Dette forutsetter at forvaltningen etterlever regelverket og ivaretar krav til rettssikkerhet, effektivitet, informasjonssikkerhet og personvern.&#xD;&#xA;&#xD;&#xA;== Forklaring&#xD;&#xA;Offentlig forvaltning skal i så stor grad som mulig være åpen og gjennomsiktig om regler, prosesser, data, tjenester og vedtak. Dette innebærer å synliggjøre hva forvaltningen gjør på en måte som er forståelig for innbyggere, næringsliv og andre forvaltningsorganer.&#xD;&#xA;&#xD;&#xA;== Begrunnelse&#xD;&#xA;Begrunnelsen for prinsippet er at tillit til offentlig oppgaveløsning er en forutsetning for at innbyggere, næringsliv og frivillige organisasjoner velger de digitale offentlige tjenestene. Beskyttelse av rettssikkerhet, effektivitet, personvern, informasjonssikkerhet, åpenhet og gjennomsiktighet er viktige bidrag til denne tilliten.">
+  <properties
+      key="drill down"
+      value="ebe8141e-ef94-4c86-9a7f-5f387f3e0dc3"/>
+</archimate:Principle>

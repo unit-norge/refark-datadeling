@@ -1,0 +1,73 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Referansearkitektur for deling av data i høyere utdanning og forsking"
+    id="id-4ba1495ee9074380a2bf896da41834f3">
+  <properties
+      key="modelx:antora_component"
+      value="unit-ra"/>
+  <properties
+      key="modelx:antora_version"
+      value="main"/>
+  <properties
+      key="modelx:antora_module"
+      value="Bøker"/>
+  <properties
+      key="dct:type"
+      value="modelx:book"/>
+  <properties
+      key="modelx:book_front_cover_image"
+      value="image1.jpeg"/>
+  <properties
+      key="modelx:book_back_cover_image"
+      value="image11.png"/>
+  <properties
+      key="modelx:antora_update_script"
+      value="C:\antora\unit-norge\antora-playbook\update.sh"/>
+  <properties
+      key="modelx:guid"
+      value="id-4ba1495ee9074380a2bf896da41834f3"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="digdir:link1"/>
+  <properties
+      key="digdir:logo"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Referansearkitektur for deling av data i høyere utdanning og forsking"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value="&quot;Del data (operativt)&quot; handler om utveksling av data gjennom etablerte kanaler og iht. avtaler. Dette forutsetter også håndtering av avvik og ikke-tilsiktede hendelser.&#xD;&#xA;"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+  <properties
+      key="modelx:site_url"
+      value="https://unit-norge.github.io/"/>
+  <properties
+      key="modelx:author_name"/>
+  <properties
+      key="modelx:author_email"/>
+  <properties
+      key="modelx:view_reference"
+      value="id-67efac9af26d4e9d9365f15392948f11"/>
+  <properties
+      key="drill down"
+      value="id-67efac9af26d4e9d9365f15392948f11"/>
+</archimate:Representation>

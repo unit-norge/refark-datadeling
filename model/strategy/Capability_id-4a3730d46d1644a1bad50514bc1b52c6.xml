@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Automatisk hjemmelsbasert styring av tilgang til digitale tjenester"
+    id="id-4a3730d46d1644a1bad50514bc1b52c6">
+  <properties
+      key="difi:namespace"
+      value="Felles økosystem"/>
+</archimate:Capability>

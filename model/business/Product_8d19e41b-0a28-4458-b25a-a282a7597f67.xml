@@ -1,0 +1,36 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Databehandling/GDPR"
+    id="8d19e41b-0a28-4458-b25a-a282a7597f67"
+    documentation="Verktøy for å oppfylle kravene i den nye personopplysningsloven om å føre protokoll over behandlingsaktiviteter (artikkel 30). ">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:product"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Databehandling/GDPR"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Verktøy for å oppfylle kravene i den nye personopplysningsloven om å føre protokoll over behandlingsaktiviteter (artikkel 30). "/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Product>

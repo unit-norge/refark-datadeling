@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Autorisasjon gjennom sikkerhetsbillett"
+    id="id-d7f93b6e4dd5420caf7cb6f9018f8189">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-790edbc925b24187adbccb11b66a37b4.xml#id-790edbc925b24187adbccb11b66a37b4"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-592b210c4e904bfebcd47ca0c951de83.xml#id-592b210c4e904bfebcd47ca0c951de83"/>
+</archimate:ServingRelationship>

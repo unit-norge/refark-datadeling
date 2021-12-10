@@ -1,0 +1,36 @@
+<archimate:Deliverable
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Etablere målbilde og retningslinjer for bruk av ansatt-ID i forvaltning"
+    id="cff1f622-1d78-4e85-aebf-5cf896c540e2">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:deliverable"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="digdir:link1"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Etablere målbilde og retningslinjer for bruk av ansatt-ID i forvaltning"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Deliverable>

@@ -1,0 +1,38 @@
+<archimate:CourseOfAction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tiltak 3: Nasjonalt cybersikkerhetssenter"
+    id="id-5ff7d96dec6540dc847cfff74dace8a3"
+    documentation="NSM skal etablere Nasjonalt cybersikkerhetssenter. Senteret vil bygge på allerede besluttede og etablerte tiltak og bygger på en lignende struktur som andre toneangivende land med tilsvarende sentre. Senteret representerer en styrking av det arbeidet NSM allerede utfører. Senteret skal styrke samarbeidet mellom de ulike IKT-sikkerhetsmiljøene slik at ulike aktører opererer i et felles risikobilde og med samme situasjonsforståelse. Etableringen er et viktig steg i videreutviklingen av det privat-offentlige samarbeidet innenfor IKT-sikkerhetsområdet. For å sikre tydelig ansvars- og rollefordeling er det viktig med et godt samarbeid mellom det nasjonale cybersikkerhetssenteret og politiets NC3-senter (se tiltak 4) for best mulig utnyttelse av samfunnets ressurser på området. IKT-sikkerhetsutvalgets anbefalinger (se tiltak 6) vil kunne ha betydning for den videre utviklingen av senteret.&#xD;&#xA;&#xD;&#xA;Ansvarlig virksomhet: FD, JD og NSM&#xD;&#xA;&#xD;&#xA;Gjennomføres: Oppstart 2018">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:course-of-action"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="digdir:link1"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Tiltak 3: Nasjonalt cybersikkerhetssenter"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="NSM skal etablere Nasjonalt cybersikkerhetssenter. Senteret vil bygge på allerede besluttede og etablerte tiltak og bygger på en lignende struktur som andre toneangivende land med tilsvarende sentre. Senteret representerer en styrking av det arbeidet NSM allerede utfører. Senteret skal styrke samarbeidet mellom de ulike IKT-sikkerhetsmiljøene slik at ulike aktører opererer i et felles risikobilde og med samme situasjonsforståelse. Etableringen er et viktig steg i videreutviklingen av det privat-offentlige samarbeidet innenfor IKT-sikkerhetsområdet. For å sikre tydelig ansvars- og rollefordeling er det viktig med et godt samarbeid mellom det nasjonale cybersikkerhetssenteret og politiets NC3-senter (se tiltak 4) for best mulig utnyttelse av samfunnets ressurser på området. IKT-sikkerhetsutvalgets anbefalinger (se tiltak 6) vil kunne ha betydning for den videre utviklingen av senteret.&#xD;&#xA;&#xD;&#xA;Ansvarlig virksomhet: FD, JD og NSM&#xD;&#xA;&#xD;&#xA;Gjennomføres: Oppstart 2018"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:CourseOfAction>

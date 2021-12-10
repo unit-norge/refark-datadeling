@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="spesifikasjon av abonnement"
+    id="480804ea-730d-4541-861a-1f4ce4a98537">
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_5072d2ea-585e-412c-84cd-c1ebc4097b04.xml#5072d2ea-585e-412c-84cd-c1ebc4097b04"/>
+  <target
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_ff6e1e26-9fee-4395-a9e6-78206188f732.xml#ff6e1e26-9fee-4395-a9e6-78206188f732"/>
+</archimate:FlowRelationship>

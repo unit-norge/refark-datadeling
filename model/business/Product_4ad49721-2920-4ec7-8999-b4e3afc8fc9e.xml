@@ -1,0 +1,36 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rammeverk for informasjonsforvaltning"
+    id="4ad49721-2920-4ec7-8999-b4e3afc8fc9e"
+    documentation="Rammeverket gir føringer, støtte og verktøy i arbeidet med orden i eget hus og etableringen av «kun én gang» som førende prinsipp.&#xD;&#xA;Rammeverket gir føringer og struktur som danner grunnmuren for bedre samhandling. LOS er en del av rammeverket.">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:product"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Rammeverk for informasjonsforvaltning"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Rammeverket gir føringer, støtte og verktøy i arbeidet med orden i eget hus og etableringen av «kun én gang» som førende prinsipp.&#xD;&#xA;Rammeverket gir føringer og struktur som danner grunnmuren for bedre samhandling. LOS er en del av rammeverket."/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Product>

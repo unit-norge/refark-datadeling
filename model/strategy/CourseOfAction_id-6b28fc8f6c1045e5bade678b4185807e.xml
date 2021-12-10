@@ -1,0 +1,37 @@
+<archimate:CourseOfAction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vurdere å videreutvikle tilbud om kompetanse, erfaring og gevinstrealisering"
+    id="id-6b28fc8f6c1045e5bade678b4185807e">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:course-of-action"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="digdir:link1"
+      value="https://www.digdir.no/digitalisering-og-samordning/styring-og-samordning-en-mer-sammenhengende-offentlig-sektor/1258#initiativ_vurdere_aa_videreutvikle_tilbud_om_kompetanse_erfaring_og_gevinstrealisering"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Vurdere å videreutvikle tilbud om kompetanse, erfaring og gevinstrealisering"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:CourseOfAction>

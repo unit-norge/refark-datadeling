@@ -1,0 +1,36 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Innovasjonsbarometer"
+    id="869a1c35-ba72-44d6-88cd-31c27f6b0709"
+    documentation="Europeisk (?)  samarbeid som hjelper til å øke innoavsjonsevnene gjennom å løfte frem eksempler &#xD;&#xA;&#xD;&#xA;NB: Se også https://www.ks.no/fagomrader/innovasjon/innovasjonsledelse/innovasjonsbarometeret-2020/innovasjonsbarometeret-2020-metodeskriv/&#xD;&#xA;">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:product"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Innovasjonsbarometer"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Europeisk samarbeid som hjelper til å øke innoavsjonsevnene gjennom å løfte frem eksempler "/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Product>

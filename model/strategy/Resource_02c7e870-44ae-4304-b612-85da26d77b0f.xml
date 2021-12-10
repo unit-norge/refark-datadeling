@@ -1,0 +1,21 @@
+<archimate:Resource
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Basic patterns for request-reply towards multiple data providers (linked datra)"
+    id="02c7e870-44ae-4304-b612-85da26d77b0f">
+  <properties
+      key="difi:name_no"
+      value="Mønster for forespørsel-svar mot flere datakilder"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:name_en"
+      value="Mønster for forespørsel-svar mot flere datakilder"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+</archimate:Resource>

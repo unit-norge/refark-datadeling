@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Publisert tynn notifikasjon"
+    id="id-0181cd35f45c4e37b725a2a3e962db60"
+    documentation="Notifikasjon med beskjed om hva som har skjedd og hvor man finner resultatet, dvs peker mot datagrunnlaget."/>

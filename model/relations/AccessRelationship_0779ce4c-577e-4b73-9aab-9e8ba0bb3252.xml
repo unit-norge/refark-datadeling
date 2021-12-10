@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="kan forvalte"
+    id="0779ce4c-577e-4b73-9aab-9e8ba0bb3252">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_96c3ebaa-b2d9-4887-8c0c-794516a23058.xml#96c3ebaa-b2d9-4887-8c0c-794516a23058"/>
+  <target
+      xsi:type="archimate:Contract"
+      href="Contract_eb28b86c-7d5f-421b-9033-e1ddaecf7e7e.xml#eb28b86c-7d5f-421b-9033-e1ddaecf7e7e"/>
+</archimate:AccessRelationship>

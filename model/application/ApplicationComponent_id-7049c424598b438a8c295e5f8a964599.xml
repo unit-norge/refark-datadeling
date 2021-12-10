@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ressursportal"
+    id="id-7049c424598b438a8c295e5f8a964599"
+    documentation="Ressursportalen holder oversikt over og tildeler&#xD;&#xA;tilganger til beskyttede ressurser i høyere utdanning og&#xD;&#xA;forskningssektoren i henhold til føringer fra eierne av disse&#xD;&#xA;ressursene. Tilganger er gitt i form av sikkerhetsbilletter.&#xD;&#xA;Ressursportalen er en del av den felles infrastrukturen for føderert API&#xD;&#xA;management for høyere utdanning og forskning. Den registrerer og holder&#xD;&#xA;oversikt over API og meldingsbaserte notifikasjoner, holder oversikt&#xD;&#xA;over klienter som har blitt tildelt tilgang til disse og hvilke&#xD;&#xA;tilganger det gjelder. Ressursportalen benytter JSON Web Token&#xD;&#xA;formattert OAuth2 sikkerhetsbilletter for å gi tilgang til ressurser&#xD;&#xA;gjennom API gateway og meldingstjenester nær de beskyttede ressursene.&#xD;&#xA;&#xD;&#xA;|UHF Autorisasjon |Autorisasjonstjenester realiserer tilgangskontroll&#xD;&#xA;gjennom å utstede sikkerhetsbilletter. En autorisasjonstjener er også&#xD;&#xA;brukt til å realisere autorisasjonspolicy for tilgang og roller">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:ApplicationComponent>

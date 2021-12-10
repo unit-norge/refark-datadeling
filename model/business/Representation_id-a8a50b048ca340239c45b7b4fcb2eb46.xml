@@ -1,0 +1,52 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Hva er datadeling (copy)"
+    id="id-a8a50b048ca340239c45b7b4fcb2eb46"
+    documentation="=== Hva er datadeling?&#xD;&#xA;&#xD;&#xA;Følgende definisjon for datadeling er hentet fra&#xD;&#xA;Digitaliseringsdirektoratets&#xD;&#xA;https://nasjonal-arkitektur.github.io/architecture-repository/data-sharing/data-sharing.html#_hva_er_datadeling[temaområde&#xD;&#xA;for datadeling].&#xD;&#xA;&#xD;&#xA;****&#xD;&#xA;Formålet med datadeling er å forsyne forretningsprosesser og dataanalyse&#xD;&#xA;med nødvendig datagrunnlag for aktuell oppgaveløsning.&#xD;&#xA;&#xD;&#xA;De fleste aktører sitter på begge sider i dette bildet, og må kunne&#xD;&#xA;både _dele_ og _innhente_ data. Det skilles på rollene&#xD;&#xA;som _tilbyder_ og _konsument_.&#xD;&#xA;&#xD;&#xA;I noen sammenhenger skilles det også mellom _data_ og _hendelser_.&#xD;&#xA;****">
+  <properties
+      key="dct:type"
+      value="modelx:section"/>
+  <properties
+      key="modelx:antora_component"
+      value="unit-ra"/>
+  <properties
+      key="modelx:antora_version"
+      value="main"/>
+  <properties
+      key="modelx:antora_module"
+      value="unit-ra-datadeling-tilnærming"/>
+  <properties
+      key="modelx:guid"
+      value="id-66c46c1d186a4cde83b98bfbf3b54e33"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="digdir:link1"/>
+  <properties
+      key="digdir:logo"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Hva er datadeling"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Følgende definisjon for datadeling er hentet fra&#xD;&#xA;Digitaliseringsdirektoratets&#xD;&#xA;https://doc.difi.no/nasjonal-arkitektur/nab_arkitekturlandskap_segmentarkitektur_datadeling/[segmentarkitektur for datadeling].&#xD;&#xA;&#xD;&#xA;[sidebar]&#xD;&#xA;._Datadeling_&#xD;&#xA;--&#xD;&#xA;Datadeling handler om å forsyne forretningsprosesser og dataanalyse med nødvendig datagrunnlag.&#xD;&#xA;&#xD;&#xA;De fleste aktører sitter på begge sider i dette bildet, og må kunne&#xD;&#xA;både _dele_ og _innhente_ data og hendelser. I beskrivelsene skilles det&#xD;&#xA;likevel gjerne på rollene som _tilbyder_ og _konsument_.&#xD;&#xA;&#xD;&#xA;Begrepet _datadeling_ er ut fra dette å oppfatte som kortform&#xD;&#xA;for *_deling og innhenting av data og hendelser_*.&#xD;&#xA;--"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Representation>

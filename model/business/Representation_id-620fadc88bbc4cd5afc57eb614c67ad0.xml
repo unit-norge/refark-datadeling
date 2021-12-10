@@ -1,0 +1,52 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Målgruppe"
+    id="id-620fadc88bbc4cd5afc57eb614c67ad0"
+    documentation="Målgruppen for referansearkitekturen er primært arkitekter og tekniske prosjektledere. Deler av dokumentet er også relevant for domeneansvarlige, begrepseiere, tjenesteeiere, tjenesteansvarlige, utviklere og datakonsumenter (disse rollene er definert i dette dokumentet).">
+  <properties
+      key="dct:type"
+      value="modelx:section"/>
+  <properties
+      key="modelx:antora_component"
+      value="unit-ra"/>
+  <properties
+      key="modelx:antora_version"
+      value="main"/>
+  <properties
+      key="modelx:antora_module"
+      value="unit-ra-datadeling-introduksjon"/>
+  <properties
+      key="modelx:guid"
+      value="id-620fadc88bbc4cd5afc57eb614c67ad0"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="digdir:link1"/>
+  <properties
+      key="digdir:logo"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Målgruppe"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Målgruppen for referansearkitekturen er primært arkitekter og tekniske prosjektledere."/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Representation>

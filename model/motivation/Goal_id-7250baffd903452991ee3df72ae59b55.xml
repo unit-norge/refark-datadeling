@@ -1,0 +1,38 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enklere tilgang til offentlige data"
+    id="id-7250baffd903452991ee3df72ae59b55"
+    documentation="Fra prosjekt Deling av data: Formålet med tiltaket er at det skal bli enklere for offentlige og private virksomheter å få tilgang til og bruke offentlige data. Prosjektet er nå i gjennomføringsfasen. I denne fasen er det fokus på iverksetting av tiltak for bedre og økt deling av data og verdiskaping. Prosjektet skal også sørge for godt samarbeid på tvers av ulike sektorer.">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:goal"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="digdir:link1"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Enklere tilgang til offentlige data"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Fra prosjekt Deling av data: Formålet med tiltaket er at det skal bli enklere for offentlige og private virksomheter å få tilgang til og bruke offentlige data. Prosjektet er nå i gjennomføringsfasen. I denne fasen er det fokus på iverksetting av tiltak for bedre og økt deling av data og verdiskaping. Prosjektet skal også sørge for godt samarbeid på tvers av ulike sektorer."/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Goal>

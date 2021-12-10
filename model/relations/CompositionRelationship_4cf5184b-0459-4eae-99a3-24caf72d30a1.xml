@@ -1,0 +1,22 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="4cf5184b-0459-4eae-99a3-24caf72d30a1">
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:description_no"/>
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_9ceba6f4-30e9-4780-b757-3bc191ef3f28.xml#9ceba6f4-30e9-4780-b757-3bc191ef3f28"/>
+  <target
+      xsi:type="archimate:Resource"
+      href="Resource_074d649a-ae4b-4f82-b4ba-9cbb43c22a71.xml#074d649a-ae4b-4f82-b4ba-9cbb43c22a71"/>
+</archimate:CompositionRelationship>

@@ -1,0 +1,22 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Messagng QoS"
+    id="id-428bf8c970134318b18194b9bcee8a05">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-83e455f3b5654f33b9e75535f342409a"
+      textPosition="1">
+    <features
+        name="gradient"
+        value="1"/>
+    <bounds
+        x="42"
+        y="36"
+        width="137"
+        height="71"/>
+    <archimateElement
+        xsi:type="archimate:Capability"
+        href="Capability_id-625ee4cd50e5471ca2e196cf8f8b53ba.xml#id-625ee4cd50e5471ca2e196cf8f8b53ba"/>
+  </children>
+</archimate:ArchimateDiagramModel>

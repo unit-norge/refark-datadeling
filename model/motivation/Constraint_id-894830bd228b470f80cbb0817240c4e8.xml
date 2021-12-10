@@ -1,0 +1,5 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Unngå flere instanser av samme objekt i samme diagram"
+    id="id-894830bd228b470f80cbb0817240c4e8"
+    documentation="Rationale: Enkelte vektøy støtter ikke dette, slik som Sparx Enterprise Architect. "/>

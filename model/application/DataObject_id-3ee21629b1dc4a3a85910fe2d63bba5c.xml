@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Roller og tilgangsregler"
+    id="id-3ee21629b1dc4a3a85910fe2d63bba5c"
+    documentation="Definisjon av roller som blir brukt til å styre&#xD;&#xA;autorisasjon for å gi tilgang for en klient til et eller flere API.&#xD;&#xA;Definisjon av regler for tilgang til et eller flere API">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:DataObject>

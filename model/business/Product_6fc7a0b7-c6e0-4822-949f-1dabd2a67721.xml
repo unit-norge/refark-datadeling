@@ -1,0 +1,36 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Skate"
+    id="6fc7a0b7-c6e0-4822-949f-1dabd2a67721"
+    documentation="&quot;Skate består av direktørane i ni statlege verksemder og to toppleiarrepresentantar frå kommunesektoren. Medlemmane i Skate er oppnemnde av Kommunal- og moderniseringsdepartementet (KMD). Siste oppnemning skjedde 1.1.2018 og gjeld for tre år.&#xD;&#xA;Skate er leia av Difi, som og har Skatesekretariatet.&quot;">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:product"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Skate"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="&quot;Skate består av direktørane i ni statlege verksemder og to toppleiarrepresentantar frå kommunesektoren. Medlemmane i Skate er oppnemnde av Kommunal- og moderniseringsdepartementet (KMD). Siste oppnemning skjedde 1.1.2018 og gjeld for tre år.&#xD;&#xA;Skate er leia av Difi, som og har Skatesekretariatet.&quot;"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Product>

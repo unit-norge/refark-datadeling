@@ -1,0 +1,21 @@
+<archimate:Resource
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Common capability maps"
+    id="d8f653e8-9132-4400-bdff-58f40e9d08ac">
+  <properties
+      key="difi:name_no"
+      value="Felles kapabilitestskart"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:name_en"
+      value="Felles kapabilitestskart"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+</archimate:Resource>

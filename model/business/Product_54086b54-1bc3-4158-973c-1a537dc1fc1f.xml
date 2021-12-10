@@ -1,0 +1,36 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Torget for digitale fellesløsninger"
+    id="54086b54-1bc3-4158-973c-1a537dc1fc1f"
+    documentation="Torget et nettsider som samlet gir informasjon om de ulike fellesløsningene offentlig sektor kan benytte i forbindelse med utvikling av tjenester. Torget er under utvikling. I dag vises de fleste løsningene i økosystemet.">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:product"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Torget for digitale fellesløsninger"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Torget et nettsider som samlet gir informasjon om de ulike fellesløsningene offentlig sektor kan benytte i forbindelse med utvikling av tjenester. Torget er under utvikling. I dag vises de fleste løsningene i økosystemet."/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Product>

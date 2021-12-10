@@ -1,0 +1,36 @@
+<archimate:Deliverable
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="I samråd med KS, Skate og brukerne av de nasjonale fellesløsningene, skal Digitaliseringsdirektoratet i 2020 utarbeide et forslag til samordnet modell for organisering, styring og finansiering av de felleskomponenter og fellesløsninger som Digitaliseringsdirektoratet har ansvaret for."
+    id="b132b30e-eaae-4758-9605-4efb4d3327fb">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:deliverable"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="digdir:link1"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="I samråd med KS, Skate og brukerne av de nasjonale fellesløsningene, skal Digitaliseringsdirektoratet i 2020 utarbeide et forslag til samordnet modell for organisering, styring og finansiering av de felleskomponenter og fellesløsninger som Digitaliseringsdirektoratet har ansvaret for."/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Deliverable>

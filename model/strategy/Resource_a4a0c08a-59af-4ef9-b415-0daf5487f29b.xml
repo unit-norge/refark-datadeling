@@ -1,0 +1,35 @@
+<archimate:Resource
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Patterns for human interaction"
+    id="a4a0c08a-59af-4ef9-b415-0daf5487f29b">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Mønstre for menneskelig interaksjon"/>
+  <properties
+      key="difi:name_en"
+      value="Mønstre for menneskelig interaksjon"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:grouping"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Resource>

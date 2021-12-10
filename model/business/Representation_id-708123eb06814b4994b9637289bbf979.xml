@@ -1,0 +1,18 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Domener"
+    id="id-708123eb06814b4994b9637289bbf979"
+    documentation="Informasjonen som skal forvaltes finnes i en faglig kontekst som vi&#xD;&#xA;kaller et «domene».&#xD;&#xA;&#xD;&#xA;Innen et domene definerer et fagområde sine begreper i det vokabularet&#xD;&#xA;som benyttes der. For eksempel vil et begrep som&#xD;&#xA;«Søker»footnote:[_Person som_ har søkt opptak til et studieprogram eller&#xD;&#xA;enkeltemner ved et universitet eller en høyskole.] ha en beskrivelse,&#xD;&#xA;forståelse og sine egne data i et studieadministrativt domene.&#xD;&#xA;&#xD;&#xA;Som en del av den generelle utvikling innen IT systemer, er sektoren i&#xD;&#xA;ferd med å bygge en distribuert arkitektur som knytter sammen løst&#xD;&#xA;koblet, delte datakilder. +&#xD;&#xA;Referansearkitekturen er laget for å støtte denne utviklingen ved å&#xD;&#xA;benytte domener som utgangspunkt for informasjonsforvaltning, utvikling&#xD;&#xA;av datakilder, datasett, API og hendelser.&#xD;&#xA;&#xD;&#xA;Referansearkitekturen beskriver en datadelingsplattform som støtter&#xD;&#xA;deling av data mellom domener gjennom både API og publisering av&#xD;&#xA;hendelser. Vi grupperer domenene i grunnleggende domener og domener&#xD;&#xA;utviklet for spesielle brukstilfeller som avbildet under.&#xD;&#xA;&#xD;&#xA;.Domener i UHF-sektoren&#xD;&#xA;image::{imagepath}DomenerUHF.png[]&#xD;&#xA;&#xD;&#xA;De *_grunnleggende domenene_* inneholder data som støtter de sentrale&#xD;&#xA;prosessene for læring, forskning og administrasjon hos institusjonene.&#xD;&#xA;&#xD;&#xA;Disse domenene inneholder blant annet *_masterdatakilder_* med&#xD;&#xA;informasjon om, for eksempel, studenter, ansatte, forskningsprosjekt,&#xD;&#xA;forskningsresultater, læringsobjekter, med flere. Disse kildene er&#xD;&#xA;definert ut fra en dyp forståelse av sektorenes funksjon og vil typisk&#xD;&#xA;være forholdsvis stabile over tid.&#xD;&#xA;&#xD;&#xA;API og datasett definert i grunnleggende domener blir gjerne gjenbrukt&#xD;&#xA;av bruksnære domener.&#xD;&#xA;&#xD;&#xA;De *_bruksnære domenene_* er definert til å støtte en spesifikk&#xD;&#xA;brukernær kontekst. Domener for brukskontekst inkluderer for eksempel&#xD;&#xA;situasjoner der studenter evaluerer emner, der studenter får&#xD;&#xA;automatisert tilbakemeldinger for å forbedre læringsprosessen&#xD;&#xA;(læringsanalyse) og der deltagere i forskningsprosjekt utfører forsøk.&#xD;&#xA;&#xD;&#xA;Datasett og API definert her skal være _spesifikke_ og skreddersydd til&#xD;&#xA;brukskonteksten.&#xD;&#xA;&#xD;&#xA;Vi har hentet denne tilnærmingen fra faglitteratur om Data&#xD;&#xA;Meshfootnote:[Fra&#xD;&#xA;«https://martinfowler.com/articles/data-monolith-to-mesh.html#DomainDataAsAProduct[How&#xD;&#xA;to Move Beyond a Monolithic Data Lake to a Distributed Data Mesh]» av&#xD;&#xA;https://twitter.com/zhamakd[Zhamak Dehghani]]. Arkitekturen påvirker&#xD;&#xA;rutiner for utvikling av API, datasett og notifikasjoner beskrevet i&#xD;&#xA;seksjonen Rutiner for utvikling av API, notifikasjoner og datasett samt&#xD;&#xA;roller og ansvar beskrevet i seksjonen Roller og ansvar for datadeling&#xD;&#xA;og informasjonsforvaltning.">
+  <properties
+      key="modelx:antora_component"
+      value="unit-ra"/>
+  <properties
+      key="modelx:antora_version"
+      value="main"/>
+  <properties
+      key="modelx:antora_module"
+      value="unit-ra-datadeling-tilnærming"/>
+  <properties
+      key="dct:type"
+      value="modelx:section"/>
+</archimate:Representation>

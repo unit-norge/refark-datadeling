@@ -1,0 +1,5 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Føringer for bruk av arkitekturprinsippene"
+    id="65d76e14-9035-4dd9-b211-20c57e3c6856"
+    documentation="Prinsippene er gjennom digitaliseringsrundskrivet obligatoriske for statlig sektor, og anbefalte for kommunesektoren. Der prinsippene og rundskrivet kan tolkes forskjellig er det digitaliseringsrundskrivet som gjelder.&#xD;&#xA;&#xD;&#xA;Prinsippene skal legges til grunn ved etablering av nye IT-løsninger eller ved vesentlige ombygging av eksisterende IT-løsninger. Prinsippene gjelder både ved egenutvikling og ved anskaffelser. Den enkelte sektor og virksomhet er ansvarlig for å konkretisere og innarbeide de overordnede arkitekturprinsippene i sin arkitektur, og når det skal etableres egne arkitekturprinsipper i sektoren eller virksomheten.&#xD;&#xA;&#xD;&#xA;Dersom prinsippene fører til vesentlige uønskede konsekvenser, kan de helt eller delvis fravikes. Virksomheten må kunne dokumentere og begrunne eventuelle avvik."/>

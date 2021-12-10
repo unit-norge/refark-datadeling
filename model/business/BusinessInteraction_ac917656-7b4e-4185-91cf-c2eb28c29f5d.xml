@@ -1,0 +1,32 @@
+<archimate:BusinessInteraction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4. Forespørsel omellom to parter med krav til «umiddelbar» respons"
+    id="ac917656-7b4e-4185-91cf-c2eb28c29f5d"
+    documentation="4. Forespørsel om informasjon mellom to parter med «umiddelbar» respons (prosess hos en part er avhengig av informasjon fra annen part for å fortsette)  ">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="4. Forespørsel om informasjon mellom to parter med «umiddelbar» respons (prosess hos en part er avhengig av informasjon fra annen part for å fortsette)  "/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="business-interaction"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
+</archimate:BusinessInteraction>

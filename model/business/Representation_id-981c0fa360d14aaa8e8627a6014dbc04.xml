@@ -1,0 +1,52 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Issues mot nasjonale felleskompontenter (Maskinporten, ID Porten og Altinn autorisasjon)"
+    id="id-981c0fa360d14aaa8e8627a6014dbc04"
+    documentation="&#xD;&#xA;[arabic]&#xD;&#xA;. Harmonisering av autorisasjon&#xD;&#xA;[loweralpha]&#xD;&#xA;.. Det er ønskelig at UHF autorisasjonstjener og Maskinporten godkjenner&#xD;&#xA;hverandres tokens. Dette forutsetter at informasjonsmodellen benyttet i&#xD;&#xA;tokens er felles. Løsningsvarianter:&#xD;&#xA;[lowerroman]&#xD;&#xA;... Klienter forholder seg til flere autentiseringstjenere og&#xD;&#xA;standardisere token struktur&#xD;&#xA;... Innbytte av tokens (token exchange) fra andre “trusted”&#xD;&#xA;autorisasjonstjenere. En konsekvens av dette er at man mister (?)&#xD;&#xA;koblingen til bruker og dermed kjennskap til autentiseringsstyrken som&#xD;&#xA;ligger bak.&#xD;&#xA;... Software Statement Assertion (https://tools.ietf.org/html/rfc7521 –&#xD;&#xA;løsning benyttet av Open Banking UK&#xD;&#xA;. Harmonisering av samtykke&#xD;&#xA;[loweralpha]&#xD;&#xA;.. Altinn autorisasjon benytter «Self-contained OAuth2 token» for&#xD;&#xA;samtykke. Men da vi ikke kan godkjenne tokens på tvers, har vi&#xD;&#xA;utfordringer med å benytte Altinn autorisasjon direkte. I hvert fall&#xD;&#xA;dekker det ikke skopes vi har anvar for i UHF autorisasjonstjeneren&#xD;&#xA;.. Hjelper User Managed Access (UMA) her?&#xD;&#xA;. Delegering av rettigheter (fullmakt??): Altinn har per i dag ingen god&#xD;&#xA;mekanisme for å delegere rettigheter under organisasjonsgranulariteten i&#xD;&#xA;Enhetsregisteret. Vi tror ikke dette er et problem siden vi *forventer&#xD;&#xA;at IGA innenfor UHF sektoren vil dekke våre behov.*&#xD;&#xA;">
+  <properties
+      key="dct:type"
+      value="modelx:section"/>
+  <properties
+      key="modelx:antora_component"
+      value="unit-ra"/>
+  <properties
+      key="modelx:antora_version"
+      value="main"/>
+  <properties
+      key="modelx:antora_module"
+      value="unit-ra-datadeling-vedlegg-b"/>
+  <properties
+      key="modelx:guid"
+      value="id-981c0fa360d14aaa8e8627a6014dbc04"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="digdir:link1"/>
+  <properties
+      key="digdir:logo"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Issues mot nasjonale felleskompontenter (Maskinporten, ID Porten og Altinn autorisasjon)"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="[arabic]&#xD;&#xA;. Harmonisering av autorisasjon&#xD;&#xA;[loweralpha]&#xD;&#xA;.. Det er ønskelig at UHF autorisasjonstjener og Maskinporten godkjenner&#xD;&#xA;hverandres tokens. Dette forutsetter at informasjonsmodellen benyttet i&#xD;&#xA;tokens er felles. Løsningsvarianter:&#xD;&#xA;[lowerroman]&#xD;&#xA;... Klienter forholder seg til flere autentiseringstjenere og&#xD;&#xA;standardisere token struktur&#xD;&#xA;... Innbytte av tokens (token exchange) fra andre “trusted”&#xD;&#xA;autorisasjonstjenere. En konsekvens av dette er at man mister (?)&#xD;&#xA;koblingen til bruker og dermed kjennskap til autentiseringsstyrken som&#xD;&#xA;ligger bak.&#xD;&#xA;... Software Statement Assertion&#xD;&#xA;(https://tools.ietf.org/html/draft-ietf-oauth-assertions-18) – løsning&#xD;&#xA;benyttet av Open Banking UK&#xD;&#xA;. Harmonisering av samtykke&#xD;&#xA;[loweralpha]&#xD;&#xA;.. Altinn autorisasjon benytter «Self-contained OAuth2 token» for&#xD;&#xA;samtykke. Men da vi ikke kan godkjenne tokens på tvers, har vi&#xD;&#xA;utfordringer med å benytte Altinn autorisasjon direkte. I hvert fall&#xD;&#xA;dekker det ikke skopes vi har anvar for i UHF autorisasjonstjeneren&#xD;&#xA;.. Hjelper User Managed Access (UMA) her?&#xD;&#xA;. Delegering av rettigheter (fullmakt??): Altinn har per i dag ingen god&#xD;&#xA;mekanisme for å delegere rettigheter under organisasjonsgranulariteten i&#xD;&#xA;Enhetsregisteret. Vi tror ikke dette er et problem siden vi *forventer&#xD;&#xA;at IGA innenfor UHF sektoren vil dekke våre behov.*"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Representation>

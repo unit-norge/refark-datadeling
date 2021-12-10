@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Security"
+    id="id-625ee4cd50e5471ca2e196cf8f8b53ba"
+    documentation="Capabilities to provide data protection, such as confidentiality and integrity (often built into the messaging layer)"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FIKS/KS SvarUt"
+    id="id-5db4a115464c4054943aa1a0676fc18e"
+    documentation="SvarUt er en komponent som koples til kommunenes fagsystemer, vanligvis sak/arkivsystemet. Saksbehandleren bruker sak/arkivsystemet som før, adresserer posten og påfører fødsels- eller organisasjonsnummeret til mottakeren, dersom dette er kjent. Deretter ekspederes dette til SvarUt i stedet for til vanlig utskrift. Så tar SvarUt over jobben."/>

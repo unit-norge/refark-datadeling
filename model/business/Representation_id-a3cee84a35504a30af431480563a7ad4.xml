@@ -1,0 +1,23 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Muliggjørende kapabiliteter (copy)"
+    id="id-a3cee84a35504a30af431480563a7ad4">
+  <properties
+      key="dct:type"
+      value="modelx:archimate_view"/>
+  <properties
+      key="modelx:antora_component"
+      value="unit-ra"/>
+  <properties
+      key="modelx:antora_version"
+      value="main"/>
+  <properties
+      key="modelx:antora_module"
+      value="unit-ra-datadeling-tilnærming"/>
+  <properties
+      key="modelx:view_reference"
+      value="id-64303b6a8c114213a203a7bde65b11b8"/>
+  <properties
+      key="drill down"
+      value="id-64303b6a8c114213a203a7bde65b11b8"/>
+</archimate:Representation>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Notifikasjon meldingsformidler"
+    id="id-c1c929b39478421f81e0f6024df87c7b"
+    documentation="Meldingsformidler er en tjeneste som tilgjengeliggjør, beskytter og&#xD;&#xA;overvåker tilgang til notifikasjoner i form av meldinger hos&#xD;&#xA;datatilbyder. Den håndhever tilgangsstyring ved å validere&#xD;&#xA;sikkerhetsbilletter og utfører eventuell fin-granulert tilgangskontroll.&#xD;&#xA;Den håndhever også volumbegrensninger og samler data om bruken av&#xD;&#xA;notifikasjoner (logging).&#xD;&#xA;&#xD;&#xA;Meldingsformidleren som benyttes bør kunne tilby&#xD;&#xA;&#xD;&#xA;* leveransegaranti; når en hendelse er mottatt fra en produsent, så skal&#xD;&#xA;den leveres hos en konsument&#xD;&#xA;* sikkerhet; autentisering og autorisasjon av produsenter og konsumenter&#xD;&#xA;* fleksibel distribuering av hendelser; en «event mesh» må kunne endres&#xD;&#xA;raskt uten nedetid&#xD;&#xA;* støtte for flere åpne _protokoller_"/>

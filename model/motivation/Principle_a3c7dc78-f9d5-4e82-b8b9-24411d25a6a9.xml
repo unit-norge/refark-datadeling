@@ -1,0 +1,9 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Prinsipp 6: Lag digitale løsninger som støtter samhandling"
+    id="a3c7dc78-f9d5-4e82-b8b9-24411d25a6a9"
+    documentation="[.lead]&#xD;&#xA;Digitale løsninger skal utvikles slik at de kan samhandle med andre løsninger i offentlig og privat sektor.&#xD;&#xA;&#xD;&#xA;== Forklaring&#xD;&#xA;For å få til dette må en sørge for juridisk, organisatorisk, semantisk og teknisk samhandlingsevne. Dette innebærer blant annet behov for standardisering, avtaler og felles begrepsapparat.&#xD;&#xA;&#xD;&#xA;== Begrunnelse&#xD;&#xA;Begrunnelsen for prinsippet er at samhandlingsvennlige løsninger er en forutsetning for å realisere sammenhengende tjenester og tverrgående prosesser, på en fleksibel og kostnadseffektiv måte.">
+  <properties
+      key="drill down"
+      value="6d8dcaf0-f1bd-4c0a-ba0e-1c5311a9d93e"/>
+</archimate:Principle>

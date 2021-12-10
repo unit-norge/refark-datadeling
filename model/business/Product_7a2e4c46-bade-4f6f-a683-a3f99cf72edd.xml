@@ -1,0 +1,36 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Nasjonalt arkitekturbibliotek"
+    id="7a2e4c46-bade-4f6f-a683-a3f99cf72edd"
+    documentation="Nasjonalt arkitekturbibliotek inneholder arkitekturdokumentasjon - modeller, standarder, referansearkitekturer, veiledninger, anbefalinger, tips, maler og annet av interesse på tvers av sektorer i Norge. Primær målgruppe er ulike arkitektroller, fra virksomhetsarkitekter til løsningsarkitekter.">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:product"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Nasjonalt arkitekturbibliotek"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Nasjonalt arkitekturbibliotek inneholder arkitekturdokumentasjon - modeller, standarder, referansearkitekturer, veiledninger, anbefalinger, tips, maler og annet av interesse på tvers av sektorer i Norge. Primær målgruppe er ulike arkitektroller, fra virksomhetsarkitekter til løsningsarkitekter."/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Product>

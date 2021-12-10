@@ -1,0 +1,36 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sikre at virksomhetene oppnår tilstrekkelig modenhet innenfor informasjonssikkerhet og blir bedre rustet til å følge endringene i trusselbildet"
+    id="id-663e1cde1f304850ad54b8ef6a9690b9">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:goal"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="digdir:link1"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Sikre at virksomhetene oppnår tilstrekkelig modenhet innenfor informasjonssikkerhet og blir bedre rustet til å følge endringene i trusselbildet"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Goal>

@@ -1,0 +1,36 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dialog om behov for og innhold i en ev. samarbeidsavtale mellom KMD og KS knyttet til felles økosystem for nasjonal digital samhandling og tjenesteutvikling"
+    id="afa2f54d-1d5f-4d53-bfb3-99b23138eaaf">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:work-package"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="digdir:link1"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Dialog om behov for og innhold i en ev. samarbeidsavtale mellom KMD og KS knyttet til felles økosystem for nasjonal digital samhandling og tjenesteutvikling"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:WorkPackage>

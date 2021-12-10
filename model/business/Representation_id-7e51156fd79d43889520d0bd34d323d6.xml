@@ -1,0 +1,24 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Delegere rettigheter til databehandler - UHF"
+    id="id-7e51156fd79d43889520d0bd34d323d6"
+    documentation="Delegering av rettigheter til databehandler er det en konsument må gjøre&#xD;&#xA;for at en leverandør kan identifisere seg med sitt eget&#xD;&#xA;virksomhetssertifikat og opptre på vegne av konsumenten som er den som&#xD;&#xA;innehar behandlingsgrunnlaget for å innhente data.">
+  <properties
+      key="modelx:antora_component"
+      value="unit-ra"/>
+  <properties
+      key="modelx:antora_version"
+      value="main"/>
+  <properties
+      key="modelx:antora_module"
+      value="unit-ra-datadeling-datautveksling"/>
+  <properties
+      key="dct:type"
+      value="modelx:archimate_view"/>
+  <properties
+      key="modelx:view_reference"
+      value="id-e137cc8a9ab64b338422acb0fe1d1618"/>
+  <properties
+      key="drill down"
+      value="id-e137cc8a9ab64b338422acb0fe1d1618"/>
+</archimate:Representation>

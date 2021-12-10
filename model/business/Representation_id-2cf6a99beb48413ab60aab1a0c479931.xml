@@ -1,0 +1,24 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="eNotifikasjon - oversikt over verdistrømmer UHF"
+    id="id-2cf6a99beb48413ab60aab1a0c479931"
+    documentation="Den overordnede verdistrømmen vist under skisserer handlingene hos&#xD;&#xA;datatilbyder og datakonsument som inngår i dette utvekslingsmønsteret.&#xD;&#xA;Datatilbyderen oppretter en hendelsesstrøm som datakonsumenten oppdager&#xD;&#xA;og abonnerer på. Datatilbyderen publiserer notifikasjoner om hendelser i&#xD;&#xA;hendelsesstrømmen, og datakonsumenten innhenter disse. Når konsumenten&#xD;&#xA;har mottatt en notifikasjon, vurderer konsumenten om det er behov for å&#xD;&#xA;innhente mer informasjon om hendelsen. I så fall benytter konsumenten&#xD;&#xA;synkront oppslag som beskrevet tidligere for innhentingen.&#xD;&#xA;&#xD;&#xA;.eNotifikasjon verdistrøm&#xD;&#xA;image::{imagepath}notifikasjon verdistrøm.png[]&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;">
+  <properties
+      key="modelx:antora_component"
+      value="unit-ra"/>
+  <properties
+      key="modelx:antora_version"
+      value="main"/>
+  <properties
+      key="modelx:antora_module"
+      value="unit-ra-datadeling-datautveksling"/>
+  <properties
+      key="dct:type"
+      value="modelx:section"/>
+  <properties
+      key="modelx:view_reference"
+      value="id-aba1dbb407dc4d3195e10a34202fac67"/>
+  <properties
+      key="drill down"
+      value="id-aba1dbb407dc4d3195e10a34202fac67"/>
+</archimate:Representation>

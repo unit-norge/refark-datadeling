@@ -1,0 +1,5 @@
+<archimate:Resource
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Message receiver"
+    id="069057e8-9fb3-46ea-8e77-a1e149f01549"
+    documentation="https://dzone.com/articles/event-sourcingevent-logging-an-essential-microserv&#xD;&#xA;&#xD;&#xA;Message Receiver is responsible for converting the incoming request into an event and validating it."/>

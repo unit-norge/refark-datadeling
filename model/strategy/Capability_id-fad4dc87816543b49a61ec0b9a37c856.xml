@@ -1,0 +1,9 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tilgjengeliggjøre data etter forespørsel"
+    id="id-fad4dc87816543b49a61ec0b9a37c856"
+    documentation="Evnen til å gjøre data tilgjengelig for aktører utenfor egen virksomhet på forespørsel.">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:Capability>

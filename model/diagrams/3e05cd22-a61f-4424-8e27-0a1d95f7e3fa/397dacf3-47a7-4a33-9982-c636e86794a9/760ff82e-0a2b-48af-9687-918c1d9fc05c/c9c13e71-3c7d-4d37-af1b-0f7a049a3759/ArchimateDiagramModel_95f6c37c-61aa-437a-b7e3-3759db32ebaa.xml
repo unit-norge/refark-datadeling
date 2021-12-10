@@ -1,0 +1,21 @@
+<archimate:ArchimateDiagramModel
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Generisk datafordeler"
+    id="95f6c37c-61aa-437a-b7e3-3759db32ebaa">
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Generisk datafordeler"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:antoraViewPath"/>
+  <properties
+      key="difi:antoraViewImagePath"/>
+</archimate:ArchimateDiagramModel>

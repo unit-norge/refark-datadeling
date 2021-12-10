@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UHF autorisasjonstjener"
+    id="id-790edbc925b24187adbccb11b66a37b4"
+    documentation="Autorisasjonstjenester realiserer tilgangskontroll&#xD;&#xA;gjennom å utstede sikkerhetsbilletter. En autorisasjonstjener er også&#xD;&#xA;brukt til å realisere autorisasjonspolicy for tilgang og roller&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;">
+  <properties
+      key="difi:abstractionLevel"
+      value="abb"/>
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+  <properties
+      key="modelx:antora_component"
+      value="null"/>
+  <properties
+      key="modelx:antora_version"
+      value="null"/>
+  <properties
+      key="modelx:antora_module"
+      value="null"/>
+</archimate:ApplicationComponent>

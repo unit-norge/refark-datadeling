@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Meldingsformidler"
+    id="id-a63a1543aa7b496d8836bd749b469f91"
+    documentation="Message broker&#xD;&#xA;&#xD;&#xA;Når en meldingsfordler skiver en notifikasjon i meldingskø plasseres det i meldingskø hos alle abonnenter (i hver sin kø).&#xD;&#xA;"/>

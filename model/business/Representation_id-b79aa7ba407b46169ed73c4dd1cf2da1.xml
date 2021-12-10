@@ -1,0 +1,18 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Datadeling integrert med IAM"
+    id="id-b79aa7ba407b46169ed73c4dd1cf2da1"
+    documentation="Infrastruktur for identitetshåndtering og tilgangsstyring (IAM) utfyller&#xD;&#xA;API management og notifikasjoner og må fungere sammen.&#xD;&#xA;&#xD;&#xA;Autentisering er det som sjekker at brukeren er kjent for virksomheten&#xD;&#xA;og forsikrer at brukeren er den vedkommende gir seg ut for å være når&#xD;&#xA;brukeren ber om tilgang til ressurser.&#xD;&#xA;&#xD;&#xA;Autorisering identifiserer hvilke tilganger en bruker skal ha til&#xD;&#xA;virksomhetens ressurser. Autorisasjon kan tildeles roller. Brukere kan&#xD;&#xA;tildeles roller og gjennom dette få autorisasjon til virksomhetens&#xD;&#xA;ressurser som er knyttet til rollen. Det kan skilles på disse to måtene&#xD;&#xA;å få tilgang på delte data:&#xD;&#xA;&#xD;&#xA;* Systemtilgang +&#xD;&#xA;Brukeren har implisitt tilgang gjennom tilgang til konsumenten sitt&#xD;&#xA;system i domenet. Konsumentens system har tilgang til API hos tilbyder.&#xD;&#xA;Det er konsumenten som må sikre at brukeren har rettighet til å få&#xD;&#xA;tilgang til tilbyders data&#xD;&#xA;* Brukersentrisk datadeling +&#xD;&#xA;Brukeren må ha eksplisitt tilgang til tilbyder sine delte data i&#xD;&#xA;tilbyders system i domenet. Her er det tilbyder som har kontroll over&#xD;&#xA;brukerens tilgang på data og kan spore brukerens bruk av disse&#xD;&#xA;&#xD;&#xA;IAM utfører autentisering ved bruk av en autentiseringstjeneste og en&#xD;&#xA;identitetstilbyder, som vist i figuren under.&#xD;&#xA;&#xD;&#xA;IAM autoriserer sluttbrukeres tilgang til tjenester. Dette er basert på&#xD;&#xA;både autentisering av deres identitet, det vil si hvem brukeren er, og&#xD;&#xA;de roller brukeren er tildelt hos en eller flere institusjoner.&#xD;&#xA;&#xD;&#xA;API management styrer tilgang til data gjennom API basert på policy&#xD;&#xA;eller godkjenning fra dataforvalter. Brukers tilgang til beskyttet&#xD;&#xA;tjeneste hos datakonsument kan være tilstrekkelig til at bruker ikke&#xD;&#xA;trenger å autoriseres eksplisitt hos datatilbyder. Avgjørelsen om å&#xD;&#xA;godkjenne tilgang til data kan være basert på en sluttbrukers rolle hos&#xD;&#xA;en institusjon. ​&#xD;&#xA;&#xD;&#xA;I UHF autorisasjon inngår autorisering og tildeling av en&#xD;&#xA;sikkerhetsbillett (token) ved bruk av en autorisasjonstjener og en&#xD;&#xA;token-tjeneste. Denne sikkerhetsbilletten brukes for å få tilgang til&#xD;&#xA;API eller notifikasjon hos datatilbyder.&#xD;&#xA;&#xD;&#xA;UHF Autorisasjon er en tjeneste som samordner tildeling av&#xD;&#xA;sikkerhetsbilletter til datakonsumenter. Sikkerhetsbilletten gir tilgang&#xD;&#xA;til en ressurs hos datatilbyderen for en autentisert datakonsument.&#xD;&#xA;Tjenesten samordner autorisasjon gjennom verifisering av konsument i&#xD;&#xA;konsumentregisteret og sjekk av konsumentens roller og tilganger til API&#xD;&#xA;eller notifikasjon.&#xD;&#xA;&#xD;&#xA;Ressursportalen og tjenesten for tildeling av rettigheter til&#xD;&#xA;datakonsumenter deltar i begge funksjoner.&#xD;&#xA;">
+  <properties
+      key="dct:type"
+      value="modelx:section"/>
+  <properties
+      key="modelx:antora_component"
+      value="unit-ra"/>
+  <properties
+      key="modelx:antora_version"
+      value="main"/>
+  <properties
+      key="modelx:antora_module"
+      value="unit-ra-datadeling-målarkitekturen"/>
+</archimate:Representation>

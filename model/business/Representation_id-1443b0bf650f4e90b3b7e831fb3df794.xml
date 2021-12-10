@@ -1,0 +1,54 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vedlegg B; Behov for avklaringer og utfordringer i sektorens kontekst"
+    id="id-1443b0bf650f4e90b3b7e831fb3df794">
+  <properties
+      key="modelx:antora_component"
+      value="unit-ra"/>
+  <properties
+      key="modelx:antora_version"
+      value="main"/>
+  <properties
+      key="modelx:antora_module"
+      value="unit-ra-datadeling-vedlegg-b"/>
+  <properties
+      key="dct:type"
+      value="modelx:section"/>
+  <properties
+      key="modelx:guid"
+      value="id-1443b0bf650f4e90b3b7e831fb3df794"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="digdir:link1"/>
+  <properties
+      key="digdir:logo"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Vedlegg 2 - Behov for avklaringer og utfordringer i sektorens kontekst"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+  <properties
+      key="modelx:author_name"/>
+  <properties
+      key="modelx:author_email"/>
+</archimate:Representation>

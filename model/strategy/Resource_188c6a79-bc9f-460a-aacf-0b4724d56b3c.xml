@@ -1,0 +1,21 @@
+<archimate:Resource
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Common service  catalogs"
+    id="188c6a79-bc9f-460a-aacf-0b4724d56b3c">
+  <properties
+      key="difi:name_no"
+      value="Felles tjenestekatalog"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:name_en"
+      value="Felles tjenestekatalog"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="en"/>
+</archimate:Resource>

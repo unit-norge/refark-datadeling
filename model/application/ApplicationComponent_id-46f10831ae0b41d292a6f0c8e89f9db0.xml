@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UHF API manager "
+    id="id-46f10831ae0b41d292a6f0c8e89f9db0"
+    documentation="API Management omfatter en administrativ komponent, API Manager, som&#xD;&#xA;kontrollerer policy og livssyklus for definisjon og forvaltning av API&#xD;&#xA;og en katalog over tilgjengelige API, API-Katalog (se under). +&#xD;&#xA;Tilganger gjennom et API defineres i API manager og tildeles av&#xD;&#xA;autorisasjonstjener.&#xD;&#xA;&#xD;&#xA;Ansvaret til API manager inkluderer:&#xD;&#xA;&#xD;&#xA;* Sentralisert administrasjon av sikkerhetsretningslinjer for API&#xD;&#xA;* Sentralisert publisering av API spesifikasjon, for eksempel&#xD;&#xA;OpenAPI/RAML, dokumentasjon&#xD;&#xA;* Sentralisert API administrasjon og forvaltning av API-katalogen&#xD;&#xA;* Håndtering av registrerings- og introduksjonsprosesser for API&#xD;&#xA;utviklere&#xD;&#xA;* Håndtere livssyklusen til et API, utvikling, test, utrulling, nye&#xD;&#xA;versjoner og nedlegging&#xD;&#xA;* Ivareta registrering, forvaltning og utvikling av konsumentrettigheter&#xD;&#xA;* Rapportering og analyse for å overvåke bruk og last">
+  <properties
+      key="difi:abstractionLevel"
+      value="abb"/>
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+  <properties
+      key="modelx:antora_component"
+      value="null"/>
+  <properties
+      key="modelx:antora_version"
+      value="null"/>
+  <properties
+      key="modelx:antora_module"
+      value="null"/>
+</archimate:ApplicationComponent>

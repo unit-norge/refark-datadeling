@@ -1,0 +1,36 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Overordnede arkitekturprinsipper for samhandling og tjenesteutvikling"
+    id="14346124-374b-404d-9640-aa35660aa810"
+    documentation="Arkitekturprinsippene fungerer som et sett med felles retningslinjer for alt arbeid med IT i offentlig sektor. IT-arkitekturprinsippene er obligatorisk for statlig virksomheter og anbefalt til kommunene.">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:product"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Overordnede arkitekturprinsipper for samhandling og tjenesteutvikling"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Arkitekturprinsippene fungerer som et sett med felles retningslinjer for alt arbeid med IT i offentlig sektor. IT-arkitekturprinsippene er obligatorisk for statlig virksomheter og anbefalt til kommunene."/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Product>

@@ -1,0 +1,26 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="eOppslag Verdistrøm med kapabiliteter for tilbyder og konsument - UHF  "
+    id="id-f9fd77f75cc54255a0619cc42057558d"
+    documentation="&#xD;&#xA;">
+  <properties
+      key="modelx:antora_component"
+      value="unit-ra"/>
+  <properties
+      key="modelx:antora_version"
+      value="main"/>
+  <properties
+      key="modelx:antora_module"
+      value="unit-ra-datadeling-datautveksling"/>
+  <properties
+      key="dct:type"
+      value="modelx:archimate_view"/>
+  <properties
+      key="modelx:view_reference"
+      value="id-baa387e2f8024b5aa77ee8ea5b518e8e"/>
+  <properties
+      key="drill down"
+      value="id-baa387e2f8024b5aa77ee8ea5b518e8e"/>
+  <properties
+      key="modelx:view-image"/>
+</archimate:Representation>

@@ -1,0 +1,36 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Forankre forretningsmodell og prinsipper i Skate"
+    id="311b769c-e2bb-44a3-87b3-771c7b1fb5e5">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:work-package"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="digdir:link1"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Forankre forretningsmodell og prinsipper i Skate"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:WorkPackage>

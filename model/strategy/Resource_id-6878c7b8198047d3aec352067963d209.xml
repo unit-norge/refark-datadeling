@@ -1,0 +1,5 @@
+<archimate:Resource
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Referansearkitektur for datautveksling"
+    id="id-6878c7b8198047d3aec352067963d209"
+    documentation="Referansearkitektur for datautveksling beskriver i detalj verdikjeden for datadeling og gir i hovedsak organisatorisk samhandlingsevne mellom datatilbyder og datakonsument. Rammeverket beskriver mønster for datautveksling og omfatter alle former for flyt av data og hendelser (eller notifikasjoner) som gir teknisk samhandlingsevne.&#xD;&#xA;&#xD;&#xA;Mer om referansearkitektur:&#xD;&#xA;https://www.difi.no/fagomrader-og-tjenester/digitalisering-ogsamordning/nasjonal-arkitektur/referansearkitekturer&#xD;&#xA;https://doc.difi.no/nasjonalarkitektur/nab_referanse_arkitekturer_datautveksling/"/>

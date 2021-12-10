@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lever notifikasjon"
+    id="id-c8f0ff116f154cf5a4319e088570c4d4">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-c1c929b39478421f81e0f6024df87c7b.xml#id-c1c929b39478421f81e0f6024df87c7b"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-592b210c4e904bfebcd47ca0c951de83.xml#id-592b210c4e904bfebcd47ca0c951de83"/>
+</archimate:AssociationRelationship>

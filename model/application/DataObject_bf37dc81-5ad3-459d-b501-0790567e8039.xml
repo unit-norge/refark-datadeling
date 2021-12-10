@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Minimert notifikasjon"
+    id="bf37dc81-5ad3-459d-b501-0790567e8039"
+    documentation="Notifikasjon som inneholder kun det konsumenten etterspør og har rettigheter til."/>

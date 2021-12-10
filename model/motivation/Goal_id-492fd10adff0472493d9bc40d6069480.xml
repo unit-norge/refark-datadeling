@@ -1,0 +1,38 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Helhetlige tjenestekjeder"
+    id="id-492fd10adff0472493d9bc40d6069480"
+    documentation="Vi skal bidra til at vi forvaltningen leverer helhetlige tjenestekjeder, uavhengig av om en eller flere organisasjoner leverer/eier dem">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:goal"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="digdir:link1"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Helhetlige tjenestekjeder"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Vi skal bidra til at vi forvaltningen leverer helhetlige tjenestekjeder, uavhengig av om en eller flere organisasjoner leverer/eier dem"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Goal>

@@ -1,0 +1,38 @@
+<archimate:CourseOfAction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tiltak 36: NATO Cyber Defence Pledge"
+    id="id-9218ba90b4f4489a9b70c5603fae75fe"
+    documentation="NATOs stats- og regjeringssjefer sluttet seg til en felles cybererklæring under NATO-toppmøte i 2016. Bakgrunnen var nye sikkerhetstrusler mot NATO, og behovet for å fremheve og prioritere arbeid for styrket digital sikkerhet i nasjonale nettverk og infrastrukturer på tvers av sektorer i samfunnet og mellom land.&#xD;&#xA;&#xD;&#xA;Norge skal følge opp forpliktelsene som ligger i cybererklæringen. Landene har gjennom erklæringen forpliktet seg til å gjøre forbedringer på en rekke områder nasjonalt, siden det er medlemslandene selv som har ansvar for å sikre seg mot digitale trusler i nasjonal infrastruktur. Forpliktelsene omfatter områder som ressursallokering, samarbeid, forståelse og informasjonsdeling og kompetanseutvikling.&#xD;&#xA;&#xD;&#xA;Ansvarlig virksomhet: FD og øvrige relevante departementer&#xD;&#xA;Gjennomføres: Løpende, med årlig rapportering til NATO">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:course-of-action"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="digdir:link1"
+      value="https://www.regjeringen.no/contentassets/c57a0733652f47688294934ffd93fc53/tiltaksoversikt---nasjonal-strategi-for-digital-sikkerhet.pdf#183321-Justisdep-Tiltaksoversikt.indd%3A.13691%3A683"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Tiltak 36: NATO Cyber Defence Pledge"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:CourseOfAction>

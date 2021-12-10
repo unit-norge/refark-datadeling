@@ -1,0 +1,41 @@
+<archimate:CourseOfAction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tiltak 1: Nasjonale tekniske sikkerhetstiltak – en større nasjonal sikkerhetspakke"
+    id="id-1a5e0b86b74c43d69765089834a6274a"
+    documentation="Digitale angrep blir stadig mer sofistikerte. Nye angrepsteknikker, økt brukt av kryptering og komplekse angrepsinfrastrukturer, gjør at vi må tenke nytt for å opprettholde nasjonal deteksjonsevne. Bruk av kunstig intelligens, maskinlæring og stor grad av automatiserte prosesser blir kritiske faktorer som må nyttiggjøres. Prosjektet «P2950» skal gå over flere år og har en betydelig kostnadsramme. Som del av prosjektet skal det utvikles ny sensorteknologi til bruk i blant annet Varslingssystem for digital infrastruktur (VDI). Prosjektet etablerer økt teknisk kapasitet for å ta i bruk kunstig intelligens og maskinlæring. Prosjektet skal også ta frem graderte og ugraderte automatiske delingsplattformer, mobile kapasiteter, samt dynamisk datainnsamling og dataanalyse som vil kunne videreutvikles og skaleres i tråd med fremtidige behov">
+  <properties
+      key="drill down"
+      value="id-e56c693b30fb45f595c4f151126aca17"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:course-of-action"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="digdir:link1"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Tiltak 1: Nasjonale tekniske sikkerhetstiltak – en større nasjonal sikkerhetspakke"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Digitale angrep blir stadig mer sofistikerte. Nye angrepsteknikker, økt brukt av kryptering og komplekse angrepsinfrastrukturer, gjør at vi må tenke nytt for å opprettholde nasjonal deteksjonsevne. Bruk av kunstig intelligens, maskinlæring og stor grad av automatiserte prosesser blir kritiske faktorer som må nyttiggjøres. Prosjektet «P2950» skal gå over flere år og har en betydelig kostnadsramme. Som del av prosjektet skal det utvikles ny sensorteknologi til bruk i blant annet Varslingssystem for digital infrastruktur (VDI). Prosjektet etablerer økt teknisk kapasitet for å ta i bruk kunstig intelligens og maskinlæring. Prosjektet skal også ta frem graderte og ugraderte automatiske delingsplattformer, mobile kapasiteter, samt dynamisk datainnsamling og dataanalyse som vil kunne videreutvikles og skaleres i tråd med fremtidige behov"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:CourseOfAction>

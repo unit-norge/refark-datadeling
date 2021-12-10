@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registrere API i UH/F sektoren"
+    id="id-d3303e2cd658437db5e83ba82ab4275f"
+    documentation="Programtjeneste for å registrere og vedlikeholde API som er tilgjengelige i Universitets og Høyskole-sektoren">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:ApplicationService>

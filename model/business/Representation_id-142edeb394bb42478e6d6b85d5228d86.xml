@@ -1,0 +1,56 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vedlegg A; Definisjoner"
+    id="id-142edeb394bb42478e6d6b85d5228d86"
+    documentation="*Datakvalitet* innebærer at data skal være korrekte, komplette,&#xD;&#xA;oppdaterte og konsistente og har evnen til å støtte de&#xD;&#xA;informasjonsformål de brukes til [kilde: data.norge.no, SKATTEETATEN]&#xD;&#xA;&#xD;&#xA;*Masterdata*: Autoritative data for gitte opplysningstyper. [kilde:&#xD;&#xA;data.norge.no, NAV]&#xD;&#xA;&#xD;&#xA;*Grunndata*: Basisinformasjon innen en gitt sektor. [kilde:&#xD;&#xA;data.norge.no, NAV]">
+  <properties
+      key="modelx:antora_component"
+      value="unit-ra"/>
+  <properties
+      key="modelx:antora_version"
+      value="main"/>
+  <properties
+      key="modelx:antora_module"
+      value="unit-ra-datadeling-vedlegg-a"/>
+  <properties
+      key="dct:type"
+      value="modelx:section"/>
+  <properties
+      key="modelx:guid"
+      value="id-142edeb394bb42478e6d6b85d5228d86"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="digdir:link1"/>
+  <properties
+      key="digdir:logo"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Vedlegg 1 - Definisjoner"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="*  *Datakvalitet*:&#xD;&#xA;+&#xD;&#xA;Datakvalitet innebærer at data skal være korrekte, komplette,&#xD;&#xA;oppdaterte og konsistente og har evnen til å støtte de&#xD;&#xA;informasjonsformål de brukes til [kilde: data.norge.no, SKATTEETATEN]&#xD;&#xA;&#xD;&#xA;* *Masterdata*: &#xD;&#xA;+&#xD;&#xA;Master data is the consistent and uniform set of&#xD;&#xA;identifiers and extended attributes that describes the core entities of&#xD;&#xA;the enterprise including customers, prospects, citizens, suppliers,&#xD;&#xA;sites, hierarchies, and chart of accounts.  footnote:[Gartner definisjon hentet fra https://www.gartner.com/en/information-technology/glossary/master-data-management-mdm&#xD;&#xA;2021.01.07]"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+  <properties
+      key="modelx:author_name"/>
+  <properties
+      key="modelx:author_email"/>
+</archimate:Representation>

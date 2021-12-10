@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="statusoppdateringer"
+    id="id-7ce172e4a81a40e7b4511a2b2f3cc1d5">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-4c0ee8644cc2462abd82b12148572eef.xml#id-4c0ee8644cc2462abd82b12148572eef"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-fe77ad79ec604911a260f9f79eb5157c.xml#id-fe77ad79ec604911a260f9f79eb5157c"/>
+</archimate:FlowRelationship>

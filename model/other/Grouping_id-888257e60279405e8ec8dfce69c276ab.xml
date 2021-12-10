@@ -1,0 +1,9 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UiX / Datatilbyder"
+    id="id-888257e60279405e8ec8dfce69c276ab"
+    documentation="Komponenter som utgjør datatilbyder, det vil si Universitetet eller Høyskolens, grensesnitt for datadeling">
+  <properties
+      key="difi:namespace"
+      value="unit"/>
+</archimate:Grouping>

@@ -1,0 +1,36 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Spørring mot eksponert hendelsesliste"
+    id="7f93bd84-8ed5-49ac-a514-ba67a7be9a4a"
+    documentation="Tjeneste(r) for å forespørre notifikasjoner og navigere i hendelseslister.">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:application-service"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Spørring mot eksponert hendelsesliste"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Tjeneste(r) for å forespørre notifikasjoner og navigere i hendelseslister."/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:ApplicationService>

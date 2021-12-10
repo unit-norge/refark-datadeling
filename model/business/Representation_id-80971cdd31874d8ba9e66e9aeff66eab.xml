@@ -1,0 +1,18 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Datadeling på tvers av sektorer"
+    id="id-80971cdd31874d8ba9e66e9aeff66eab"
+    documentation="Det er behov for datadeling og API Management på tvers av sektorer.&#xD;&#xA;Høyere utdanning og forskning ønsker utstrakt bruk av nasjonale&#xD;&#xA;felleskomponenter, som omtalt i Digitaliseringsrundskrivet og vist i&#xD;&#xA;figuren over. For å oppnå dette må både sektorens og den nasjonale&#xD;&#xA;infrastrukturen videreutvikles.​&#xD;&#xA;&#xD;&#xA;Føderert tilgangsstyring for datadeling på tvers av sektorer er&#xD;&#xA;ønskelig, og det krever blant annet standardisering av&#xD;&#xA;sikkerhetsbilletter (tokens) for å oppnå gjennomgående tillitskjeder.&#xD;&#xA;​Det er også ønskelig at brukere kan styre samtykke til sine data fra&#xD;&#xA;_et_ sted nasjonalt, inklusivt til data i kilder i høyere utdanning og&#xD;&#xA;forskning. Det hadde vært ønskelig om en felles Norsk samtykketjeneste&#xD;&#xA;kunne være integrert med funksjonalitet som vi forvente skal realiseres&#xD;&#xA;i IAM løsningen til høyere utdanning og forskning. Samtykke til kilder i&#xD;&#xA;vår sektor fra Altinn autorisasjon er en mulig fremtidig løsning.&#xD;&#xA;&#xD;&#xA;Det er planlagt automatisert høsting av API katalogen fra høyere&#xD;&#xA;utdanning og forskning til Felles API-katalog som visst i figuren under.&#xD;&#xA;&#xD;&#xA;.Datadeling integrert med IAM og nasjonal infrastruktur&#xD;&#xA;image::{imagepath}FelleskomponenterUHF-nasjonale.png[]">
+  <properties
+      key="dct:type"
+      value="modelx:section"/>
+  <properties
+      key="modelx:antora_component"
+      value="unit-ra"/>
+  <properties
+      key="modelx:antora_version"
+      value="main"/>
+  <properties
+      key="modelx:antora_module"
+      value="unit-ra-datadeling-målarkitekturen"/>
+</archimate:Representation>

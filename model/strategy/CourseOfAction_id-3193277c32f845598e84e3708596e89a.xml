@@ -1,0 +1,38 @@
+<archimate:CourseOfAction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tiltak 35: Nasjonalt rammeverk for helhetsvurdering av verdikjeder"
+    id="id-3193277c32f845598e84e3708596e89a"
+    documentation="Lysneutvalget anbefalte å etablere et nasjonalt rammeverk for å ivareta en helhetsvurdering av verdikjeder. Utvalget begrunner dette blant annet med at lange og uoversiktlige verdikjeder som spenner over flere sektorer, nivåer og landegrenser, er en kjerneutfordring ved vurdering av digital sårbarhet. Komplekse digitale verdikjeder pekes på som et vesentlig hinder for å kunne fastslå hvilken digital sårbarhet vi har. Utvalget finner dette igjen i alle sektorer som de omhandler i rapporten. Som en oppfølging av anbefalingen er det nedsatt en arbeidsgruppe som skal foreslå et nasjonalt rammeverk for å ivareta en helhetsvurdering av verdikjeder. &#xD;&#xA;&#xD;&#xA;Ansvarlig virksomhet: &#xD;&#xA;JD og DSB&#xD;&#xA;Gjennomføres: 2019">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:course-of-action"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="digdir:link1"
+      value="https://www.regjeringen.no/contentassets/c57a0733652f47688294934ffd93fc53/tiltaksoversikt---nasjonal-strategi-for-digital-sikkerhet.pdf#183321-Justisdep-Tiltaksoversikt.indd%3A.13687%3A682"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Tiltak 35: Nasjonalt rammeverk for helhetsvurdering av verdikjeder"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:CourseOfAction>

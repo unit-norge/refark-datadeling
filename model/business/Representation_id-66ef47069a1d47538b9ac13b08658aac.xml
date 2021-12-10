@@ -1,0 +1,18 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Føderert API management"
+    id="id-66ef47069a1d47538b9ac13b08658aac"
+    documentation="Føderert API Management innebærer at et domene kan gi brukere i andre&#xD;&#xA;domener som man har et tillitsforhold til, ofte kalt&#xD;&#xA;fødereringspartnere, tilgang til sine egne data gjennom API. Det er&#xD;&#xA;flere grunner for å gjøre dette. Mange virksomheter har i dag sine&#xD;&#xA;virksomhetsdata lagret distribuert, fordelt mellom systemer som kjører&#xD;&#xA;på lokale servere («on-premise») og i skybaserte-løsninger.&#xD;&#xA;&#xD;&#xA;Det er et sterkt politisk ønske om deling av data mellom domener. Flere&#xD;&#xA;initiativer, slik som Digitaliseringsdirektoratets &quot;Orden i eget hus&quot; og&#xD;&#xA;andre nasjonale og sektorvise digitaliseringsstrategier skal understøtte&#xD;&#xA;deling av data. I en slik sammenheng ser vi behovet for et felles API&#xD;&#xA;Management-regime i kunnskapssektoren.&#xD;&#xA;&#xD;&#xA;Et slikt regime muliggjør deling av data for å oppnå sammenhengende&#xD;&#xA;brukerreiser, eksemplifisert ved de syv livshendelser og tjenestekjeder.&#xD;&#xA;Det er en forutsetning at data kan deles mellom virksomheter som&#xD;&#xA;betjener slike brukerreiser.&#xD;&#xA;&#xD;&#xA;3.parts aktører kan bruke data fra sektoren for innovasjon. API&#xD;&#xA;management kan medvirke til deling av data til 3. part ved å gjøre data&#xD;&#xA;gjenfinnbart, tilgjengelig og dokumentert.&#xD;&#xA;&#xD;&#xA;Virksomheter i høyere utdanning og Forskning har mange fellestrekk og&#xD;&#xA;noen fellestjenester på tvers. Deres autonomi gjør likevel at de er&#xD;&#xA;ulike på enkelte områder, for eksempel når det gjelder teknisk&#xD;&#xA;infrastruktur. Disse likhetene og forskjellene understreker behovet for&#xD;&#xA;en føderert API Management-løsning. En slik løsning er mer fleksibel med&#xD;&#xA;tanke på tekniske løsninger og produktvalg lokalt.&#xD;&#xA;&#xD;&#xA;Felleskomponentene relatert til API-management i referansearkitekturen&#xD;&#xA;(se under) er laget for å støtte følgende karakteristikk:&#xD;&#xA;&#xD;&#xA;* Institusjonene er sikret råderett over egne data gjennom&#xD;&#xA;tilgangstjeneste i ressursportalen og API gateway hos institusjonen som&#xD;&#xA;kan styre og holde oversikt over datatilgang&#xD;&#xA;* Institusjonene har valgfrihet over API Gateway så lenge funksjoner og&#xD;&#xA;grensesnitt er ivaretatt&#xD;&#xA;* Deling av data på tvers av institusjoner er støttet gjennom felles&#xD;&#xA;ressursportal">
+  <properties
+      key="modelx:antora_component"
+      value="unit-ra"/>
+  <properties
+      key="modelx:antora_version"
+      value="main"/>
+  <properties
+      key="modelx:antora_module"
+      value="unit-ra-datadeling-målarkitekturen"/>
+  <properties
+      key="dct:type"
+      value="modelx:section"/>
+</archimate:Representation>

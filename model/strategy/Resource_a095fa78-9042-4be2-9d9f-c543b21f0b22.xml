@@ -1,0 +1,40 @@
+<archimate:Resource
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="File Transfer integration style"
+    id="a095fa78-9042-4be2-9d9f-c543b21f0b22"
+    documentation="Have each application produce files of shared data for others to consume, and consume files that others have produced.">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:resource"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Filoverføring"/>
+  <properties
+      key="difi:name_en"
+      value="File Transfer integration style"/>
+  <properties
+      key="difi:description_no"
+      value="Have each application produce files of shared data for others to consume, and consume files that others have produced."/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+  <properties
+      key="drill down"
+      value="111cd437-21ee-4341-8aa2-9ab8d50d5db2"/>
+</archimate:Resource>

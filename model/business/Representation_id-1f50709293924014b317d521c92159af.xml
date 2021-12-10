@@ -1,0 +1,56 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rutiner (copy)"
+    id="id-1f50709293924014b317d521c92159af"
+    documentation="Vi forutsetter og bygger på en viss fremgang i arbeid med&#xD;&#xA;https://data.norge.no/guide/veileder-orden-i-eget-hus/[orden i eget hus]&#xD;&#xA;hos deltagende virksomheter der noen datasett er dokumentert i en&#xD;&#xA;datakatalog. Dette kan enten være Digitaliseringsdirektoratets&#xD;&#xA;https://data.norge.no/[felles datakatalog], eller en fremtidig katalog&#xD;&#xA;for høyere utdanning og forskningssektoren som høstes inn i felles&#xD;&#xA;datakatalogen.&#xD;&#xA;&#xD;&#xA;Vi skisserer en tilnærming til indre og ytre API basert på Gartners MASA&#xD;&#xA;arkitekturfootnote:[MASA: How to Create an Agile Application&#xD;&#xA;Architecture With Apps, APIs and Services Published 3 February 2020 - ID&#xD;&#xA;G00451136; Gartner] som var brukt i evalueringen av Felles Studentsystem&#xD;&#xA;i 2020&#xD;&#xA;">
+  <properties
+      key="modelx:antora_component"
+      value="unit-ra"/>
+  <properties
+      key="modelx:antora_version"
+      value="main"/>
+  <properties
+      key="modelx:antora_module"
+      value="unit-ra-datadeling-rutiner"/>
+  <properties
+      key="dct:type"
+      value="modelx:section"/>
+  <properties
+      key="modelx:guid"
+      value="id-a2b10750237141dd885d374f1cb067fd"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="digdir:link1"/>
+  <properties
+      key="digdir:logo"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Rutiner"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="#Tekst om overgangen fra kapabilitetene og løsningene beskrevet&#xD;&#xA;over til informasjonsforvaltning og definisjon av datasett.#&#xD;&#xA;&#xD;&#xA;Sektoren er i ferd med å bygge en distribuert arkitektur som benytter&#xD;&#xA;løsere koblet, delte datakilder som inneholder data om sentrale&#xD;&#xA;entiteter i sektoren som for eksempel studenter, ansatte,&#xD;&#xA;forskningsprosjekt, forskningsresultater, læringsobjekter, med flere.&#xD;&#xA;Disse kildene blir rendyrket som *_masterdatakilder_*. Disse kildene er&#xD;&#xA;definert ut fra en dyp forståelse av sektorenes funksjon og vil typisk&#xD;&#xA;være forholdsvis stabile over tid. Definisjon av …[mer tekst her]"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+  <properties
+      key="modelx:author_name"/>
+  <properties
+      key="modelx:author_email"/>
+</archimate:Representation>

@@ -1,0 +1,24 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Håndtere forespørsel om oppdatering  - løsningsmønster UHF "
+    id="id-b96a691104d84280a4e31c0591e5ed5e"
+    documentation="En prosessflyt en tilbyder av data utfører for å svare på en dataforespørsel. Tilbyder mottar forespørsel om oppslag med et aksesstoken. Klienten som forespør autentiseres og token valideres. Eventuelt mer fin-granulert tilgangskontroll utføres og data returneres. Tilgang kontrolleres kun dersom det er snakk om et sikret API.&#xD;&#xA;">
+  <properties
+      key="dct:type"
+      value="modelx:archimate_view"/>
+  <properties
+      key="modelx:view_reference"
+      value="id-ecf99848b5c64b819c74d3a1602e0972"/>
+  <properties
+      key="drill down"
+      value="id-ecf99848b5c64b819c74d3a1602e0972"/>
+  <properties
+      key="modelx:antora_component"
+      value="unit-ra"/>
+  <properties
+      key="modelx:antora_version"
+      value="main"/>
+  <properties
+      key="modelx:antora_module"
+      value="unit-ra-datadeling-datautveksling"/>
+</archimate:Representation>

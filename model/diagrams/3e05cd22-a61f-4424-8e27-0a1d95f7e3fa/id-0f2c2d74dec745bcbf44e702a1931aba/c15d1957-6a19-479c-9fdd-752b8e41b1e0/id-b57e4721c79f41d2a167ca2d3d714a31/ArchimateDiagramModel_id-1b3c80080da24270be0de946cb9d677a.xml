@@ -1,0 +1,24 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Utvalgte kapabiliteter"
+    id="id-1b3c80080da24270be0de946cb9d677a">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-c042133cd4db4bc8a4cf2b9a9f785bae"
+      lineColor="#5c5c5c"
+      fillColor="#f5deaa"
+      textPosition="1">
+    <features
+        name="gradient"
+        value="1"/>
+    <bounds
+        x="72"
+        y="72"
+        width="137"
+        height="71"/>
+    <archimateElement
+        xsi:type="archimate:Capability"
+        href="Capability_id-d559c87423c04c7cba25dd2dd977750c.xml#id-d559c87423c04c7cba25dd2dd977750c"/>
+  </children>
+</archimate:ArchimateDiagramModel>

@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="norge.no"
+    id="id-51c0c34072c044c3adf3e63971493b6a">
+  <properties
+      key="difi:abstractionLevel"
+      value="sbb"/>
+</archimate:ApplicationComponent>

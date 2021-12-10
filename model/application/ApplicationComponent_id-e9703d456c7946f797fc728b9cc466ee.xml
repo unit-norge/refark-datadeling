@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FIKS Dokumentlager"
+    id="id-e9703d456c7946f797fc728b9cc466ee"
+    documentation="Dokumentlager-tjenesten lar kommunen og andre Fiks-organisasjoner laste opp dokumenter. Ved opplasting autoriseres en eller flere personer og/eller organisasjoner for tilgang til dokumentet. Det er også mulig å laste opp dokumenter med en begrenset levetid, slik at det blir gjort utilgjengelig når denne tiden utløper."/>

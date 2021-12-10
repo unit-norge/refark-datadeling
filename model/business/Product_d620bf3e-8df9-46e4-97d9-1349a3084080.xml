@@ -1,0 +1,36 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Stimulab"
+    id="d620bf3e-8df9-46e4-97d9-1349a3084080"
+    documentation="Gjennom StimuLab skal Difi og DOGA stimulere til offentlig innovasjon fra brukernes perspektiv. Vi støtter statlige og kommunale virksomheter som våger å tenke nytt om roller og systemer, og som er villige til å endre disse for å levere bedre tjenester til brukerne.">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:product"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Stimulab"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Gjennom StimuLab skal Difi og DOGA stimulere til offentlig innovasjon fra brukernes perspektiv. Vi støtter statlige og kommunale virksomheter som våger å tenke nytt om roller og systemer, og som er villige til å endre disse for å levere bedre tjenester til brukerne."/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Product>

@@ -1,0 +1,38 @@
+<archimate:CourseOfAction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tiltak 30: NIS-direktivet"
+    id="id-18bab356ecf44e9b91d9dc8225e24494"
+    documentation="NIS-direktivet pålegger EUs medlemsland å sørge for et minimumsnivå for den nasjonale digitale sikkerheten ved at de plikter å utarbeide en nasjonal strategi, etablere et nasjonalt responsmiljø for digitale hendelser (CSIRT), utpeke en nasjonal kompetent myndighet og å pålegge leverandører av samfunnsviktige tjenester og noen digitale tjenester IKT-sikkerhetskrav og varslingsplikt ved alvorlige IKT-sikkerhetshendelser. Medlemslandene plikter også å delta i samarbeidsgruppene som er etablert under NIS-direktivet, det vil si NIS samarbeidsgruppe for strategisk styring og CSIRT-nettverk.&#xD;&#xA;&#xD;&#xA;Norge er foreløpig ikke forpliktet til å gjennomføre NIS-direktivet fordi direktivet ikke er innlemmet i EØS-avtalen. Den norske regjeringen besluttet i desember 2016 å anse direktivet som EØS-relevant og akseptabelt, og Island har inntatt samme posisjon. Liechtenstein har foreløpig ikke inntatt en endelig posisjon. EØS-prosessen er dermed ikke avsluttet ennå.&#xD;&#xA;&#xD;&#xA;Regjeringen legger til grunn at direktivet blir bindende for Norge. Derfor er arbeidet med en eventuell gjennomføring av direktivet i norsk rett påbegynt. Høringsnotat om gjennomføring med utkast til lov som gjennomfører direktivet ble sendt på høring i desember 2018.&#xD;&#xA;&#xD;&#xA;Direktivet gir på flere områder nasjonalt handlingsrom til å stille mer omfattende sikkerhetskrav til virksomhetene som blir berørt av direktivet og til flere enn det som følger av direktivet. Regjeringen legger foreløpig opp til at de norske reglene skal ligge så tett opptil direktivets virkeområde og krav som mulig. Det legges også foreløpig opp til å benytte eksisterende myndighetsstruktur i størst mulig grad. Dette vil kunne endres som følge av anbefalingene fra IKT-sikkerhetsutvalget (se tiltak 6).&#xD;&#xA;&#xD;&#xA;Ansvarlig virksomhet: JD&#xD;&#xA;Gjennomføres: 2019">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:course-of-action"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="digdir:link1"
+      value="https://www.regjeringen.no/contentassets/c57a0733652f47688294934ffd93fc53/tiltaksoversikt---nasjonal-strategi-for-digital-sikkerhet.pdf#183321-Justisdep-Tiltaksoversikt.indd%3A.13667%3A677"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Tiltak 30: NIS-direktivet"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:CourseOfAction>

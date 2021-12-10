@@ -1,0 +1,37 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Autobook: Mønstre fordatautveksling"
+    id="id-ebe552445ba546a6a7f080bcded3b2f0">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-fcff09846dc8418a88517b2bf02caef3">
+    <features
+        name="gradient"
+        value="1"/>
+    <bounds
+        x="12"
+        y="18"
+        width="367"
+        height="175"/>
+    <archimateElement
+        xsi:type="archimate:Representation"
+        href="Representation_id-5e3a70dd834242af9d19eee28dacf359.xml#id-5e3a70dd834242af9d19eee28dacf359"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-3d734c71d28e4b7da5bbfa96c7962113"
+      textPosition="1">
+    <features
+        name="gradient"
+        value="1"/>
+    <bounds
+        x="204"
+        y="288"
+        width="137"
+        height="71"/>
+    <archimateElement
+        xsi:type="archimate:Representation"
+        href="Representation_id-d03c435413834cbdb356f9bfbdc91195.xml#id-d03c435413834cbdb356f9bfbdc91195"/>
+  </children>
+</archimate:ArchimateDiagramModel>

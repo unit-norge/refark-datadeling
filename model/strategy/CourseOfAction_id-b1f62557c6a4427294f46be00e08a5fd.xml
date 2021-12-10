@@ -1,0 +1,38 @@
+<archimate:CourseOfAction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tiltak 2: Nasjonal strategi for digital sikkerhetskompetanse"
+    id="id-b1f62557c6a4427294f46be00e08a5fd"
+    documentation="Nasjonal strategi for digital sikkerhetskompetanse (2019) skal påvirke retning, innhold, samt synliggjøre ansvar for tiltak innenfor utdanning og forskning. I tillegg omhandler strategien bevisstgjørende tiltak rettet mot befolkningen, kommuner og virksomheter. Strategien er et ledd i en pågående prosess med å utvikle tiltak for økt sikkerhetskompetanse i samarbeid med målgruppene, som er myndigheter, offentligog private virksomheter, utdanningssektoren og forskningsinstitusjoner.&#xD;&#xA;&#xD;&#xA;Langtidsplan for forskning og høyere utdanning vil legge føringer for forsterket forskningsinnsats innenfor digital sikkerhet. Det legges til rette for styrket samarbeid for mer vekt på digital sikkerhet som del av ingeniør- og teknologiutdanninger.&#xD;&#xA;&#xD;&#xA;Det rettes i strategien et spesielt søkelys mot kunnskapsgrunnlaget for tilstrekkelig digital sikkerhetskompetanse. JD vil sørge for oppdatert statistikk og analyser for å følge med på kompetansegapet innenfor digital sikkerhet. Videre skal det legges til rette for et forbedret kunnskapsgrunnlag om sikkerhetskultur for befolkningen og virksomheter. Prioriteringer innenfor kompetanseområdet er på over 800 mill. kroner. I tillegg kommer studieplassene på IKT som har blitt tildelt de siste tre årene, hvor det har vært til dels sterke føringer på digital sikkerhet. Budsjettmessige satsinger som følger av den reviderte Langtidsplan for forskning og høyere utdanning inngår heller ikke i beløpet.&#xD;&#xA;&#xD;&#xA;Ansvarlig virksomhet: JD og Kunnskapsdepartementet (KD)&#xD;&#xA;&#xD;&#xA;Gjennomføres: 2019&#xD;&#xA;">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:course-of-action"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="digdir:link1"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Tiltak 2: Nasjonal strategi for digital sikkerhetskompetanse"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Nasjonal strategi for digital sikkerhetskompetanse (2019) skal påvirke retning, innhold, samt synliggjøre ansvar for tiltak innenfor utdanning og forskning. I tillegg omhandler strategien bevisstgjørende tiltak rettet mot befolkningen, kommuner og virksomheter. Strategien er et ledd i en pågående prosess med å utvikle tiltak for økt sikkerhetskompetanse i samarbeid med målgruppene, som er myndigheter, offentligog private virksomheter, utdanningssektoren og forskningsinstitusjoner.&#xD;&#xA;&#xD;&#xA;Langtidsplan for forskning og høyere utdanning vil legge føringer for forsterket forskningsinnsats innenfor digital sikkerhet. Det legges til rette for styrket samarbeid for mer vekt på digital sikkerhet som del av ingeniør- og teknologiutdanninger.&#xD;&#xA;&#xD;&#xA;Det rettes i strategien et spesielt søkelys mot kunnskapsgrunnlaget for tilstrekkelig digital sikkerhetskompetanse. JD vil sørge for oppdatert statistikk og analyser for å følge med på kompetansegapet innenfor digital sikkerhet. Videre skal det legges til rette for et forbedret kunnskapsgrunnlag om sikkerhetskultur for befolkningen og virksomheter. Prioriteringer innenfor kompetanseområdet er på over 800 mill. kroner. I tillegg kommer studieplassene på IKT som har blitt tildelt de siste tre årene, hvor det har vært til dels sterke føringer på digital sikkerhet. Budsjettmessige satsinger som følger av den reviderte Langtidsplan for forskning og høyere utdanning inngår heller ikke i beløpet.&#xD;&#xA;&#xD;&#xA;Ansvarlig virksomhet: JD og Kunnskapsdepartementet (KD)&#xD;&#xA;&#xD;&#xA;Gjennomføres: 2019&#xD;&#xA;"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:CourseOfAction>

@@ -1,0 +1,38 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Anbefaling 1: Ledelse"
+    id="id-9cb4e0e1d3ce41f6b6ddf44e847d88f1"
+    documentation="Digital sikkerhet må være en integrert del av virksomhetens IKT-systemer og tjenester. Det avhenger igjen av gode prosesser for styring og ledelse. Det bør etableres aktiviteter for sikkerhetsstyring, som del av virksomhetsstyringen, hvor det er tydelige krav og forventninger til sikkerhet. Dette inkluderer å tilføre nødvendige ressurser med tydelig ansvarsbeskrivelse og oppfølging. Omfanget må tilpasses virksomhetens størrelse og behov. Dette kan tilrettelegges svært enkelt, med få roller og enkel gjennomføring, i en liten virksomhet. Motsatt settes det større krav til virksomheter som har et større beskyttelsesbehov.&#xD;&#xA;&#xD;&#xA;Start-tips: Etabler tilstrekkelig systematikk for sikkerhetsstyring, og sørg for at en fagperson støtter ledelsen i arbeidet">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:principle"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="digdir:link1"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Anbefaling 1: Ledelse"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Digital sikkerhet må være en integrert del av virksomhetens IKT-systemer og tjenester. Det avhenger igjen av gode prosesser for styring og ledelse. Det bør etableres aktiviteter for sikkerhetsstyring, som del av virksomhetsstyringen, hvor det er tydelige krav og forventninger til sikkerhet. Dette inkluderer å tilføre nødvendige ressurser med tydelig ansvarsbeskrivelse og oppfølging. Omfanget må tilpasses virksomhetens størrelse og behov. Dette kan tilrettelegges svært enkelt, med få roller og enkel gjennomføring, i en liten virksomhet. Motsatt settes det større krav til virksomheter som har et større beskyttelsesbehov.&#xD;&#xA;&#xD;&#xA;Start-tips: Etabler tilstrekkelig systematikk for sikkerhetsstyring, og sørg for at en fagperson støtter ledelsen i arbeidet"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Principle>

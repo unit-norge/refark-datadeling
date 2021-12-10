@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="konsumerer"
+    id="90fc0d6e-fadc-4eec-b8d4-6e642442efcb"
+    accessType="1">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_0442a2d9-0a27-4aee-ac78-82b12deccf85.xml#0442a2d9-0a27-4aee-ac78-82b12deccf85"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_b1e5e3e7-d970-4a4a-aca7-1f07eafd34ca.xml#b1e5e3e7-d970-4a4a-aca7-1f07eafd34ca"/>
+</archimate:AccessRelationship>

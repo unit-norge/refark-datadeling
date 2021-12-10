@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Autentisere  virksomheter og styre tilgang til data i M2M dialog"
+    id="id-08591d373dcd43fb8230d0c7bd37f58b">
+  <properties
+      key="difi:namespace"
+      value="Felles økosystem"/>
+</archimate:Capability>

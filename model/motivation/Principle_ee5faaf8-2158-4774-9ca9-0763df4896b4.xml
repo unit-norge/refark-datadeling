@@ -1,0 +1,9 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Prinsipp 4: Del og gjenbruk data"
+    id="ee5faaf8-2158-4774-9ca9-0763df4896b4"
+    documentation="[.lead]&#xD;&#xA;Virksomheter skal legge til rette for deling og gjenbruk av data. Data er en fellesressurs som gjennom deling og gjenbruk gir store gevinster for forvaltningen, innbyggere, næringsliv og frivillige organisasjoner.&#xD;&#xA;&#xD;&#xA;== Forklaring&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;== Begrunnelse&#xD;&#xA;Begrunnelsen for prinsippet er at ved å dele offentlige data vil samfunnet kunne gjøre seg nytte av informasjon offentlig sektor forvalter, for økt kunnskap, verdiskaping, innovasjon, økt effektivitet og økt åpenhet og transparens.&#xD;&#xA;&#xD;&#xA;Deling av data er en forutsetning for optimalisering av arbeidsprosesser og sammenhengende tjenester, og det kan muliggjøre automatisering av oppgaveløsningen. Brukerne slipper å gjenta informasjon om seg selv som det offentlige allerede vet (kun én gang).&#xD;&#xA;&#xD;&#xA;Deling av data vil også kunne føre til bedre datakvalitet, da flere kan oppdage og gi tilbakemelding om mulige feil.">
+  <properties
+      key="drill down"
+      value="3f1a32a7-f549-4ebb-a6fe-bed2bc0171c1"/>
+</archimate:Principle>

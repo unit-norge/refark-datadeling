@@ -1,0 +1,36 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Medfinansieringsordningen"
+    id="2a759a63-0d1f-4a12-aa3a-4440a35705f3"
+    documentation="Hel- eller delfinansiering av &#xD;&#xA;&#xD;&#xA;* tverrgåande prosjekt som støttar opp under målet om samanhengande tenester i digitaliseringsstrategien&#xD;&#xA;&#xD;&#xA;* støtte fellesløysingar (plattformar, infrastruktur) som støttar opp under digitaliseringsstrategien&#xD;&#xA;&#xD;&#xA;*  støtte små og mellomstore samfunnsøkonomisk lønsame digitaliseringsprosjekt, som tidlegare&#xD;&#xA;Medfinansieringsordninga har i 2020 en pott på 187,9 mill.&quot;">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:product"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Medfinansieringsordningen"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Hel- eller delfinansiering av &#xD;&#xA;&#xD;&#xA;* tverrgåande prosjekt som støttar opp under målet om samanhengande tenester i digitaliseringsstrategien&#xD;&#xA;&#xD;&#xA;* støtte fellesløysingar (plattformar, infrastruktur) som støttar opp under digitaliseringsstrategien&#xD;&#xA;&#xD;&#xA;*  støtte små og mellomstore samfunnsøkonomisk lønsame digitaliseringsprosjekt, som tidlegare&#xD;&#xA;Medfinansieringsordninga har i 2020 en pott på 187,9 mill.&quot;"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Product>

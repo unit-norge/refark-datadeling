@@ -1,0 +1,36 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Arkitektur og standardiseringsrådet"
+    id="id-6b2e8a6c4a0348ed911289701ef0f000"
+    documentation="Rådgivende organ for hvilke arkitekturer og standarder som skal være anbefalt eller obligatorisk for offentlig sektor. Rådene fra rådet setter føringer for hva som inngår i Referansekatalogen og standardiseringsforskriften">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:business-actor"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Arkitektur og standardiseringsrådet"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Rådgivende organ for hvilke arkitekturer og standarder som skal være anbefalt eller obligatorisk for offentlig sektor. Rådene fra rådet setter føringer for hva som inngår i Referansekatalogen og standardiseringsforskriften"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:BusinessActor>

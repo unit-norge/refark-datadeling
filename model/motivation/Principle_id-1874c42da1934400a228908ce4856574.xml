@@ -1,0 +1,38 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Anbefaling 4: Inkluder digital sikkerhet i virksomhetskulturen"
+    id="id-1874c42da1934400a228908ce4856574"
+    documentation="Ansattes kunnskaper og holdninger er vesentlig for at virksomheter kan operere sikkert. Virksomheter må derfor sørge for at ansatte har nødvendig informasjon, kunnskap og ferdigheter til å opprettholde ønsket sikkerhetsnivå. En virksomhetsledelse må kommunisere mål og prioriteringer for digital sikkerhet tydelig og effektivt, og fremstå som gode rollefigurer. Alle ansatte, fra øverste ledelse til nyansatte fra skolen, bør følge tilpassede spor for opplæring, kompetansebygging og bevisstgjøring om sikkerhet. Ansatte som opererer og støtter sentrale tjenester må ha tilstrekkelig kunnskap og erfaring for å opprettholde sikker drift av IKT-systemene.&#xD;&#xA;&#xD;&#xA;Start-tips: Kartlegg virksomhetens sikkerhetskultur og identifiser hva som kan forbedres. Fastsett ønsket kultur og gjennomfør tilpasset, årlige treningsprogram for å fremme god sikkerhetskultu">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:principle"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="digdir:link1"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Anbefaling 4: Inkluder digital sikkerhet i virksomhetskulturen"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Ansattes kunnskaper og holdninger er vesentlig for at virksomheter kan operere sikkert. Virksomheter må derfor sørge for at ansatte har nødvendig informasjon, kunnskap og ferdigheter til å opprettholde ønsket sikkerhetsnivå. En virksomhetsledelse må kommunisere mål og prioriteringer for digital sikkerhet tydelig og effektivt, og fremstå som gode rollefigurer. Alle ansatte, fra øverste ledelse til nyansatte fra skolen, bør følge tilpassede spor for opplæring, kompetansebygging og bevisstgjøring om sikkerhet. Ansatte som opererer og støtter sentrale tjenester må ha tilstrekkelig kunnskap og erfaring for å opprettholde sikker drift av IKT-systemene.&#xD;&#xA;&#xD;&#xA;Start-tips: Kartlegg virksomhetens sikkerhetskultur og identifiser hva som kan forbedres. Fastsett ønsket kultur og gjennomfør tilpasset, årlige treningsprogram for å fremme god sikkerhetskultu"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Principle>

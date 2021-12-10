@@ -1,0 +1,41 @@
+<archimate:CourseOfAction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Etablere et nasjonalt ressurssenter for deling av data"
+    id="id-cfa47e53c0c94acba16b070bfa449a09"
+    documentation="Regjeringen vil etablere et nasjonalt ressurssenter for deling av data med spisskompetanse på sammenhengen mellom juss, teknologi, forretnings- og forvaltningsprosesser som læremiljø og kompetansebank for hele offentlig sektor.">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:course-of-action"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="digdir:link1"
+      value="https://www.digdir.no/digitalisering-og-samordning/okt-deling-av-data-og-verdiskaping/1228#initiativ_etablere_et_nasjonalt_ressurssenter_for_deling_av_data"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Etablere et nasjonalt ressurssenter for deling av data"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+  <properties
+      key="drill down"
+      value="id-bfe4d640cd3f46a997219e6733c7217b"/>
+</archimate:CourseOfAction>

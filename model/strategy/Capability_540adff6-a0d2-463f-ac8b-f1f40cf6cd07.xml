@@ -1,0 +1,35 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sammenhengende tjenester med brukerne i sentrum"
+    id="540adff6-a0d2-463f-ac8b-f1f40cf6cd07"
+    documentation="Sitat fra https://www.regjeringen.no/contentassets/db9bf2bf10594ab88a470db40da0d10f/no/pdfs/digitaliseringsstrategi_for_offentlig_sektor.pdf: Videre er det en utfordring at det i stor grad mangler metodikk for samarbeid og tverrgående tjenesteutvikling.">
+  <properties
+      key="dct:type"
+      value="archi:requirement"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Sammenhengende tjenester med brukerne i sentrum"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Capability>

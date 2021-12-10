@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Oppbevare signerte dokumenter over tid i eksternt lager"
+    id="id-668ea993979f465da56f95483bf2ac0b">
+  <properties
+      key="difi:namespace"
+      value="Felles økosystem"/>
+</archimate:Capability>
