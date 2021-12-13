@@ -73,7 +73,7 @@
           href="ServingRelationship_b60834d6-a8d3-4c44-9bfe-cad2ce834665.xml#b60834d6-a8d3-4c44-9bfe-cad2ce834665"/>
     </sourceConnections>
     <bounds
-        x="648"
+        x="666"
         y="156"
         width="133"
         height="71"/>
@@ -447,7 +447,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-a3eefea24d2c4524af922c0aad02036f"
       textAlignment="1"
-      content="Test til å få til oppdatering">
+      content="Og nok en test her">
     <bounds
         x="264"
         y="70"
