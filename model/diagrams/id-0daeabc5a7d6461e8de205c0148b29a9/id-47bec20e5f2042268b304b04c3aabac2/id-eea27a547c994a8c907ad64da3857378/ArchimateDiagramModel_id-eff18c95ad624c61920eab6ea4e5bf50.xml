@@ -340,10 +340,22 @@
       textAlignment="1"
       content="Hva er koblingen mellom API-katalog og tilgangene som finnes til en API (scopes)?  Access manager skal ha oversikt over OAuth Scopes, men API manager skal ha oversikt over API. Disse må knyttes sammen.&#xD;&#xA;">
     <bounds
-        x="864"
-        y="192"
+        x="816"
+        y="96"
         width="225"
         height="123"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-10bcb5f1d19d4e659935f1fb5ab58725">
+    <bounds
+        x="975"
+        y="293"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Location"
+        href="Location_id-2a5679fb47a74fbfa9b2eee68fa6d916.xml#id-2a5679fb47a74fbfa9b2eee68fa6d916"/>
   </children>
   <properties
       key="difi:language"
