@@ -1,0 +1,21 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Intro"
+    id="id-5473195dbb89488193f52bb52b9e208a">
+  <properties
+      key="modelx:antora_module"
+      value="unit-ra-datadeling-sammendrag"/>
+  <properties
+      key="modelx:antora_component"
+      value="unit-ra"/>
+  <properties
+      key="modelx:antora_version"
+      value="main"/>
+  <properties
+      key="dct:type"
+      value="modelx:section"/>
+  <properties
+      key="modelx:author_name"/>
+  <properties
+      key="modelx:author_email"/>
+</archimate:Representation>

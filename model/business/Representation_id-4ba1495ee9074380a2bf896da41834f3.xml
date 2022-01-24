@@ -19,7 +19,7 @@
       value="image1.jpeg"/>
   <properties
       key="modelx:book_back_cover_image"
-      value="image11.png"/>
+      value="image11.jpeg"/>
   <properties
       key="modelx:antora_update_script"
       value="C:\antora\unit-norge\antora-playbook\update.sh"/>

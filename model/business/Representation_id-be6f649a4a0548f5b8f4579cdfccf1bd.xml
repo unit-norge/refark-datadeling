@@ -1,0 +1,21 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Informasjonsforvaltning"
+    id="id-be6f649a4a0548f5b8f4579cdfccf1bd">
+  <properties
+      key="modelx:antora_component"
+      value="unit-ra"/>
+  <properties
+      key="modelx:antora_version"
+      value="main"/>
+  <properties
+      key="dct:type"
+      value="modelx:section"/>
+  <properties
+      key="modelx:author_name"/>
+  <properties
+      key="modelx:author_email"/>
+  <properties
+      key="modelx:antora_module"
+      value="Antora module name"/>
+</archimate:Representation>

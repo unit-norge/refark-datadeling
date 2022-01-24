@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="FORELDET - Registrere API  UHF"
+    name="OBJEKTARKIV og FORELDET - Registrere API  UHF"
     id="id-eff18c95ad624c61920eab6ea4e5bf50">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -340,22 +340,45 @@
       textAlignment="1"
       content="Hva er koblingen mellom API-katalog og tilgangene som finnes til en API (scopes)?  Access manager skal ha oversikt over OAuth Scopes, men API manager skal ha oversikt over API. Disse må knyttes sammen.&#xD;&#xA;">
     <bounds
-        x="816"
-        y="96"
+        x="300"
+        y="22"
         width="225"
         height="123"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-10bcb5f1d19d4e659935f1fb5ab58725">
+      xsi:type="archimate:DiagramModelNote"
+      id="id-ed9c1717602749d3a91fa380f03e33c7"
+      textAlignment="1"
+      content="Disse element er lagt inn som arkiv slik at de er brukt og ikke blir kastet av skriptet">
     <bounds
-        x="975"
-        y="293"
+        x="668"
+        y="27"
+        width="185"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-fad8554bb22142cba01b0380aeb1b9c4">
+    <bounds
+        x="900"
+        y="27"
         width="120"
         height="55"/>
     <archimateElement
-        xsi:type="archimate:Location"
-        href="Location_id-2a5679fb47a74fbfa9b2eee68fa6d916.xml#id-2a5679fb47a74fbfa9b2eee68fa6d916"/>
+        xsi:type="archimate:Capability"
+        href="Capability_id-bb35f9013cd744789b5cec5016563094.xml#id-bb35f9013cd744789b5cec5016563094"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-f4572900df184cb78638922c7cfe17af">
+    <bounds
+        x="913"
+        y="96"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Representation"
+        href="Representation_id-2f10c7bb317f42a48698a7133ed39644.xml#id-2f10c7bb317f42a48698a7133ed39644"/>
   </children>
   <properties
       key="difi:language"

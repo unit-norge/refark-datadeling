@@ -267,8 +267,8 @@
       textAlignment="1"
       content="Er konsument her en applikasjon som kjøres på vegne av en organisasjon?&#xD;&#xA;&#xD;&#xA;Kan det kjøre vegne av enkeltbrukere?">
     <bounds
-        x="240"
-        y="30"
+        x="288"
+        y="24"
         width="253"
         height="80"/>
   </children>
@@ -278,8 +278,8 @@
       textAlignment="1"
       content="Den nasjonale viewet autentiserer konsumenter innbakt i (tildeling av tilganger?). Vi trenger ikke ha den samme modellen">
     <bounds
-        x="528"
-        y="24"
+        x="600"
+        y="27"
         width="185"
         height="86"/>
   </children>
@@ -312,8 +312,8 @@
       textAlignment="1"
       content="Hvorfor vises ikke scopes her?">
     <bounds
-        x="588"
-        y="316"
+        x="528"
+        y="372"
         width="185"
         height="80"/>
   </children>

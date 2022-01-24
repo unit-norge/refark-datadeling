@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Organisering og forvaltning av informasjon i domener for høyskoler, universiteter og forskning"
     id="id-3b92345f88bd44ce8224c6f19063a5ea"
-    documentation="Hvert domene har sin egen informasjon som må forvaltes. Disse domene er&#xD;&#xA;knyttet til kapabiliteter hos universiteter. Europeiske universiteter&#xD;&#xA;har modellert sine kapabiliteter i EUNIS kapabilitetsmodellen, og vi har&#xD;&#xA;brukt denne modellen som utgangspunkt for å foreslå&#xD;&#xA;informasjonsforvaltningsdomener som har ansvar for data institusjonene&#xD;&#xA;ønsker å dele. De foreslåtte domenene er vist i figuren under. Innen&#xD;&#xA;hver domene har fageksperter eierskap til begrepsdefinisjoner innen egen&#xD;&#xA;domene. Domenene er også ansvarlig for forvaltning av egen informasjon.&#xD;&#xA;Referansearkitekturen foreslår roller som har dette ansvaret i seksjonen&#xD;&#xA;_Roller og ansvar for datadeling og informasjonsforvaltning_.">
+    documentation="Hvert domene har sin egen informasjon som må forvaltes. Referansearkitekturen foreslår roller som har dette ansvaret i seksjonen&#xD;&#xA;_Roller og ansvar for datadeling og informasjonsforvaltning_. &#xD;&#xA;Informasjonsforvaltning basert på domeneansvar forutsetter at sektorene blir enige om hvilke domener de skal forholde seg til og hvem som skal bekle rollene koblet til dem. Sektorene er allerede i gang med å definere funksjonsområder som kan være utgangspunktet for definisjon av informasjonsdomener. Arbeidet skjer både som analyse av evner (kapabiliteter) som virksomhetene skal ha og som en kartlegging av sektorens kjernevirksomhet i en «funksjonsanalyse» for arkiveringsformål.&#xD;&#xA;&#xD;&#xA;Europeiske universiteter har modellert sine kapabiliteter i EUNIS kapabilitetsmodellen, en modell som nå gradvis migreres inn i HERM fra Caudit, støttet av Educause og Ucisa. Disse modellene er brukt  som utgangspunkt for å foreslå noen informasjonsforvaltningsdomener for data som institusjonene ønsker å dele. De foreslåtte domenene er vist i figuren under. Innen hver domene har fageksperter eierskap til begrepsdefinisjoner innen egen domene.&#xD;&#xA;&#xD;&#xA;Arbeidet med funksjonsanalyse for arkiveringsformål er en annen kilde til definisjon av informasjonsdomener. https://app.ardoq.com/presentation/ntnusandbox/2827eafaf53bc053131585e7/slide/52d7ab22765dde7928979b84[NTNUs representasjon av HERM fra Caudit med mapping til funksjonsanalysen er tilgjengelig her.]&#xD;&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-a74f78099fdd48578bfde3f18158adfe"
@@ -26,23 +26,20 @@
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_id-c5d36c73230b4d38b810558eb1545503.xml#id-c5d36c73230b4d38b810558eb1545503"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-3158dfac5974421ca78746da3c7f3fc2"
+        source="id-a74f78099fdd48578bfde3f18158adfe"
+        target="id-ea1ccf826906414380281940ce7167b2">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-cfb43ada98d34a5c8deca877f7e9339b.xml#id-cfb43ada98d34a5c8deca877f7e9339b"/>
+    </sourceConnections>
     <bounds
         x="24"
         y="24"
         width="901"
         height="385"/>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-4ddaf5c759804832ae1d86d1f9fb8c4f">
-      <bounds
-          x="228"
-          y="39"
-          width="181"
-          height="37"/>
-      <archimateElement
-          xsi:type="archimate:Capability"
-          href="Capability_id-bb35f9013cd744789b5cec5016563094.xml#id-bb35f9013cd744789b5cec5016563094"/>
-    </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-6c07e76d582645e19ea3183f5707e42d">
@@ -412,6 +409,19 @@
       <archimateElement
           xsi:type="archimate:Capability"
           href="Capability_id-3de72144e6eb43a180fa5067f630ebab.xml#id-3de72144e6eb43a180fa5067f630ebab"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-ea1ccf826906414380281940ce7167b2"
+        targetConnections="id-3158dfac5974421ca78746da3c7f3fc2">
+      <bounds
+          x="233"
+          y="39"
+          width="188"
+          height="34"/>
+      <archimateElement
+          xsi:type="archimate:Capability"
+          href="Capability_id-0ef1bb5b1bba4fde9393ef9139ffe51d.xml#id-0ef1bb5b1bba4fde9393ef9139ffe51d"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"

@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Vedlegg A; Definisjoner"
     id="id-142edeb394bb42478e6d6b85d5228d86"
-    documentation="*Datakvalitet* innebærer at data skal være korrekte, komplette,&#xD;&#xA;oppdaterte og konsistente og har evnen til å støtte de&#xD;&#xA;informasjonsformål de brukes til [kilde: data.norge.no, SKATTEETATEN]&#xD;&#xA;&#xD;&#xA;*Masterdata*: Autoritative data for gitte opplysningstyper. [kilde:&#xD;&#xA;data.norge.no, NAV]&#xD;&#xA;&#xD;&#xA;*Grunndata*: Basisinformasjon innen en gitt sektor. [kilde:&#xD;&#xA;data.norge.no, NAV]">
+    documentation="Referansearkitekturen forutsetter at begreper vil bli definert i sine respektive domener og publisert i en begrepskatalog når referansearkitekturen realiseres. I mellomtiden kopierer vi utvalgte begreper fra data.norge.no med kildeangivelse for å bidra til en entydig forståelse av referansearkitekturen.&#xD;&#xA;&#xD;&#xA;*Datakvalitet* innebærer at data skal være korrekte, komplette,&#xD;&#xA;oppdaterte og konsistente og har evnen til å støtte de&#xD;&#xA;informasjonsformål de brukes til [kilde: data.norge.no, SKATTEETATEN]&#xD;&#xA;&#xD;&#xA;*Masterdata*: Autoritative data for gitte opplysningstyper. [kilde:&#xD;&#xA;data.norge.no, NAV]&#xD;&#xA;&#xD;&#xA;*Grunndata*: Basisinformasjon innen en gitt sektor. [kilde:&#xD;&#xA;data.norge.no, NAV]">
   <properties
       key="modelx:antora_component"
       value="unit-ra"/>

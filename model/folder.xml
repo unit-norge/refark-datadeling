@@ -14,8 +14,8 @@
       value="C:\antora\unit-norge\components"/>
   <properties
       key="modelx:web_browser_app"
-      value="C:\Program Files (x86)\Google\Chrome\Application\chrome.exe"/>
+      value="C:\Program Files\Google\Chrome\Application\chrome.exe"/>
   <properties
       key="modelx:cmd_line_app"
-      value="C:\Program Files\Git\git-bash.exe"/>
+      value="C:\Users\heidibh\AppData\Local\Programs\Git\git-bash.exe"/>
 </archimate:ArchimateModel>

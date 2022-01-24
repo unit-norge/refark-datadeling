@@ -1,7 +1,8 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Organisering og forvaltning av informasjon i domener for høyskoler, universiteter og forskning"
-    id="id-465d0ad2236b4b35a7bee699a39d3a71">
+    id="id-465d0ad2236b4b35a7bee699a39d3a71"
+    documentation="En samlet aktivitet i UH-sektoren, fasilitert av Koordinerende aktør, Direktoratet for høyere utdanning og kompetanse.">
   <properties
       key="difi:namespace"
       value="unit"/>

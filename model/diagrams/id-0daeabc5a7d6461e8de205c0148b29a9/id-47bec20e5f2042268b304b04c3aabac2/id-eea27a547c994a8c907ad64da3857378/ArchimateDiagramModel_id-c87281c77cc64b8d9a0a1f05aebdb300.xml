@@ -447,10 +447,10 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-a3eefea24d2c4524af922c0aad02036f"
       textAlignment="1"
-      content="Og nok en test her">
+      content="Og nok en test her&#xD;&#xA;&#xD;&#xA;Blah">
     <bounds
-        x="264"
-        y="70"
+        x="132"
+        y="132"
         width="185"
         height="80"/>
   </children>
