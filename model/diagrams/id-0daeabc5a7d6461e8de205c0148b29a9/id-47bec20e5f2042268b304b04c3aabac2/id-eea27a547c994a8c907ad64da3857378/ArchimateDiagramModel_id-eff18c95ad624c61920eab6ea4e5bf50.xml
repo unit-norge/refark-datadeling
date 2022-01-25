@@ -380,6 +380,18 @@
         xsi:type="archimate:Representation"
         href="Representation_id-2f10c7bb317f42a48698a7133ed39644.xml#id-2f10c7bb317f42a48698a7133ed39644"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-d7cb36aec2674f0baa83179f0ef1a801">
+    <bounds
+        x="876"
+        y="192"
+        width="193"
+        height="127"/>
+    <archimateElement
+        xsi:type="archimate:Capability"
+        href="Capability_id-31a4b523176a4948bd4333a525a3691d.xml#id-31a4b523176a4948bd4333a525a3691d"/>
+  </children>
   <properties
       key="difi:language"
       value="no"/>
