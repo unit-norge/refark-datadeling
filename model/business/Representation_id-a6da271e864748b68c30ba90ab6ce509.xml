@@ -1,0 +1,23 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vedlegg F; Bruk av Archimate"
+    id="id-a6da271e864748b68c30ba90ab6ce509">
+  <properties
+      key="modelx:antora_component"
+      value="unit-ra"/>
+  <properties
+      key="modelx:antora_version"
+      value="main"/>
+  <properties
+      key="modelx:antora_module"
+      value="unit-ra-datadeling-vedlegg-f"/>
+  <properties
+      key="dct:type"
+      value="modelx:archimate_view"/>
+  <properties
+      key="modelx:view_reference"
+      value="id-fdcdca03e974433b92d70ef6d46e5ac1"/>
+  <properties
+      key="drill down"
+      value="id-fdcdca03e974433b92d70ef6d46e5ac1"/>
+</archimate:Representation>

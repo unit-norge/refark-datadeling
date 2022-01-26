@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Om arkitekturprinsippenes føringer for datadeling"
     id="id-4d6cbb6e37fa4cb7a63edc46993d12b9"
-    documentation="De&#xD;&#xA;https://www.digdir.no/digitalisering-og-samordning/overordnede-arkitekturprinsipper/1065[Overordnede&#xD;&#xA;arkitekturprinsippene] fra digitaliseringsdirektoratet er gjeldende for&#xD;&#xA;referansearkitekturen. For å forenkle bruk av prinsippene, har vi valgt&#xD;&#xA;ut noen av føringene fra de overordnede prinsipper som er spesielt&#xD;&#xA;relevant for integrasjoner og inkludert disse i referansearkitekturen&#xD;&#xA;når vi ruller ut UH:IntArk fase 1, som&#xD;&#xA;https://www.usit.uio.no/prosjekter/datadeling/arbeidsomrader/integrasjonsarkitektur/dokumentasjon/prinsippene/[integrasjonsprinsipper].">
+    documentation="De&#xD;&#xA;https://www.digdir.no/digitalisering-og-samordning/overordnede-arkitekturprinsipper/1065[Overordnede&#xD;&#xA;arkitekturprinsippene] fra digitaliseringsdirektoratet er gjeldende for&#xD;&#xA;referansearkitekturen. For å forenkle bruk av prinsippene, har vi valgt&#xD;&#xA;ut noen av føringene fra de overordnede prinsipper som er spesielt&#xD;&#xA;relevant for integrasjoner og inkludert disse i referansearkitekturen&#xD;&#xA;når vi ruller ut UH:IntArk fase 1, som integrasjonsprinsipper.">
   <properties
       key="dct:type"
       value="modelx:section"/>
