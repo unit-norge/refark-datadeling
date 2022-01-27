@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Målgruppe"
     id="id-620fadc88bbc4cd5afc57eb614c67ad0"
-    documentation="Målgruppen for referansearkitekturen er primært arkitekter og tekniske prosjektledere. De delene av dokumentet som omhandler informasjnsforvaltning er også relevant for domeneansvarlige, begrepsansvarlige, tjenesteeiere, tjenesteansvarlige, utviklere og datakonsumenter (disse rollene er definert i dette dokumentet).">
+    documentation="Målgruppen for referansearkitekturen er primært arkitekter og tekniske prosjektledere. De delene av dokumentet som omhandler informasjonsforvaltning er også relevant for domeneansvarlige, begrepsansvarlige, tjenesteeiere, tjenesteansvarlige, utviklere og datakonsumenter (disse rollene er definert i dette dokumentet).">
   <properties
       key="dct:type"
       value="modelx:section"/>

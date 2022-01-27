@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Informasjonsforvaltning"
     id="id-8d134ee0e0a9479e87754836890b8f53"
-    documentation="Aktiviteter og tiltak for å sikre best mulig kvalitet, utnytting og sikring av informasjon i en virksomhet [kilde data.norge.no]. Administrert Informasjon inkluderer strukturerte og ustrukturerte data med omfang som definert av retningslinjene for datasikkerhet og datahåndtering.&#xD;&#xA;&#xD;&#xA;EUNIS: Information management&#xD;&#xA;">
+    documentation="Aktiviteter og tiltak for å sikre best mulig kvalitet, utnytting og sikring av informasjon i en virksomhet [kilde: data.norge.no]. Administrert informasjon inkluderer strukturerte og ustrukturerte data med omfang som definert av retningslinjene for datasikkerhet og datahåndtering.&#xD;&#xA;&#xD;&#xA;EUNIS: Information management&#xD;&#xA;">
   <properties
       key="difi:namespace"
       value="unit"/>

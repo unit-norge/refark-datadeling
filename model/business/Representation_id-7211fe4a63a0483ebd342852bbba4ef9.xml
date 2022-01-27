@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Tilnærming til utvikling av referansearkitekturen"
     id="id-7211fe4a63a0483ebd342852bbba4ef9"
-    documentation="Denne referansearkitekturen skal gi veiledning til utforming av digitale&#xD;&#xA;samhandlingsløsninger for deling av data i høyere utdanning og&#xD;&#xA;forskning. Denne seksjonen veileder gjennom en presentasjon av hva som&#xD;&#xA;skal oppnås ved å definere hva datadeling er, en visjon om hva vi skal&#xD;&#xA;bruke det til, og modellene som skal skape fundament for utforming av&#xD;&#xA;løsningene i visjonen.">
+    documentation="Denne referansearkitekturen skal gi veiledning til utforming av digitale&#xD;&#xA;samhandlingsløsninger for deling av data i høyere utdanning og&#xD;&#xA;forskning. Denne seksjonen gir veiledning om hva som skal oppnås gjennom en presentasjon av hva datadeling er, en visjon om hva vi skal&#xD;&#xA;bruke det til, og modellene som skal skape fundament for utforming av&#xD;&#xA;løsningene i visjonen.">
   <properties
       key="dct:type"
       value="modelx:section"/>

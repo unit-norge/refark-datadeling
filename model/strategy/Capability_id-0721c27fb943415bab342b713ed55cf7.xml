@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Kommersiell aktivitet"
     id="id-0721c27fb943415bab342b713ed55cf7"
-    documentation="Alle egenskaper som kreves for å sikre at organisasjonen er i stand til å utvikle, levere, støtte og administrere kommersiell aktivitet.&#xD;&#xA;&#xD;&#xA;HERM: EUNIS: Commerical activity ">
+    documentation="Alle egenskaper som kreves for å sikre at organisasjonen er i stand til å utvikle, levere, støtte og administrere kommersiell aktivitet.&#xD;&#xA;&#xD;&#xA;HERM: EUNIS: Commercial activity ">
   <properties
       key="difi:namespace"
       value="unit"/>
