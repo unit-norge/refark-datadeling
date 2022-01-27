@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-6ea33483ae674152ac1909e04e02e8df"
+    documentation="The Serving relationship describes how the services or interfaces offered by a behavior or active structure element serve entities in their environment.">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-10535c1112a34643bfef0f33142b3da9.xml#id-10535c1112a34643bfef0f33142b3da9"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-5c7ea52cb0034ff5b8ef72566aaaeaa3.xml#id-5c7ea52cb0034ff5b8ef72566aaaeaa3"/>
+</archimate:ServingRelationship>

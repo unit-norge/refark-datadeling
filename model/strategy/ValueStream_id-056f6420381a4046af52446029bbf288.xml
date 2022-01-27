@@ -1,4 +1,5 @@
 <archimate:ValueStream
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Value Stream"
-    id="id-056f6420381a4046af52446029bbf288"/>
+    id="id-056f6420381a4046af52446029bbf288"
+    documentation="A Value Stream represents a sequence of activities that create an overall result for a customer, stakeholder, or end user."/>

@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-648e4446075d4d019b183b7f5b6ca242"
+    documentation="The Realization relationship links a logical entity with a more concrete entity that realizes it.">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-ffcdba08c97a4542b0639bb7710f5ff2.xml#id-ffcdba08c97a4542b0639bb7710f5ff2"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-10535c1112a34643bfef0f33142b3da9.xml#id-10535c1112a34643bfef0f33142b3da9"/>
+</archimate:RealizationRelationship>

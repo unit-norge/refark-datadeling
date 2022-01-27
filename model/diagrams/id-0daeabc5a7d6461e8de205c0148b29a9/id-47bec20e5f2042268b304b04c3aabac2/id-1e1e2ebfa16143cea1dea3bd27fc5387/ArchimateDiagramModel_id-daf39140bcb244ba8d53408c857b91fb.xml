@@ -134,7 +134,6 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-23f294bf227f47409937cb57b11cc36a"
         targetConnections="id-379ac4af40864359b3284dfbf0c2d670 id-0309f7fa9d08430bac324d13cc73e1b6 id-88e21c4d7cef4798b8ef4401468b3b55"
-        fillColor="#d2d086"
         textPosition="1">
       <bounds
           x="624"

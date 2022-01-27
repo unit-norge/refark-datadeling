@@ -1,0 +1,5 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Role"
+    id="id-1615968521a847f38a50d7a84a73f807"
+    documentation="A Business Role represents the responsibility for performing specific behavior, to which an actor can be assigned, or the part an actor plays in a particular action or event."/>

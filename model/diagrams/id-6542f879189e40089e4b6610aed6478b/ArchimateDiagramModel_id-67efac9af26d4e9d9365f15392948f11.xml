@@ -991,15 +991,6 @@
         targetConnections="id-c34991dfcb8946a0afa923d750a52dca id-f170d322513b4751ad996aacc55e5e57">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-098b0a45494446b8a96351463e466d97"
-          source="id-1d92c372c0ed417b9770a083121289d4"
-          target="id-70e07bba141f43928f121b13c6ef2798">
-        <archimateRelationship
-            xsi:type="archimate:CompositionRelationship"
-            href="CompositionRelationship_id-9d332d198c8e4316b5fada12549451ee.xml#id-9d332d198c8e4316b5fada12549451ee"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-d06b78f3cf0b4d7f8396583137b989dd"
           source="id-1d92c372c0ed417b9770a083121289d4"
           target="id-5c351c1e50184aa19cb087ce70a06525">
@@ -1012,23 +1003,6 @@
           y="1512"
           width="1071"
           height="95"/>
-      <children
-          xsi:type="archimate:DiagramModelArchimateObject"
-          id="id-70e07bba141f43928f121b13c6ef2798"
-          targetConnections="id-098b0a45494446b8a96351463e466d97"
-          textPosition="1">
-        <features
-            name="gradient"
-            value="1"/>
-        <bounds
-            x="36"
-            y="12"
-            width="137"
-            height="71"/>
-        <archimateElement
-            xsi:type="archimate:Representation"
-            href="Representation_id-4d6cbb6e37fa4cb7a63edc46993d12b9.xml#id-4d6cbb6e37fa4cb7a63edc46993d12b9"/>
-      </children>
       <archimateElement
           xsi:type="archimate:Representation"
           href="Representation_id-eecdaf9c4f2a418aa4e1a18527b91b77.xml#id-eecdaf9c4f2a418aa4e1a18527b91b77"/>
@@ -1190,10 +1164,10 @@
         id="id-5c351c1e50184aa19cb087ce70a06525"
         targetConnections="id-c3527bd73d2f49a99ab8930515ccb024 id-d06b78f3cf0b4d7f8396583137b989dd">
       <bounds
-          x="288"
-          y="1668"
-          width="469"
-          height="61"/>
+          x="36"
+          y="1656"
+          width="1033"
+          height="85"/>
       <archimateElement
           xsi:type="archimate:Representation"
           href="Representation_id-a6da271e864748b68c30ba90ab6ce509.xml#id-a6da271e864748b68c30ba90ab6ce509"/>

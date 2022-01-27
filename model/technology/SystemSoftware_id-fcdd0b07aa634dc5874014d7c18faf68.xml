@@ -1,4 +1,5 @@
 <archimate:SystemSoftware
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="System Software"
-    id="id-fcdd0b07aa634dc5874014d7c18faf68"/>
+    id="id-fcdd0b07aa634dc5874014d7c18faf68"
+    documentation="System Software represents software that provides or contributes to an environment for storing, executing, and using software or data deployed within it."/>

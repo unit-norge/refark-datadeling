@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Business Object"
-    id="id-10e3fb5fbdd740c3980145aa8c819159"/>
+    id="id-10e3fb5fbdd740c3980145aa8c819159"
+    documentation="A Business Object represents a concept used within a particular business domain."/>

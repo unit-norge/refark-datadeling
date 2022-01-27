@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-200721c3dc4a4de69fc230a91d0f0b94"
+    documentation="The Access relationship represents the ability of behavior and active structure elements to observe or act upon passive structure elements.&#xD;&#xA;">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-10535c1112a34643bfef0f33142b3da9.xml#id-10535c1112a34643bfef0f33142b3da9"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-b7719079d2be4f8daab72bbc110a679e.xml#id-b7719079d2be4f8daab72bbc110a679e"/>
+</archimate:AccessRelationship>

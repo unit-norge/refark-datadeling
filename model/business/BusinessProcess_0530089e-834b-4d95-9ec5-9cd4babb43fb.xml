@@ -25,4 +25,7 @@
   <properties
       key="dct:type"
       value="archi:business-process"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="abb"/>
 </archimate:BusinessProcess>

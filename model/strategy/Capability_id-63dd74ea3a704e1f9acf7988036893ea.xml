@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Capability"
-    id="id-63dd74ea3a704e1f9acf7988036893ea"/>
+    id="id-63dd74ea3a704e1f9acf7988036893ea"
+    documentation="A Capability represents an ability that an active structure element, such as an organization, person, or system, possesses."/>

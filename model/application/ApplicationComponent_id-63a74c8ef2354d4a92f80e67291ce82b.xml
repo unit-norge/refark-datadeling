@@ -1,4 +1,9 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Application Component (mørk)"
-    id="id-63a74c8ef2354d4a92f80e67291ce82b"/>
+    name="Application Component Solution Building Block"
+    id="id-63a74c8ef2354d4a92f80e67291ce82b"
+    documentation="An application component that specifies the implementation, &quot;Solutuion Building Block&quot; (SBB). Solution Building Blocks (SBBs) define what products and components will implement the functionality. SBBs are product or vendor-aware.&#xD;&#xA;&#xD;&#xA;An Application Component represents an encapsulation of application functionality aligned to implementation structure, which is modular and replaceable.&#xD;&#xA;&#xD;&#xA;">
+  <properties
+      key="difi:abstractionLevel"
+      value="sbb"/>
+</archimate:ApplicationComponent>
