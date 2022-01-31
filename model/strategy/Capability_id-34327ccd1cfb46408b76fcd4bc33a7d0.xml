@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Be om oppdatering"
-    id="id-34327ccd1cfb46408b76fcd4bc33a7d0"/>
+    id="id-34327ccd1cfb46408b76fcd4bc33a7d0"
+    documentation="Evnen til å be en datakilde om å utføre en oppdatering av data i kilden."/>

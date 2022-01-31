@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Beskyttet tjeneste / klient hos datakonsument "
     id="id-592b210c4e904bfebcd47ca0c951de83"
-    documentation="Tjeneste som IAM beskytter tilgang til. Tjenesten kan også være en konsument av data gjennom API, det vil si Universitet, Høyskole eller andre som gir tilgang til data fra datatilbyder.&#xD;&#xA;&#xD;&#xA;Komponenten tilbyr:&#xD;&#xA;&#xD;&#xA;  * autentisering  gjennom en Autentiseringstjeneste&#xD;&#xA;  * oppslag i felleskomponeneter for tilgang til datatilbyders dataprodukter&#xD;&#xA;  * tilgang til ressurser hos datatilbyder ">
+    documentation="Tjeneste som IAM beskytter tilgang til. Tjenesten kan også være en konsument av data gjennom API, det vil si Universitet, Høyskole eller andre som gir tilgang til data fra datatilbyder.&#xD;&#xA;&#xD;&#xA;Komponenten tilbyr:&#xD;&#xA;&#xD;&#xA;  * autentisering  gjennom en Autentiseringstjeneste&#xD;&#xA;  * oppslag i felleskomponenter for tilgang til datatilbyders dataprodukter&#xD;&#xA;  * tilgang til ressurser hos datatilbyder ">
   <properties
       key="difi:namespace"
       value="unit"/>

@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Konsumer notifikasjoner - Publiser og Abonner UHF"
     id="id-d8350737ae4b47bfb2418d938bcb1ef6"
-    documentation="Datakonsument lytter på emner som konsumenten abonnerer på hos&#xD;&#xA;Datatilbyder. Når en ny melding kommer i meldingskøen trigges&#xD;&#xA;konsumpsjonen av notifikasjonen.&#xD;&#xA;&#xD;&#xA;Datakonsumenten vurderer relevans med basis i regler definert for&#xD;&#xA;abonnenten og foretar videre behandling av notifikasjon.&#xD;&#xA;&#xD;&#xA;Videre behandling består av å gjøre et eOppslag (via API) som beskrevet&#xD;&#xA;i «Løsningsmønster forespørsel UHF» dersom konsumenten har behov for&#xD;&#xA;ytterligere informasjon om hendelsen beskrevet i notifikasjonen.">
+    documentation="Datakonsument lytter på emner som konsumenten abonnerer på hos&#xD;&#xA;Datatilbyder. Når en ny melding kommer i meldingskøen trigges&#xD;&#xA;konsumering av notifikasjonen.&#xD;&#xA;&#xD;&#xA;Datakonsumenten vurderer relevans med basis i regler definert for&#xD;&#xA;abonnenten og foretar videre behandling av notifikasjon.&#xD;&#xA;&#xD;&#xA;Videre behandling består av å gjøre et eOppslag (via API) som beskrevet&#xD;&#xA;i «Løsningsmønster forespørsel UHF» dersom konsumenten har behov for&#xD;&#xA;ytterligere informasjon om hendelsen beskrevet i notifikasjonen.">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-ac0d8b6e363545a7aff21893fda5c743"
@@ -184,6 +184,9 @@
       <features
           name="gradient"
           value="1"/>
+      <features
+          name="lineAlpha"
+          value="99"/>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-3b25816f088e45639d7e3d0c30d7dbd7"

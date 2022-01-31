@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Registrere API"
     id="401e79ba-83e5-4aec-9f55-66e228109fbd"
-    documentation="Prosess med å registere API i relevante tjenester, api-katalog, Maskinporten, Kapabilitetsoversikt&#xD;&#xA;">
+    documentation="Prosess for å registere API og tilhørende OAUTH scopes i API-katalog, og høste disse opplysningene til Maskinporten.&#xD;&#xA;">
   <properties
       key="difi:namespace"
       value="-"/>

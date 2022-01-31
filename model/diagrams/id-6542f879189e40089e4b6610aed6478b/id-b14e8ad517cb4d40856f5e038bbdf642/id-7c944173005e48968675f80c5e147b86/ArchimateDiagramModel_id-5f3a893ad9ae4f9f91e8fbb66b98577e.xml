@@ -98,7 +98,7 @@
       </sourceConnections>
       <bounds
           x="864"
-          y="48"
+          y="59"
           width="121"
           height="97"/>
       <archimateElement
@@ -242,8 +242,8 @@
             href="AssociationRelationship_id-e31783995bcf472391fb2377a90517fa.xml#id-e31783995bcf472391fb2377a90517fa"/>
       </sourceConnections>
       <bounds
-          x="732"
-          y="30"
+          x="720"
+          y="29"
           width="109"
           height="133"/>
       <archimateElement

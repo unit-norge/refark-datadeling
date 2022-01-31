@@ -8,6 +8,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-ea7619b84f3f418cbace752a079d62f5"
       textAlignment="1">
+    <features
+        name="lineAlpha"
+        value="99"/>
     <bounds
         x="188"
         y="360"
@@ -253,6 +256,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-62035fcb53034708b86116db83eb8fd7"
       textAlignment="1">
+    <features
+        name="lineAlpha"
+        value="99"/>
     <bounds
         x="188"
         y="574"
@@ -312,6 +318,9 @@
       id="id-d2c678aae54f4d26853c7c496de1a561"
       fillColor="#00ffff"
       textPosition="1">
+    <features
+        name="lineAlpha"
+        value="99"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-0c27d2cc816247d285e54e10590c7115"
@@ -392,6 +401,9 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-e894e93102b8414b86fb908a69ed5f7b">
+    <features
+        name="lineAlpha"
+        value="99"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-bfa786069c514df8b405446b046573c8"
@@ -452,16 +464,16 @@
           source="id-d6117f23c7d545298f39c1aadce7039e"
           target="id-d635b09b444c4fbe9a63c88b0d83e80b">
         <bendpoints
-            startX="126"
-            startY="1"
-            endX="-7"
-            endY="78"/>
+            startX="114"
+            startY="2"
+            endX="5"
+            endY="68"/>
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
             href="TriggeringRelationship_id-768ed43998fd47e895d548268cb34a7c.xml#id-768ed43998fd47e895d548268cb34a7c"/>
       </sourceConnections>
       <bounds
-          x="492"
+          x="504"
           y="120"
           width="133"
           height="71"/>
@@ -473,6 +485,9 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-d635b09b444c4fbe9a63c88b0d83e80b"
         targetConnections="id-7e061def4f3e47d6bc2eae2dc13a2fd2 id-336028e1e9b24dcab20a7255ae19d424">
+      <features
+          name="lineAlpha"
+          value="99"/>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-1596a98b556941799755a8abcc57b5d4"
@@ -549,6 +564,9 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-f411b45c653245ecb2bcf6b7c3600867"
         targetConnections="id-fbb3305d061d42a9a8d6d469dae4a128 id-32623662d29f43cfb2357ec66444dc91">
+      <features
+          name="lineAlpha"
+          value="99"/>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-7e061def4f3e47d6bc2eae2dc13a2fd2"
@@ -571,6 +589,9 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-2997b0ea42db493c8d644474c22bf6ac"
         targetConnections="id-5e80b7b7934c4ed892bd05439174da84 id-1596a98b556941799755a8abcc57b5d4 id-79a135cdd98841a38e738409388b78ec">
+      <features
+          name="lineAlpha"
+          value="99"/>
       <bounds
           x="768"
           y="54"

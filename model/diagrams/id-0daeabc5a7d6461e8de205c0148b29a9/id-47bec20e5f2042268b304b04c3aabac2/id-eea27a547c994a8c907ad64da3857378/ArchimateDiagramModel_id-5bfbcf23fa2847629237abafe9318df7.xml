@@ -379,9 +379,10 @@
       textAlignment="1"
       content="1. Skal primærkopi av klientregistering være hos API mgr eller hos autentiseringstjener? -legger inn i felleskomponent om tilgangsstyring - opp til de som realiserer løsning å tolke&#xD;&#xA;&#xD;&#xA;2. Er det greit å bruke dynamic client registration for oss? - da faller spørsmålet bort&#xD;&#xA;">
     <bounds
-        x="880"
+        x="828"
+        y="-36"
         width="185"
-        height="181"/>
+        height="205"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

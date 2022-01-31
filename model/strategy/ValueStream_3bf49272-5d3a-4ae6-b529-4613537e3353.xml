@@ -1,7 +1,8 @@
 <archimate:ValueStream
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Innhent data"
-    id="3bf49272-5d3a-4ae6-b529-4613537e3353">
+    id="3bf49272-5d3a-4ae6-b529-4613537e3353"
+    documentation="Verdistrøm for datakonsumenten.">
   <properties
       key="difi:metaLevel"
       value="undefined"/>

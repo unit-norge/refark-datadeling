@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Be om tilgangstoken"
     id="b7cbba3b-7ad6-4b4f-8916-3fdd75a06932"
-    documentation="Prosessen med å benytte en sikkerhetsbillettjeneste for hente en sikkerhetsbillett som gir tilgang til et API. Dette forutsetter at alt er registert og satt opp riktig mot de aktuelle tjenestene.">
+    documentation="Prosessen med å benytte en sikkerhetsbillettjeneste for å hente en sikkerhetsbillett som gir tilgang til et API. Dette forutsetter at alt er registrert og satt opp riktig mot de aktuelle tjenestene.">
   <properties
       key="difi:namespace"
       value="-"/>

@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Notifikasjonsdistribusjon"
     id="id-36fa645e01d141c1b807889d42774f7d"
-    documentation="Tjensten mottar notifikasjoner fra tilbyder og distribuerer notifikasjoner til konsumenter som har interesse av gitte notifikasjoner.&#xD;&#xA;&#xD;&#xA;">
+    documentation="Tjenesten mottar notifikasjoner fra tilbyder og distribuerer notifikasjoner til konsumenter som har interesse av gitte notifikasjoner.&#xD;&#xA;&#xD;&#xA;">
   <properties
       key="difi:namespace"
       value="unit"/>

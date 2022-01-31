@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Avgi data"
     id="0dca40ec-4234-4292-8cf0-60788303f50b"
-    documentation="Evne til å avgi data på forespørsel. Kan omfatte tilgangsstyring.">
+    documentation="Evne til å avgi data på forespørsel. Data som avgis er klargjort for dette gjennom en API som er publisert, og en API gateway som håndhever tilgangskontroll basert på at tilgang til data er gitt på på forhånd for den aktuelle konsumenten.">
   <properties
       key="dct:type"
       value="archi:capability"/>

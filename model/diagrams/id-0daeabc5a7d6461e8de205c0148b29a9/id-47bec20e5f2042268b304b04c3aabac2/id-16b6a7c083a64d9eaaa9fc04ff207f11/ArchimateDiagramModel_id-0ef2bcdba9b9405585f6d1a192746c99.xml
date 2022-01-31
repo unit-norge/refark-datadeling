@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Publisering av hendelser - basiskonsept UHF"
     id="id-0ef2bcdba9b9405585f6d1a192746c99"
-    documentation="Hendelser er endringer som oppstår hos en Datatilbyder og som&#xD;&#xA;nødvendiggjør at Datatilbyder deler denne endringen med andre.&#xD;&#xA;&#xD;&#xA;Datatilbyder publiserer en hendelse til en hendelsesstrøm. Datakonsument&#xD;&#xA;konsumerer hendelser fra hendelsesstrømmen og om nødvendig gjør&#xD;&#xA;oppdateringer av sine data.&#xD;&#xA;&#xD;&#xA;Hendelsestrømmer implementeres som en lettvekts notifikasjon i en&#xD;&#xA;Publisert meldingskø (publiser/abonner). +&#xD;&#xA; +&#xD;&#xA;Alternative måter er blant annet hendelseslister, som beskrevet i&#xD;&#xA;Digitaliseringsdirektoratets referansearkitektur for datadeling og i&#xD;&#xA;kapittelet Datautvekslingsmønster.">
+    documentation="Hendelser er endringer som oppstår hos en Datatilbyder og som&#xD;&#xA;nødvendiggjør at Datatilbyder deler denne endringen med andre.&#xD;&#xA;&#xD;&#xA;Datatilbyder publiserer en hendelse til en hendelsesstrøm. Datakonsument&#xD;&#xA;konsumerer hendelser fra hendelsesstrømmen og om nødvendig gjør&#xD;&#xA;oppdateringer av sine data.&#xD;&#xA;&#xD;&#xA;Hendelsestrømmer implementeres som en lettvekts notifikasjon i en&#xD;&#xA;publisert meldingskø (publiser/abonner). &#xD;&#xA; &#xD;&#xA;Alternative måter er blant annet hendelseslister, som beskrevet i&#xD;&#xA;Digitaliseringsdirektoratets referansearkitektur for datadeling og i&#xD;&#xA;kapittelet Datautvekslingsmønster.">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-744d9fd0d998414bb9b34cd25fafdc82"

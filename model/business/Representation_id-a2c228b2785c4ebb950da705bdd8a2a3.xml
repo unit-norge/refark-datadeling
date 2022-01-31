@@ -1,8 +1,7 @@
 <archimate:Representation
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Publisering av hendelser - basiskonsept UHF"
-    id="id-a2c228b2785c4ebb950da705bdd8a2a3"
-    documentation="Hendelsestrømmer kan implementeres som Hendelseslister eller en Publisert meldingskø (publiser/abonner)">
+    id="id-a2c228b2785c4ebb950da705bdd8a2a3">
   <properties
       key="modelx:antora_component"
       value="unit-ra"/>

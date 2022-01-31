@@ -1,8 +1,7 @@
 <archimate:Representation
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Generere og publisere notifikasjoner - Publiser og Abonner UHF "
-    id="id-e9431707b5184e4d94b20effecab6f7a"
-    documentation="Datatilbyder publiserer en notifikasjon til en Notifikasjonsdistubusjon i form av en publisering/abonneringsløsning">
+    id="id-e9431707b5184e4d94b20effecab6f7a">
   <properties
       key="modelx:antora_component"
       value="unit-ra"/>

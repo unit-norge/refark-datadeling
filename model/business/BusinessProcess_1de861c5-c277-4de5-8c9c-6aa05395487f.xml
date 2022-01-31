@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Videre behandling av notifikasjon"
     id="1de861c5-c277-4de5-8c9c-6aa05395487f"
-    documentation="Prosess med videre behandling av en notifikasjon som normalt vil være å innhente mer informasjon om hendelsen eller subjektet notifikasjonen er knyttet til og eventuelt agere ut i fra denne.">
+    documentation="Prosess med videre behandling av en notifikasjon som normalt vil være å innhente mer informasjon om hendelsen eller subjektet notifikasjonen er knyttet til og eventuelt agere ut ifra denne.">
   <properties
       key="difi:metaLevel"
       value="undefined"/>

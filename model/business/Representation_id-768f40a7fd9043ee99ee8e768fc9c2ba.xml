@@ -1,8 +1,7 @@
 <archimate:Representation
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Konsumer notifikasjoner - Publiser og Abonner UHF"
-    id="id-768f40a7fd9043ee99ee8e768fc9c2ba"
-    documentation="Datakonsumentlytter på emner som konsumenten abonnerer på hos  Datatilbyder. Når en ny melding kommer i meldingskøen trigges konsumsjonen av notifikasjonen.&#xD;&#xA;Datakonsumenten vurderer relevans og foretar videre behandling av notifikasjon&#xD;&#xA;&#xD;&#xA;Videre behandling består av å gjøre et eOppslag (via API) som beskrevet i &quot;Løsningsmønster forespørsel UHF&quot;">
+    id="id-768f40a7fd9043ee99ee8e768fc9c2ba">
   <properties
       key="modelx:antora_component"
       value="unit-ra"/>

@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Publisert Meldingskø"
     id="id-7d0ec1d3ea4649518bc9a3dac84c8b6c"
-    documentation="Meldingskø som inneholder  de meldingene publisert for en gitt abonnent av notifikasjoner om en gitt topic."/>
+    documentation="Meldingskø som inneholder meldinger publisert for en gitt abonnent av notifikasjoner om en gitt topic."/>

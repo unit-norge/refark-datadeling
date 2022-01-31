@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Generere og publisere notifikasjoner - Publiser og Abonner UHF "
     id="id-e1414817ab1b43eb9b6b784b6761bef9"
-    documentation="Datatilbyder publiserer en notifikasjon til en Notifikasjonsdistribusjon&#xD;&#xA;i form av en publisering/abonneringsløsning. Notifikasjonsdistribusjon&#xD;&#xA;er realisert som en publisert kø per abonnent med et emne.&#xD;&#xA;&#xD;&#xA;Datatilbyder publiserer notifikasjoner til disse køene når hendelser&#xD;&#xA;oppstår hos datatilbyder.&#xD;&#xA;&#xD;&#xA;Hver enkelt abonnent har en innboks som abonnenten konsumerer. Den&#xD;&#xA;publiserte meldingen er transient og forsvinner fra innboksen etter at&#xD;&#xA;den er konsumert.">
+    documentation="Datatilbyder publiserer en notifikasjon til en Notifikasjonsdistribusjon i form av en publisering/abonneringsløsning. Notifikasjonsdistribusjonen er realisert som en publisert kø per abonnent med et emne.&#xD;&#xA;&#xD;&#xA;Datatilbyder publiserer notifikasjoner til disse køene når hendelser&#xD;&#xA;oppstår hos datatilbyder.&#xD;&#xA;&#xD;&#xA;Hver enkelt abonnent har en innboks som abonnenten konsumerer. Den&#xD;&#xA;publiserte meldingen er transient og forsvinner fra innboksen etter at&#xD;&#xA;den er konsumert.">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-9b996a09ed85459cb6499207a8fcc512"

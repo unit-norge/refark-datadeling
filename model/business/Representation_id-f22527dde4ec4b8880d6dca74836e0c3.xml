@@ -1,8 +1,7 @@
 <archimate:Representation
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Inngå avtaler om tilgang og levering av hendelsesstrømmer - Publiser og Abonner UHF "
-    id="id-f22527dde4ec4b8880d6dca74836e0c3"
-    documentation="Datatibyder mottar forespørsel om å inngå avtale om tilgang og innhenting av hendelsesstrømmer&#xD;&#xA;Hendelsesstrømmen kan være i form av en hendelsesliste eller abonnement på et emne (publisert meldingskø)">
+    id="id-f22527dde4ec4b8880d6dca74836e0c3">
   <properties
       key="modelx:antora_component"
       value="unit-ra"/>

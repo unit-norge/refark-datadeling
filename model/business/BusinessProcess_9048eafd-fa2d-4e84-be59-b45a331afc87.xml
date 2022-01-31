@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Vurder relevans av notifikasjon"
     id="9048eafd-fa2d-4e84-be59-b45a331afc87"
-    documentation="Prosess med å vurdere om en hendelsen knyttet til lest notifikasjon er relevant for konsumenten.">
+    documentation="Prosess med å vurdere om hendelsen knyttet til lest notifikasjon er relevant for konsumenten.">
   <properties
       key="difi:metaLevel"
       value="undefined"/>

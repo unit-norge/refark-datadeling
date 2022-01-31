@@ -267,6 +267,9 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-78e89ef6030d4a14a872d889ca11bfcb"
         targetConnections="id-89b408a1b5014f1a9e1af937ea9862cc id-b5d140287b5749c1ac2731cb3450314c">
+      <features
+          name="lineAlpha"
+          value="99"/>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-9b5b4f34961747caa7a8cc87dd11bb69"
@@ -345,17 +348,6 @@
     <archimateElement
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_id-f3846a8caba746f99d2e0bf9ca3eaf40.xml#id-f3846a8caba746f99d2e0bf9ca3eaf40"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-ddf7bd2f050b480b9776491a6b9cd7e1"
-      textAlignment="1"
-      content="Vil det være situasjoner hvor vi ønsker å tillate oppdateringer når autoritativ kilde ikke er kjent?">
-    <bounds
-        x="732"
-        y="36"
-        width="169"
-        height="85"/>
   </children>
   <properties
       key="difi:language"
