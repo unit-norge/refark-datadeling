@@ -13,6 +13,9 @@
     <features
         name="gradient"
         value="1"/>
+    <features
+        name="lineAlpha"
+        value="99"/>
     <bounds
         x="540"
         y="72"

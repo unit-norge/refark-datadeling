@@ -124,6 +124,9 @@
       id="id-4790e2513d784d0f94d3038c060adfc1"
       textPosition="1"
       type="1">
+    <features
+        name="lineAlpha"
+        value="99"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-8e10100871064b1ea0130e74bbf871ce"

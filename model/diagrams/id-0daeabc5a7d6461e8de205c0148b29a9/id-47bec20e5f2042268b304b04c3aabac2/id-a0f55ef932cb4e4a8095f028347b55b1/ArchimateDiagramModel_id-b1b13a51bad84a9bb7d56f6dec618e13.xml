@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Be om oppdatering  - løsningsmønster i UHF sektoren "
     id="id-b1b13a51bad84a9bb7d56f6dec618e13"
-    documentation="Datatilbyder kan gjøre oppdatering av data tilgjengelig for&#xD;&#xA;datakonsument gjennom et API. Prosessen for en datakonsument å be om&#xD;&#xA;tilgang til oppdatering (se _Få tilgang til data_) og for en&#xD;&#xA;datatilbyder å gi tilgang til oppdatering (se _Tilgjengeliggjøre data&#xD;&#xA;etter forespørsel_) er tilsvarende som for tilgang til å lese data. Det&#xD;&#xA;vil ofte være forskjellige kriterier som må oppfylles for å få lov til å&#xD;&#xA;oppdatere data enn for å lese data. Dette kan inkludere både&#xD;&#xA;kvalitetssikring og juridiske hensyn.&#xD;&#xA;">
+    documentation="En prosessflyt en konsument utfører når det utføres et tjenestekall for å be om en oppdatering av data gjennom et API. API-adressen hentes i API-katalogen. Tilgang til APIet byttes inn mot et kjøretids-token i autoriseringstjenesten. Tjenestekall til APIet utføres gjennom API gateway der tokenet benyttes for å få tilgang. ">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-ea7619b84f3f418cbace752a079d62f5"
