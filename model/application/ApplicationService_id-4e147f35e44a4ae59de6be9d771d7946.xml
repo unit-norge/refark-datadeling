@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gi konsument adgang til data"
+    id="id-4e147f35e44a4ae59de6be9d771d7946"
+    documentation="Tjeneste for å gi datakonsument adgang til data. Tjenesten kan realiseres gjennom utveksling av data over aktuell transportprotokoll, f.eks, gjennom asynkrone medlinger eller synkrone API-oppslag. Tjenesten kan også realiseres ved å gi konsumenten adgang til data er de ligger, f.eks, innen forskning for analyse av store datamengder."/>

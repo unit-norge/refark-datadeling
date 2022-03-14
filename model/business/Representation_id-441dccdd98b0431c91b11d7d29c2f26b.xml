@@ -1,8 +1,8 @@
 <archimate:Representation
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Felleskomponenter"
+    name="Felleskomponenter tilbyr fellestjenester"
     id="id-441dccdd98b0431c91b11d7d29c2f26b"
-    documentation="Datadelingsplattformen består av felleskomponentene beskrevet under. De fleste felleskomponenter skal realiseres som fellestjenester med en delt instans. API gateway er en funksjonell beskrivelse av en komponent som skal realiseres med instanser nær datakildene som skal beskyttes.&#xD;&#xA;&#xD;&#xA;">
+    documentation="Datadelingsplattformen består av felleskomponentene beskrevet under. Disse komponentene tilbyr fellestjenestene benyttet i datadelingsprosessene som detaljeres i neste kapittel. De fleste felleskomponenter skal realiseres med en delt instans for  høyere utdannings- og forskningssektorene. API gateway er en funksjonell beskrivelse av en komponent som skal realiseres med instanser nær datakildene som skal beskyttes.&#xD;&#xA;&#xD;&#xA;">
   <properties
       key="dct:type"
       value="modelx:archimate_view"/>

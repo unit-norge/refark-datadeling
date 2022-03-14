@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Oppdater kilde etter forespørsel"
     id="id-f3846a8caba746f99d2e0bf9ca3eaf40"
-    documentation="Prosessen med å utføre oppdatering av data i en kilde. Omfatter å verifisering av konsumenten, rettighetene og masterdata status. "/>
+    documentation="Prosessen med å utføre oppdatering av data i en kilde. Omfatter verifisering av konsumenten, rettighetene og masterdata status. "/>

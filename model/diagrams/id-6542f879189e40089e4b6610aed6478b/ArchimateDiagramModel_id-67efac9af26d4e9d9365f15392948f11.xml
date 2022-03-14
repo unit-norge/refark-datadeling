@@ -120,7 +120,6 @@
           href="CompositionRelationship_id-e275005d75e6438695defa3266ef3385.xml#id-e275005d75e6438695defa3266ef3385"/>
     </sourceConnections>
     <bounds
-        y="12"
         width="1171"
         height="1777"/>
     <children
@@ -232,7 +231,7 @@
         </sourceConnections>
         <bounds
             x="12"
-            y="36"
+            y="24"
             width="121"
             height="71"/>
         <archimateElement
@@ -399,7 +398,7 @@
           id="id-2ddfa8ad7f534a60b939cbaef7f9c94c"
           targetConnections="id-f5503bf737b4423ab18d146598a7ab3c id-5dee4651597148f2941ecbda316ed00e">
         <bounds
-            x="648"
+            x="636"
             y="24"
             width="133"
             height="71"/>

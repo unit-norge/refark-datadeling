@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Informasjons-gjenfinning"
     id="id-637cd320fa834758856dd800c4fda7a0"
-    documentation="Hva organisasjonen gjør for å lokalisere, indeksere, katalogisere og publisere informasjon for både intern og ekstern bruk. Dette kan omfatte data som ikke oppbevares av organisasjonen.&#xD;&#xA;&#xD;&#xA;EUNIS: Information Search &amp; discovery">
+    documentation="Hva organisasjonen gjør for å lokalisere eksisterende informasjon for gjenbruk og viderebruk både internt og eksternt. Dette kan omfatte data som ikke oppbevares av organisasjonen.&#xD;&#xA;&#xD;&#xA;EUNIS: Information Search &amp; discovery">
   <properties
       key="difi:namespace"
       value="unit"/>

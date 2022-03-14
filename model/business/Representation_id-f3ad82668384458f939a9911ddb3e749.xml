@@ -1,7 +1,8 @@
 <archimate:Representation
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Datautveksling"
-    id="id-f3ad82668384458f939a9911ddb3e749">
+    id="id-f3ad82668384458f939a9911ddb3e749"
+    documentation="Fellestjenestene i datadelingsplattformen brukes i felles prosesser for å dele data. Gjennom å utføre en fellesprosess, vil en datakonsument eller en datatilbyder oppnå et evne (kapabilitet). Dette kapittelet beskriver de fellesprosessene som er definert for deling av data, og de evnene som oppnås. Prosessbeskrivelsen viser hvilke tjenester støtter prosessen, og hvilke komponenter realiserer tjenestene. Prosessbeskrivelsen viser også de sentrale forretningsobjekter og dataobjekter som benyttes og produseres underveis. Både tjenester og komponenter kan aksessere dataobjekter. &#xD;&#xA;&#xD;&#xA;Prosessbeskrivelsene er presentert i https://www.opengroup.org/archimate-forum/archimate-overview[ArchiMate modelleringsspråk]. Vår bruk av Archimate er beskrevet i Vedlegg F.&#xD;&#xA;">
   <properties
       key="dct:type"
       value="modelx:section"/>
